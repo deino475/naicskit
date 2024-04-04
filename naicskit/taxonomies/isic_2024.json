@@ -1,0 +1,4168 @@
+{
+    "taxonomy_level_codes": [
+        "1",
+        "3",
+        "4",
+        "5"
+    ],
+    "taxonomies": {
+        "1": [
+            {
+                "id": "A",
+                "name": "Agriculture, forestry and fishing",
+                "description": ""
+            },
+            {
+                "id": "B",
+                "name": "Mining and quarrying",
+                "description": ""
+            },
+            {
+                "id": "C",
+                "name": "Manufacturing",
+                "description": ""
+            },
+            {
+                "id": "D",
+                "name": "Electricity, gas, steam and air conditioning supply",
+                "description": ""
+            },
+            {
+                "id": "E",
+                "name": "Water supply; sewerage, waste management and remediation activities",
+                "description": ""
+            },
+            {
+                "id": "F",
+                "name": "Construction",
+                "description": ""
+            },
+            {
+                "id": "G",
+                "name": "Wholesale and retail trade",
+                "description": ""
+            },
+            {
+                "id": "H",
+                "name": "Transportation and storage",
+                "description": ""
+            },
+            {
+                "id": "I",
+                "name": "Accommodation and food service activities",
+                "description": ""
+            },
+            {
+                "id": "J",
+                "name": "Publishing, broadcasting, and content production and distribution activities",
+                "description": ""
+            },
+            {
+                "id": "K",
+                "name": "Telecommunications, computer programming, consultancy, computing infrastructure, and other information service activities",
+                "description": ""
+            },
+            {
+                "id": "L",
+                "name": "Financial and insurance activities",
+                "description": ""
+            },
+            {
+                "id": "M",
+                "name": "Real estate activities",
+                "description": ""
+            },
+            {
+                "id": "N",
+                "name": "Professional, scientific and technical activities",
+                "description": ""
+            },
+            {
+                "id": "O",
+                "name": "Administrative and support service activities",
+                "description": ""
+            },
+            {
+                "id": "P",
+                "name": "Public administration and defence; compulsory social security",
+                "description": ""
+            },
+            {
+                "id": "Q",
+                "name": "Education",
+                "description": ""
+            },
+            {
+                "id": "R",
+                "name": "Human health and social work activities",
+                "description": ""
+            },
+            {
+                "id": "S",
+                "name": "Arts, sports and recreation",
+                "description": ""
+            },
+            {
+                "id": "T",
+                "name": "Other service activities",
+                "description": ""
+            },
+            {
+                "id": "U",
+                "name": "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
+                "description": ""
+            },
+            {
+                "id": "V",
+                "name": "Activities of extraterritorial organizations and bodies",
+                "description": ""
+            }
+        ],
+        "3": [
+            {
+                "id": "A01",
+                "name": "Crop and animal production, hunting and related service activities",
+                "description": ""
+            },
+            {
+                "id": "A02",
+                "name": "Forestry and logging",
+                "description": ""
+            },
+            {
+                "id": "A03",
+                "name": "Fishing and aquaculture",
+                "description": ""
+            },
+            {
+                "id": "B05",
+                "name": "Mining of coal and lignite",
+                "description": ""
+            },
+            {
+                "id": "B06",
+                "name": "Extraction of crude petroleum and natural gas",
+                "description": ""
+            },
+            {
+                "id": "B07",
+                "name": "Mining of metal ores",
+                "description": ""
+            },
+            {
+                "id": "B08",
+                "name": "Other mining and quarrying",
+                "description": ""
+            },
+            {
+                "id": "B09",
+                "name": "Mining support service activities",
+                "description": ""
+            },
+            {
+                "id": "C10",
+                "name": "Manufacture of food products",
+                "description": ""
+            },
+            {
+                "id": "C11",
+                "name": "Manufacture of beverages",
+                "description": ""
+            },
+            {
+                "id": "C12",
+                "name": "Manufacture of tobacco products",
+                "description": ""
+            },
+            {
+                "id": "C13",
+                "name": "Manufacture of textiles",
+                "description": ""
+            },
+            {
+                "id": "C14",
+                "name": "Manufacture of wearing apparel",
+                "description": ""
+            },
+            {
+                "id": "C15",
+                "name": "Manufacture of leather and related products",
+                "description": ""
+            },
+            {
+                "id": "C16",
+                "name": "Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",
+                "description": ""
+            },
+            {
+                "id": "C17",
+                "name": "Manufacture of paper and paper products",
+                "description": ""
+            },
+            {
+                "id": "C18",
+                "name": "Printing and reproduction of recorded media",
+                "description": ""
+            },
+            {
+                "id": "C19",
+                "name": "Manufacture of coke and refined petroleum products",
+                "description": ""
+            },
+            {
+                "id": "C20",
+                "name": "Manufacture of chemicals and chemical products",
+                "description": ""
+            },
+            {
+                "id": "C21",
+                "name": "Manufacture of basic pharmaceutical products and pharmaceutical preparations",
+                "description": ""
+            },
+            {
+                "id": "C22",
+                "name": "Manufacture of rubber and plastic products",
+                "description": ""
+            },
+            {
+                "id": "C23",
+                "name": "Manufacture of other non-metallic mineral products",
+                "description": ""
+            },
+            {
+                "id": "C24",
+                "name": "Manufacture of basic metals",
+                "description": ""
+            },
+            {
+                "id": "C25",
+                "name": "Manufacture of fabricated metal products, except machinery and equipment",
+                "description": ""
+            },
+            {
+                "id": "C26",
+                "name": "Manufacture of computer, electronic and optical products",
+                "description": ""
+            },
+            {
+                "id": "C27",
+                "name": "Manufacture of electrical equipment",
+                "description": ""
+            },
+            {
+                "id": "C28",
+                "name": "Manufacture of machinery and equipment n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "C29",
+                "name": "Manufacture of motor vehicles, trailers and semi-trailers",
+                "description": ""
+            },
+            {
+                "id": "C30",
+                "name": "Manufacture of other transport equipment",
+                "description": ""
+            },
+            {
+                "id": "C31",
+                "name": "Manufacture of furniture",
+                "description": ""
+            },
+            {
+                "id": "C32",
+                "name": "Other manufacturing",
+                "description": ""
+            },
+            {
+                "id": "C33",
+                "name": "Repair, maintenance and installation of machinery and equipment",
+                "description": ""
+            },
+            {
+                "id": "D35",
+                "name": "Electricity, gas, steam and air conditioning supply",
+                "description": ""
+            },
+            {
+                "id": "E36",
+                "name": "Water collection, treatment and supply",
+                "description": ""
+            },
+            {
+                "id": "E37",
+                "name": "Sewerage",
+                "description": ""
+            },
+            {
+                "id": "E38",
+                "name": "Waste collection, treatment and disposal, and recovery activities",
+                "description": ""
+            },
+            {
+                "id": "E39",
+                "name": "Remediation and other waste management service activities",
+                "description": ""
+            },
+            {
+                "id": "F41",
+                "name": "Construction of residential and non-residential buildings",
+                "description": ""
+            },
+            {
+                "id": "F42",
+                "name": "Civil engineering",
+                "description": ""
+            },
+            {
+                "id": "F43",
+                "name": "Specialized construction activities",
+                "description": ""
+            },
+            {
+                "id": "G46",
+                "name": "Wholesale trade",
+                "description": ""
+            },
+            {
+                "id": "G47",
+                "name": "Retail trade",
+                "description": ""
+            },
+            {
+                "id": "H49",
+                "name": "Land transport and transport via pipelines",
+                "description": ""
+            },
+            {
+                "id": "H50",
+                "name": "Water transport",
+                "description": ""
+            },
+            {
+                "id": "H51",
+                "name": "Air transport",
+                "description": ""
+            },
+            {
+                "id": "H52",
+                "name": "Warehousing and support activities for transportation",
+                "description": ""
+            },
+            {
+                "id": "H53",
+                "name": "Postal and courier activities",
+                "description": ""
+            },
+            {
+                "id": "I55",
+                "name": "Accommodation",
+                "description": ""
+            },
+            {
+                "id": "I56",
+                "name": "Food and beverage service activities",
+                "description": ""
+            },
+            {
+                "id": "J58",
+                "name": "Publishing activities",
+                "description": ""
+            },
+            {
+                "id": "J59",
+                "name": "Motion picture, video and television programme production, sound recording and music publishing activities",
+                "description": ""
+            },
+            {
+                "id": "J60",
+                "name": "Programming, broadcasting, news agency and other content distribution activities",
+                "description": ""
+            },
+            {
+                "id": "K61",
+                "name": "Telecommunications",
+                "description": ""
+            },
+            {
+                "id": "K62",
+                "name": "Computer programming, consultancy and related activities",
+                "description": ""
+            },
+            {
+                "id": "K63",
+                "name": "Computing infrastructure, data processing, hosting, and other information service activities",
+                "description": ""
+            },
+            {
+                "id": "L64",
+                "name": "Financial service activities, except insurance and pension funding",
+                "description": ""
+            },
+            {
+                "id": "L65",
+                "name": "Insurance, reinsurance and pension funding, except compulsory social security",
+                "description": ""
+            },
+            {
+                "id": "L66",
+                "name": "Activities auxiliary to financial service and insurance activities",
+                "description": ""
+            },
+            {
+                "id": "M68",
+                "name": "Real estate activities",
+                "description": ""
+            },
+            {
+                "id": "N69",
+                "name": "Legal and accounting activities",
+                "description": ""
+            },
+            {
+                "id": "N70",
+                "name": "Activities of head offices; management consultancy activities",
+                "description": ""
+            },
+            {
+                "id": "N71",
+                "name": "Architectural and engineering activities; technical testing and analysis",
+                "description": ""
+            },
+            {
+                "id": "N72",
+                "name": "Scientific research and development",
+                "description": ""
+            },
+            {
+                "id": "N73",
+                "name": "Activities of advertising, market research and public relations",
+                "description": ""
+            },
+            {
+                "id": "N74",
+                "name": "Other professional, scientific and technical activities",
+                "description": ""
+            },
+            {
+                "id": "N75",
+                "name": "Veterinary activities",
+                "description": ""
+            },
+            {
+                "id": "O77",
+                "name": "Rental and leasing activities",
+                "description": ""
+            },
+            {
+                "id": "O78",
+                "name": "Employment activities",
+                "description": ""
+            },
+            {
+                "id": "O79",
+                "name": "Travel agency, tour operator, and other travel related activities",
+                "description": ""
+            },
+            {
+                "id": "O80",
+                "name": "Investigation and security activities",
+                "description": ""
+            },
+            {
+                "id": "O81",
+                "name": "Services to buildings and landscape activities",
+                "description": ""
+            },
+            {
+                "id": "O82",
+                "name": "Office administrative, office support and other business support activities",
+                "description": ""
+            },
+            {
+                "id": "P84",
+                "name": "Public administration and defence; compulsory social security",
+                "description": ""
+            },
+            {
+                "id": "Q85",
+                "name": "Education",
+                "description": ""
+            },
+            {
+                "id": "R86",
+                "name": "Human health activities",
+                "description": ""
+            },
+            {
+                "id": "R87",
+                "name": "Residential care activities",
+                "description": ""
+            },
+            {
+                "id": "R88",
+                "name": "Social work activities without accommodation",
+                "description": ""
+            },
+            {
+                "id": "S90",
+                "name": "Arts creation and performing arts activities",
+                "description": ""
+            },
+            {
+                "id": "S91",
+                "name": "Library, archives, museum and other cultural activities",
+                "description": ""
+            },
+            {
+                "id": "S92",
+                "name": "Gambling and betting activities",
+                "description": ""
+            },
+            {
+                "id": "S93",
+                "name": "Sports activities and amusement and recreation activities",
+                "description": ""
+            },
+            {
+                "id": "T94",
+                "name": "Activities of membership organizations",
+                "description": ""
+            },
+            {
+                "id": "T95",
+                "name": "Repair and maintenance of computers, personal and household goods, and motor vehicles and motorcycles",
+                "description": ""
+            },
+            {
+                "id": "T96",
+                "name": "Personal service activities",
+                "description": ""
+            },
+            {
+                "id": "U97",
+                "name": "Activities of households as employers of domestic personnel",
+                "description": ""
+            },
+            {
+                "id": "U98",
+                "name": "Undifferentiated goods- and services-producing activities of private households for own use",
+                "description": ""
+            },
+            {
+                "id": "V99",
+                "name": "Activities of extraterritorial organizations and bodies",
+                "description": ""
+            }
+        ],
+        "4": [
+            {
+                "id": "A011",
+                "name": "Growing of non-perennial crops",
+                "description": ""
+            },
+            {
+                "id": "A012",
+                "name": "Growing of perennial crops",
+                "description": ""
+            },
+            {
+                "id": "A013",
+                "name": "Plant propagation",
+                "description": ""
+            },
+            {
+                "id": "A014",
+                "name": "Animal production",
+                "description": ""
+            },
+            {
+                "id": "A015",
+                "name": "Mixed farming",
+                "description": ""
+            },
+            {
+                "id": "A016",
+                "name": "Support activities to agriculture and post-harvest crop activities",
+                "description": ""
+            },
+            {
+                "id": "A017",
+                "name": "Hunting, trapping and related service activities",
+                "description": ""
+            },
+            {
+                "id": "A021",
+                "name": "Silviculture and other forestry activities",
+                "description": ""
+            },
+            {
+                "id": "A022",
+                "name": "Logging",
+                "description": ""
+            },
+            {
+                "id": "A023",
+                "name": "Gathering of non-wood forest products",
+                "description": ""
+            },
+            {
+                "id": "A024",
+                "name": "Support services to forestry",
+                "description": ""
+            },
+            {
+                "id": "A031",
+                "name": "Fishing",
+                "description": ""
+            },
+            {
+                "id": "A032",
+                "name": "Aquaculture",
+                "description": ""
+            },
+            {
+                "id": "A033",
+                "name": "Support activities for fishing and aquaculture",
+                "description": ""
+            },
+            {
+                "id": "B051",
+                "name": "Mining of hard coal",
+                "description": ""
+            },
+            {
+                "id": "B052",
+                "name": "Mining of lignite",
+                "description": ""
+            },
+            {
+                "id": "B061",
+                "name": "Extraction of crude petroleum",
+                "description": ""
+            },
+            {
+                "id": "B062",
+                "name": "Extraction of natural gas",
+                "description": ""
+            },
+            {
+                "id": "B071",
+                "name": "Mining of iron ores",
+                "description": ""
+            },
+            {
+                "id": "B072",
+                "name": "Mining of non-ferrous metal ores",
+                "description": ""
+            },
+            {
+                "id": "B081",
+                "name": "Quarrying of stone, sand and clay",
+                "description": ""
+            },
+            {
+                "id": "B089",
+                "name": "Mining and quarrying n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "B091",
+                "name": "Support activities for petroleum and natural gas extraction",
+                "description": ""
+            },
+            {
+                "id": "B099",
+                "name": "Support activities for other mining and quarrying",
+                "description": ""
+            },
+            {
+                "id": "C101",
+                "name": "Processing and preserving of meat",
+                "description": ""
+            },
+            {
+                "id": "C102",
+                "name": "Processing and preserving of fish, crustaceans and molluscs",
+                "description": ""
+            },
+            {
+                "id": "C103",
+                "name": "Processing and preserving of fruit and vegetables",
+                "description": ""
+            },
+            {
+                "id": "C104",
+                "name": "Manufacture of vegetable and animal oils and fats",
+                "description": ""
+            },
+            {
+                "id": "C105",
+                "name": "Manufacture of dairy products",
+                "description": ""
+            },
+            {
+                "id": "C106",
+                "name": "Manufacture of grain mill products, starches and starch products",
+                "description": ""
+            },
+            {
+                "id": "C107",
+                "name": "Manufacture of other food products",
+                "description": ""
+            },
+            {
+                "id": "C108",
+                "name": "Manufacture of prepared animal feeds",
+                "description": ""
+            },
+            {
+                "id": "C110",
+                "name": "Manufacture of beverages",
+                "description": ""
+            },
+            {
+                "id": "C120",
+                "name": "Manufacture of tobacco products",
+                "description": ""
+            },
+            {
+                "id": "C131",
+                "name": "Spinning, weaving and finishing of textiles",
+                "description": ""
+            },
+            {
+                "id": "C139",
+                "name": "Manufacture of other textiles",
+                "description": ""
+            },
+            {
+                "id": "C141",
+                "name": "Manufacture of wearing apparel, except fur apparel",
+                "description": ""
+            },
+            {
+                "id": "C142",
+                "name": "Manufacture of articles of fur",
+                "description": ""
+            },
+            {
+                "id": "C143",
+                "name": "Manufacture of knitted and crocheted apparel",
+                "description": ""
+            },
+            {
+                "id": "C151",
+                "name": "Tanning, dyeing, dressing of leather and fur; manufacture of luggage, handbags, saddlery and harness",
+                "description": ""
+            },
+            {
+                "id": "C152",
+                "name": "Manufacture of footwear",
+                "description": ""
+            },
+            {
+                "id": "C161",
+                "name": "Sawmilling and planing of wood",
+                "description": ""
+            },
+            {
+                "id": "C162",
+                "name": "Manufacture of products of wood, cork, straw and plaiting materials",
+                "description": ""
+            },
+            {
+                "id": "C170",
+                "name": "Manufacture of paper and paper products",
+                "description": ""
+            },
+            {
+                "id": "C181",
+                "name": "Printing and service activities related to printing",
+                "description": ""
+            },
+            {
+                "id": "C182",
+                "name": "Reproduction of recorded media",
+                "description": ""
+            },
+            {
+                "id": "C191",
+                "name": "Manufacture of coke oven products",
+                "description": ""
+            },
+            {
+                "id": "C192",
+                "name": "Manufacture of refined petroleum products; manufacture of fossil fuel products",
+                "description": ""
+            },
+            {
+                "id": "C201",
+                "name": "Manufacture of basic chemicals, fertilizers and nitrogen compounds, plastics and synthetic rubber in primary forms",
+                "description": ""
+            },
+            {
+                "id": "C202",
+                "name": "Manufacture of other chemical products",
+                "description": ""
+            },
+            {
+                "id": "C203",
+                "name": "Manufacture of man-made fibres",
+                "description": ""
+            },
+            {
+                "id": "C210",
+                "name": "Manufacture of pharmaceuticals, medicinal chemical and botanical products",
+                "description": ""
+            },
+            {
+                "id": "C221",
+                "name": "Manufacture of rubber products",
+                "description": ""
+            },
+            {
+                "id": "C222",
+                "name": "Manufacture of plastics products",
+                "description": ""
+            },
+            {
+                "id": "C231",
+                "name": "Manufacture of glass and glass products",
+                "description": ""
+            },
+            {
+                "id": "C239",
+                "name": "Manufacture of non-metallic mineral products n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "C241",
+                "name": "Manufacture of basic iron and steel",
+                "description": ""
+            },
+            {
+                "id": "C242",
+                "name": "Manufacture of basic precious and other non-ferrous metals",
+                "description": ""
+            },
+            {
+                "id": "C243",
+                "name": "Casting of metals",
+                "description": ""
+            },
+            {
+                "id": "C251",
+                "name": "Manufacture of structural metal products, tanks, reservoirs and steam generators",
+                "description": ""
+            },
+            {
+                "id": "C252",
+                "name": "Manufacture of weapons and ammunition",
+                "description": ""
+            },
+            {
+                "id": "C259",
+                "name": "Manufacture of other fabricated metal products; metalworking service activities",
+                "description": ""
+            },
+            {
+                "id": "C261",
+                "name": "Manufacture of electronic components and boards",
+                "description": ""
+            },
+            {
+                "id": "C262",
+                "name": "Manufacture of computers and peripheral equipment",
+                "description": ""
+            },
+            {
+                "id": "C263",
+                "name": "Manufacture of communication equipment",
+                "description": ""
+            },
+            {
+                "id": "C264",
+                "name": "Manufacture of consumer electronics",
+                "description": ""
+            },
+            {
+                "id": "C265",
+                "name": "Manufacture of measuring, testing, navigating and control equipment; watches and clocks",
+                "description": ""
+            },
+            {
+                "id": "C266",
+                "name": "Manufacture of irradiation, electromedical and electrotherapeutic equipment",
+                "description": ""
+            },
+            {
+                "id": "C267",
+                "name": "Manufacture of optical instruments and photographic equipment",
+                "description": ""
+            },
+            {
+                "id": "C268",
+                "name": "Manufacture of magnetic and optical media",
+                "description": ""
+            },
+            {
+                "id": "C271",
+                "name": "Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus",
+                "description": ""
+            },
+            {
+                "id": "C272",
+                "name": "Manufacture of batteries and accumulators",
+                "description": ""
+            },
+            {
+                "id": "C273",
+                "name": "Manufacture of wiring and wiring devices",
+                "description": ""
+            },
+            {
+                "id": "C274",
+                "name": "Manufacture of lighting equipment",
+                "description": ""
+            },
+            {
+                "id": "C275",
+                "name": "Manufacture of domestic appliances",
+                "description": ""
+            },
+            {
+                "id": "C279",
+                "name": "Manufacture of other electrical equipment",
+                "description": ""
+            },
+            {
+                "id": "C281",
+                "name": "Manufacture of general-purpose machinery",
+                "description": ""
+            },
+            {
+                "id": "C282",
+                "name": "Manufacture of special-purpose machinery",
+                "description": ""
+            },
+            {
+                "id": "C291",
+                "name": "Manufacture of motor vehicles",
+                "description": ""
+            },
+            {
+                "id": "C292",
+                "name": "Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers",
+                "description": ""
+            },
+            {
+                "id": "C293",
+                "name": "Manufacture of parts and accessories for motor vehicles",
+                "description": ""
+            },
+            {
+                "id": "C301",
+                "name": "Building of ships and boats",
+                "description": ""
+            },
+            {
+                "id": "C302",
+                "name": "Manufacture of railway locomotives and rolling stock",
+                "description": ""
+            },
+            {
+                "id": "C303",
+                "name": "Manufacture of air and spacecraft and related machinery",
+                "description": ""
+            },
+            {
+                "id": "C304",
+                "name": "Manufacture of military fighting vehicles",
+                "description": ""
+            },
+            {
+                "id": "C309",
+                "name": "Manufacture of transport equipment n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "C310",
+                "name": "Manufacture of furniture",
+                "description": ""
+            },
+            {
+                "id": "C321",
+                "name": "Manufacture of jewellery, bijouterie and related articles",
+                "description": ""
+            },
+            {
+                "id": "C322",
+                "name": "Manufacture of musical instruments",
+                "description": ""
+            },
+            {
+                "id": "C323",
+                "name": "Manufacture of sports goods",
+                "description": ""
+            },
+            {
+                "id": "C324",
+                "name": "Manufacture of games and toys",
+                "description": ""
+            },
+            {
+                "id": "C325",
+                "name": "Manufacture of medical and dental instruments and supplies",
+                "description": ""
+            },
+            {
+                "id": "C329",
+                "name": "Other manufacturing n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "C331",
+                "name": "Repair and maintenance of fabricated metal products, machinery and equipment",
+                "description": ""
+            },
+            {
+                "id": "C332",
+                "name": "Installation of industrial machinery and equipment",
+                "description": ""
+            },
+            {
+                "id": "D351",
+                "name": "Electric power generation, transmission and distribution activities",
+                "description": ""
+            },
+            {
+                "id": "D352",
+                "name": "Manufacture of gas; distribution of gaseous fuels through mains",
+                "description": ""
+            },
+            {
+                "id": "D353",
+                "name": "Steam and air conditioning supply",
+                "description": ""
+            },
+            {
+                "id": "D354",
+                "name": "Activities of brokers and agents for electric power and natural gas",
+                "description": ""
+            },
+            {
+                "id": "E360",
+                "name": "Water collection, treatment and supply",
+                "description": ""
+            },
+            {
+                "id": "E370",
+                "name": "Sewerage",
+                "description": ""
+            },
+            {
+                "id": "E381",
+                "name": "Waste collection activities",
+                "description": ""
+            },
+            {
+                "id": "E382",
+                "name": "Waste treatment and disposal",
+                "description": ""
+            },
+            {
+                "id": "E383",
+                "name": "Materials and other waste recovery",
+                "description": ""
+            },
+            {
+                "id": "E390",
+                "name": "Remediation and other waste management service activities",
+                "description": ""
+            },
+            {
+                "id": "F410",
+                "name": "Construction of residential and non-residential buildings",
+                "description": ""
+            },
+            {
+                "id": "F421",
+                "name": "Construction of roads and railways",
+                "description": ""
+            },
+            {
+                "id": "F422",
+                "name": "Construction of utility projects",
+                "description": ""
+            },
+            {
+                "id": "F429",
+                "name": "Construction of other civil engineering projects",
+                "description": ""
+            },
+            {
+                "id": "F431",
+                "name": "Demolition and site preparation",
+                "description": ""
+            },
+            {
+                "id": "F432",
+                "name": "Electrical, plumbing and other construction installation activities",
+                "description": ""
+            },
+            {
+                "id": "F433",
+                "name": "Building completion and finishing",
+                "description": ""
+            },
+            {
+                "id": "F434",
+                "name": "Intermediation service activities for specialized construction services",
+                "description": ""
+            },
+            {
+                "id": "F439",
+                "name": "Other specialized construction activities",
+                "description": ""
+            },
+            {
+                "id": "G461",
+                "name": "Wholesale on a fee or contract basis",
+                "description": ""
+            },
+            {
+                "id": "G462",
+                "name": "Wholesale of agricultural raw materials and live animals",
+                "description": ""
+            },
+            {
+                "id": "G463",
+                "name": "Wholesale of food, beverages and tobacco",
+                "description": ""
+            },
+            {
+                "id": "G464",
+                "name": "Wholesale of household goods",
+                "description": ""
+            },
+            {
+                "id": "G465",
+                "name": "Wholesale of machinery, equipment and supplies",
+                "description": ""
+            },
+            {
+                "id": "G466",
+                "name": "Wholesale of motor vehicles, motorcycles and related parts and accessories",
+                "description": ""
+            },
+            {
+                "id": "G467",
+                "name": "Other specialized wholesale",
+                "description": ""
+            },
+            {
+                "id": "G469",
+                "name": "Non-specialized wholesale trade",
+                "description": ""
+            },
+            {
+                "id": "G471",
+                "name": "Non-specialized retail sale",
+                "description": ""
+            },
+            {
+                "id": "G472",
+                "name": "Retail sale of food, beverages and tobacco",
+                "description": ""
+            },
+            {
+                "id": "G473",
+                "name": "Retail sale of automotive fuel",
+                "description": ""
+            },
+            {
+                "id": "G474",
+                "name": "Retail sale of information and communication equipment",
+                "description": ""
+            },
+            {
+                "id": "G475",
+                "name": "Retail sale of other household equipment",
+                "description": ""
+            },
+            {
+                "id": "G476",
+                "name": "Retail sale of cultural and recreational goods",
+                "description": ""
+            },
+            {
+                "id": "G477",
+                "name": "Retail sale of other goods, except motor vehicles and motorcycles",
+                "description": ""
+            },
+            {
+                "id": "G478",
+                "name": "Retail sale of motor vehicles, motorcycles and related parts and accessories",
+                "description": ""
+            },
+            {
+                "id": "G479",
+                "name": "Intermediation service activities for retail sale",
+                "description": ""
+            },
+            {
+                "id": "H491",
+                "name": "Transport via railways",
+                "description": ""
+            },
+            {
+                "id": "H492",
+                "name": "Other land transport",
+                "description": ""
+            },
+            {
+                "id": "H493",
+                "name": "Transport via pipeline",
+                "description": ""
+            },
+            {
+                "id": "H501",
+                "name": "Sea and coastal water transport",
+                "description": ""
+            },
+            {
+                "id": "H502",
+                "name": "Inland water transport",
+                "description": ""
+            },
+            {
+                "id": "H511",
+                "name": "Passenger air transport",
+                "description": ""
+            },
+            {
+                "id": "H512",
+                "name": "Freight air transport",
+                "description": ""
+            },
+            {
+                "id": "H521",
+                "name": "Warehousing and storage",
+                "description": ""
+            },
+            {
+                "id": "H522",
+                "name": "Support activities for transportation",
+                "description": ""
+            },
+            {
+                "id": "H523",
+                "name": "Intermediation service activities for transportation",
+                "description": ""
+            },
+            {
+                "id": "H531",
+                "name": "Postal activities",
+                "description": ""
+            },
+            {
+                "id": "H532",
+                "name": "Courier activities",
+                "description": ""
+            },
+            {
+                "id": "H533",
+                "name": "Intermediation service activities for postal and courier activities",
+                "description": ""
+            },
+            {
+                "id": "I551",
+                "name": "Hotels and similar accommodation activities",
+                "description": ""
+            },
+            {
+                "id": "I552",
+                "name": "Other short term accommodation activities",
+                "description": ""
+            },
+            {
+                "id": "I553",
+                "name": "Camping grounds, recreational vehicle parks and trailer parks",
+                "description": ""
+            },
+            {
+                "id": "I554",
+                "name": "Intermediation service activities for accommodation",
+                "description": ""
+            },
+            {
+                "id": "I559",
+                "name": "Other accommodation n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "I561",
+                "name": "Restaurants and mobile food service activities",
+                "description": ""
+            },
+            {
+                "id": "I562",
+                "name": "Event catering and other food service activities",
+                "description": ""
+            },
+            {
+                "id": "I563",
+                "name": "Beverage serving activities",
+                "description": ""
+            },
+            {
+                "id": "I564",
+                "name": "Intermediation service activities for food and beverage services activities",
+                "description": ""
+            },
+            {
+                "id": "J581",
+                "name": "Publishing of books, newspapers, periodicals and other publishing activities",
+                "description": ""
+            },
+            {
+                "id": "J582",
+                "name": "Software publishing",
+                "description": ""
+            },
+            {
+                "id": "J591",
+                "name": "Motion picture, video and television programme activities",
+                "description": ""
+            },
+            {
+                "id": "J592",
+                "name": "Sound recording and music publishing activities",
+                "description": ""
+            },
+            {
+                "id": "J601",
+                "name": "Radio broadcasting and audio distribution activities",
+                "description": ""
+            },
+            {
+                "id": "J602",
+                "name": "Television programming, broadcasting and video distribution activities",
+                "description": ""
+            },
+            {
+                "id": "J603",
+                "name": "News agency and other content distribution activities",
+                "description": ""
+            },
+            {
+                "id": "K611",
+                "name": "Wired, wireless, and satellite telecommunication activities",
+                "description": ""
+            },
+            {
+                "id": "K612",
+                "name": "Telecommunication reselling\ufffdactivities\ufffdand intermediation service\ufffdactivities\ufffdfor telecommunication",
+                "description": ""
+            },
+            {
+                "id": "K619",
+                "name": "Other telecommunication activities",
+                "description": ""
+            },
+            {
+                "id": "K621",
+                "name": "Computer programming activities",
+                "description": ""
+            },
+            {
+                "id": "K622",
+                "name": "Computer consultancy and computer facilities management activities",
+                "description": ""
+            },
+            {
+                "id": "K629",
+                "name": "Other information technology and computer service activities",
+                "description": ""
+            },
+            {
+                "id": "K631",
+                "name": "Computing infrastructure, data processing, hosting and related activities",
+                "description": ""
+            },
+            {
+                "id": "K639",
+                "name": "Web search portals activities and other information service activities",
+                "description": ""
+            },
+            {
+                "id": "L641",
+                "name": "Monetary intermediation",
+                "description": ""
+            },
+            {
+                "id": "L642",
+                "name": "Activities of holding companies and financing conduits",
+                "description": ""
+            },
+            {
+                "id": "L643",
+                "name": "Activities of trusts, funds and similar financial entities",
+                "description": ""
+            },
+            {
+                "id": "L649",
+                "name": "Other financial service activities, except insurance and pension funding activities",
+                "description": ""
+            },
+            {
+                "id": "L651",
+                "name": "Insurance",
+                "description": ""
+            },
+            {
+                "id": "L652",
+                "name": "Reinsurance",
+                "description": ""
+            },
+            {
+                "id": "L653",
+                "name": "Pension funding",
+                "description": ""
+            },
+            {
+                "id": "L661",
+                "name": "Activities auxiliary to financial services, except insurance and pension funding",
+                "description": ""
+            },
+            {
+                "id": "L662",
+                "name": "Activities auxiliary to insurance and pension funding",
+                "description": ""
+            },
+            {
+                "id": "L663",
+                "name": "Fund management activities",
+                "description": ""
+            },
+            {
+                "id": "M681",
+                "name": "Real estate activities with own or leased property",
+                "description": ""
+            },
+            {
+                "id": "M682",
+                "name": "Real estate activities on a fee or contract basis",
+                "description": ""
+            },
+            {
+                "id": "N691",
+                "name": "Legal activities",
+                "description": ""
+            },
+            {
+                "id": "N692",
+                "name": "Accounting, bookkeeping and auditing activities; tax consultancy",
+                "description": ""
+            },
+            {
+                "id": "N701",
+                "name": "Activities of head offices",
+                "description": ""
+            },
+            {
+                "id": "N702",
+                "name": "Business and other management consultancy activities",
+                "description": ""
+            },
+            {
+                "id": "N711",
+                "name": "Architectural and engineering, and related technical consultancy activities",
+                "description": ""
+            },
+            {
+                "id": "N712",
+                "name": "Technical testing and analysis",
+                "description": ""
+            },
+            {
+                "id": "N721",
+                "name": "Research and experimental development on natural sciences and engineering",
+                "description": ""
+            },
+            {
+                "id": "N722",
+                "name": "Research and experimental development on social sciences and humanities",
+                "description": ""
+            },
+            {
+                "id": "N731",
+                "name": "Advertising activities",
+                "description": ""
+            },
+            {
+                "id": "N732",
+                "name": "Market research and public opinion polling activities",
+                "description": ""
+            },
+            {
+                "id": "N733",
+                "name": "Public relations activities",
+                "description": ""
+            },
+            {
+                "id": "N741",
+                "name": "Specialized design activities",
+                "description": ""
+            },
+            {
+                "id": "N742",
+                "name": "Photographic activities",
+                "description": ""
+            },
+            {
+                "id": "N743",
+                "name": "Translation and interpretation activities",
+                "description": ""
+            },
+            {
+                "id": "N749",
+                "name": "Other professional, scientific and technical activities n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "N750",
+                "name": "Veterinary activities",
+                "description": ""
+            },
+            {
+                "id": "O771",
+                "name": "Rental and leasing of motor vehicles",
+                "description": ""
+            },
+            {
+                "id": "O772",
+                "name": "Rental and leasing of personal and household goods",
+                "description": ""
+            },
+            {
+                "id": "O773",
+                "name": "Rental and leasing of other machinery, equipment and tangible goods",
+                "description": ""
+            },
+            {
+                "id": "O774",
+                "name": "Leasing of intellectual property and similar products, except copyrighted works",
+                "description": ""
+            },
+            {
+                "id": "O775",
+                "name": "Intermediation service activities for rental and leasing of tangible goods and non-financial intangible assets",
+                "description": ""
+            },
+            {
+                "id": "O781",
+                "name": "Activities of employment placement agencies",
+                "description": ""
+            },
+            {
+                "id": "O782",
+                "name": "Temporary employment agency activities and other human resource provisions",
+                "description": ""
+            },
+            {
+                "id": "O791",
+                "name": "Travel agency and tour operator activities",
+                "description": ""
+            },
+            {
+                "id": "O799",
+                "name": "Other travel related activities",
+                "description": ""
+            },
+            {
+                "id": "O801",
+                "name": "Investigation and security activities",
+                "description": ""
+            },
+            {
+                "id": "O811",
+                "name": "Combined facilities support activities",
+                "description": ""
+            },
+            {
+                "id": "O812",
+                "name": "Cleaning activities",
+                "description": ""
+            },
+            {
+                "id": "O813",
+                "name": "Landscape service activities",
+                "description": ""
+            },
+            {
+                "id": "O821",
+                "name": "Office administrative and support activities",
+                "description": ""
+            },
+            {
+                "id": "O822",
+                "name": "Activities of call centres",
+                "description": ""
+            },
+            {
+                "id": "O823",
+                "name": "Organization of conventions and trade shows",
+                "description": ""
+            },
+            {
+                "id": "O824",
+                "name": "Intermediation service activities for business support service activities n.e.c., except financial intermediation",
+                "description": ""
+            },
+            {
+                "id": "O829",
+                "name": "Business support service activities n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "P841",
+                "name": "Administration of the State and the economic, social and environmental policies of the community",
+                "description": ""
+            },
+            {
+                "id": "P842",
+                "name": "Provision of services to the community as a whole",
+                "description": ""
+            },
+            {
+                "id": "P843",
+                "name": "Compulsory social security activities",
+                "description": ""
+            },
+            {
+                "id": "Q851",
+                "name": "Pre-primary education",
+                "description": ""
+            },
+            {
+                "id": "Q852",
+                "name": "Primary education",
+                "description": ""
+            },
+            {
+                "id": "Q853",
+                "name": "Secondary and post-secondary non-tertiary education",
+                "description": ""
+            },
+            {
+                "id": "Q854",
+                "name": "Tertiary education",
+                "description": ""
+            },
+            {
+                "id": "Q855",
+                "name": "Other education",
+                "description": ""
+            },
+            {
+                "id": "Q856",
+                "name": "Educational support activities",
+                "description": ""
+            },
+            {
+                "id": "R861",
+                "name": "Hospital activities",
+                "description": ""
+            },
+            {
+                "id": "R862",
+                "name": "Medical and dental practice activities",
+                "description": ""
+            },
+            {
+                "id": "R869",
+                "name": "Other human health activities",
+                "description": ""
+            },
+            {
+                "id": "R871",
+                "name": "Residential nursing care activities",
+                "description": ""
+            },
+            {
+                "id": "R872",
+                "name": "Residential care activities for persons living with or having a diagnosis of a mental illness or substance abuse",
+                "description": ""
+            },
+            {
+                "id": "R873",
+                "name": "Residential care activities for older persons or persons with physical disabilities",
+                "description": ""
+            },
+            {
+                "id": "R879",
+                "name": "Other residential care activities",
+                "description": ""
+            },
+            {
+                "id": "R881",
+                "name": "Social work activities without accommodation for older persons or persons with disabilities",
+                "description": ""
+            },
+            {
+                "id": "R889",
+                "name": "Other social work activities without accommodation",
+                "description": ""
+            },
+            {
+                "id": "S901",
+                "name": "Arts creation activities",
+                "description": ""
+            },
+            {
+                "id": "S902",
+                "name": "Activities of performing arts",
+                "description": ""
+            },
+            {
+                "id": "S903",
+                "name": "Support activities to arts creation and performing arts",
+                "description": ""
+            },
+            {
+                "id": "S911",
+                "name": "Library and archives activities",
+                "description": ""
+            },
+            {
+                "id": "S912",
+                "name": "Museum, collection, historical site and monument activities",
+                "description": ""
+            },
+            {
+                "id": "S913",
+                "name": "Conservation, restoration and other support activities for cultural heritage",
+                "description": ""
+            },
+            {
+                "id": "S914",
+                "name": "Botanical and zoological garden and nature reserve activities",
+                "description": ""
+            },
+            {
+                "id": "S920",
+                "name": "Gambling and betting activities",
+                "description": ""
+            },
+            {
+                "id": "S931",
+                "name": "Sports activities",
+                "description": ""
+            },
+            {
+                "id": "S932",
+                "name": "Amusement and recreation activities",
+                "description": ""
+            },
+            {
+                "id": "T941",
+                "name": "Activities of business, employers and professional membership organizations",
+                "description": ""
+            },
+            {
+                "id": "T942",
+                "name": "Activities of trade unions",
+                "description": ""
+            },
+            {
+                "id": "T949",
+                "name": "Activities of other membership organizations",
+                "description": ""
+            },
+            {
+                "id": "T951",
+                "name": "Repair and maintenance of computers and communication equipment",
+                "description": ""
+            },
+            {
+                "id": "T952",
+                "name": "Repair and maintenance of personal and household goods",
+                "description": ""
+            },
+            {
+                "id": "T953",
+                "name": "Repair and maintenance of motor vehicles and motorcycles",
+                "description": ""
+            },
+            {
+                "id": "T954",
+                "name": "Intermediation service activities for repair and maintenance of computers, personal and household goods, and motor vehicles and motorcycles",
+                "description": ""
+            },
+            {
+                "id": "T961",
+                "name": "Washing and cleaning of textile and fur products",
+                "description": ""
+            },
+            {
+                "id": "T962",
+                "name": "Hairdressing, beauty treatment, day spa and similar activities",
+                "description": ""
+            },
+            {
+                "id": "T963",
+                "name": "Funeral and related activities",
+                "description": ""
+            },
+            {
+                "id": "T964",
+                "name": "Intermediation service activities for personal services",
+                "description": ""
+            },
+            {
+                "id": "T969",
+                "name": "Other personal service activities n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "U970",
+                "name": "Activities of households as employers of domestic personnel",
+                "description": ""
+            },
+            {
+                "id": "U981",
+                "name": "Undifferentiated goods-producing activities of private households for own use",
+                "description": ""
+            },
+            {
+                "id": "U982",
+                "name": "Undifferentiated service-producing activities of private households for own use",
+                "description": ""
+            },
+            {
+                "id": "V990",
+                "name": "Activities of extraterritorial organizations and bodies",
+                "description": ""
+            }
+        ],
+        "5": [
+            {
+                "id": "A0111",
+                "name": "Growing of cereals (except rice), leguminous crops and oil seeds",
+                "description": ""
+            },
+            {
+                "id": "A0112",
+                "name": "Growing of rice",
+                "description": ""
+            },
+            {
+                "id": "A0113",
+                "name": "Growing of vegetables and melons, roots and tubers",
+                "description": ""
+            },
+            {
+                "id": "A0114",
+                "name": "Growing of sugar cane",
+                "description": ""
+            },
+            {
+                "id": "A0115",
+                "name": "Growing of tobacco",
+                "description": ""
+            },
+            {
+                "id": "A0116",
+                "name": "Growing of fibre crops",
+                "description": ""
+            },
+            {
+                "id": "A0119",
+                "name": "Growing of other non-perennial crops",
+                "description": ""
+            },
+            {
+                "id": "A0121",
+                "name": "Growing of grapes",
+                "description": ""
+            },
+            {
+                "id": "A0122",
+                "name": "Growing of tropical and subtropical fruits",
+                "description": ""
+            },
+            {
+                "id": "A0123",
+                "name": "Growing of citrus fruits",
+                "description": ""
+            },
+            {
+                "id": "A0124",
+                "name": "Growing of pome fruits and stone fruits",
+                "description": ""
+            },
+            {
+                "id": "A0125",
+                "name": "Growing of other tree and bush fruits and nuts",
+                "description": ""
+            },
+            {
+                "id": "A0126",
+                "name": "Growing of oleaginous fruits",
+                "description": ""
+            },
+            {
+                "id": "A0127",
+                "name": "Growing of beverage crops",
+                "description": ""
+            },
+            {
+                "id": "A0128",
+                "name": "Growing of spices, aromatic, drug and pharmaceutical crops",
+                "description": ""
+            },
+            {
+                "id": "A0129",
+                "name": "Growing of other perennial crops",
+                "description": ""
+            },
+            {
+                "id": "A0130",
+                "name": "Plant propagation",
+                "description": ""
+            },
+            {
+                "id": "A0141",
+                "name": "Raising of cattle and buffaloes",
+                "description": ""
+            },
+            {
+                "id": "A0142",
+                "name": "Raising of horses and other equines",
+                "description": ""
+            },
+            {
+                "id": "A0143",
+                "name": "Raising of camels and camelids",
+                "description": ""
+            },
+            {
+                "id": "A0144",
+                "name": "Raising of sheep and goats",
+                "description": ""
+            },
+            {
+                "id": "A0145",
+                "name": "Raising of swine and pigs",
+                "description": ""
+            },
+            {
+                "id": "A0146",
+                "name": "Raising of poultry",
+                "description": ""
+            },
+            {
+                "id": "A0149",
+                "name": "Raising of other animals",
+                "description": ""
+            },
+            {
+                "id": "A0150",
+                "name": "Mixed farming",
+                "description": ""
+            },
+            {
+                "id": "A0161",
+                "name": "Support activities for crop production",
+                "description": ""
+            },
+            {
+                "id": "A0162",
+                "name": "Support activities for animal production",
+                "description": ""
+            },
+            {
+                "id": "A0163",
+                "name": "Post-harvest crop activities",
+                "description": ""
+            },
+            {
+                "id": "A0164",
+                "name": "Seed processing for propagation",
+                "description": ""
+            },
+            {
+                "id": "A0170",
+                "name": "Hunting, trapping and related service activities",
+                "description": ""
+            },
+            {
+                "id": "A0210",
+                "name": "Silviculture and other forestry activities",
+                "description": ""
+            },
+            {
+                "id": "A0220",
+                "name": "Logging",
+                "description": ""
+            },
+            {
+                "id": "A0230",
+                "name": "Gathering of non-wood forest products",
+                "description": ""
+            },
+            {
+                "id": "A0240",
+                "name": "Support services to forestry",
+                "description": ""
+            },
+            {
+                "id": "A0311",
+                "name": "Marine fishing",
+                "description": ""
+            },
+            {
+                "id": "A0312",
+                "name": "Freshwater fishing",
+                "description": ""
+            },
+            {
+                "id": "A0321",
+                "name": "Marine aquaculture",
+                "description": ""
+            },
+            {
+                "id": "A0322",
+                "name": "Freshwater aquaculture",
+                "description": ""
+            },
+            {
+                "id": "A0330",
+                "name": "Support activities for fishing and aquaculture",
+                "description": ""
+            },
+            {
+                "id": "B0510",
+                "name": "Mining of hard coal",
+                "description": ""
+            },
+            {
+                "id": "B0520",
+                "name": "Mining of lignite",
+                "description": ""
+            },
+            {
+                "id": "B0610",
+                "name": "Extraction of crude petroleum",
+                "description": ""
+            },
+            {
+                "id": "B0620",
+                "name": "Extraction of natural gas",
+                "description": ""
+            },
+            {
+                "id": "B0710",
+                "name": "Mining of iron ores",
+                "description": ""
+            },
+            {
+                "id": "B0721",
+                "name": "Mining of uranium and thorium ores",
+                "description": ""
+            },
+            {
+                "id": "B0729",
+                "name": "Mining of other non-ferrous metal ores",
+                "description": ""
+            },
+            {
+                "id": "B0810",
+                "name": "Quarrying of stone, sand and clay",
+                "description": ""
+            },
+            {
+                "id": "B0891",
+                "name": "Mining of chemical and fertilizer minerals",
+                "description": ""
+            },
+            {
+                "id": "B0892",
+                "name": "Extraction of peat",
+                "description": ""
+            },
+            {
+                "id": "B0893",
+                "name": "Extraction of salt",
+                "description": ""
+            },
+            {
+                "id": "B0899",
+                "name": "Other mining and quarrying n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "B0910",
+                "name": "Support activities for petroleum and natural gas extraction",
+                "description": ""
+            },
+            {
+                "id": "B0990",
+                "name": "Support activities for other mining and quarrying",
+                "description": ""
+            },
+            {
+                "id": "C1010",
+                "name": "Processing and preserving of meat",
+                "description": ""
+            },
+            {
+                "id": "C1020",
+                "name": "Processing and preserving of fish, crustaceans and molluscs",
+                "description": ""
+            },
+            {
+                "id": "C1030",
+                "name": "Processing and preserving of fruit and vegetables",
+                "description": ""
+            },
+            {
+                "id": "C1040",
+                "name": "Manufacture of vegetable and animal oils and fats",
+                "description": ""
+            },
+            {
+                "id": "C1050",
+                "name": "Manufacture of dairy products",
+                "description": ""
+            },
+            {
+                "id": "C1061",
+                "name": "Manufacture of grain mill products",
+                "description": ""
+            },
+            {
+                "id": "C1062",
+                "name": "Manufacture of starches and starch products",
+                "description": ""
+            },
+            {
+                "id": "C1071",
+                "name": "Manufacture of bakery products",
+                "description": ""
+            },
+            {
+                "id": "C1072",
+                "name": "Manufacture of sugar",
+                "description": ""
+            },
+            {
+                "id": "C1073",
+                "name": "Manufacture of cocoa, chocolate and sugar confectionery",
+                "description": ""
+            },
+            {
+                "id": "C1074",
+                "name": "Manufacture of macaroni, noodles, couscous and similar farinaceous products",
+                "description": ""
+            },
+            {
+                "id": "C1075",
+                "name": "Manufacture of prepared meals and dishes",
+                "description": ""
+            },
+            {
+                "id": "C1076",
+                "name": "Processing of coffee and tea",
+                "description": ""
+            },
+            {
+                "id": "C1079",
+                "name": "Manufacture of other food products n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "C1080",
+                "name": "Manufacture of prepared animal feeds",
+                "description": ""
+            },
+            {
+                "id": "C1101",
+                "name": "Distilling, rectifying and blending of spirits",
+                "description": ""
+            },
+            {
+                "id": "C1102",
+                "name": "Manufacture of wines",
+                "description": ""
+            },
+            {
+                "id": "C1103",
+                "name": "Manufacture of beer",
+                "description": ""
+            },
+            {
+                "id": "C1104",
+                "name": "Manufacture of malt",
+                "description": ""
+            },
+            {
+                "id": "C1105",
+                "name": "Manufacture of soft drinks; production of mineral waters and other bottled waters",
+                "description": ""
+            },
+            {
+                "id": "C1200",
+                "name": "Manufacture of tobacco products",
+                "description": ""
+            },
+            {
+                "id": "C1311",
+                "name": "Preparation and spinning of textile fibres",
+                "description": ""
+            },
+            {
+                "id": "C1312",
+                "name": "Weaving of textiles",
+                "description": ""
+            },
+            {
+                "id": "C1313",
+                "name": "Finishing of textiles",
+                "description": ""
+            },
+            {
+                "id": "C1391",
+                "name": "Manufacture of knitted and crocheted fabrics",
+                "description": ""
+            },
+            {
+                "id": "C1392",
+                "name": "Manufacture of made-up textile articles, except apparel",
+                "description": ""
+            },
+            {
+                "id": "C1393",
+                "name": "Manufacture of carpets and rugs",
+                "description": ""
+            },
+            {
+                "id": "C1394",
+                "name": "Manufacture of cordage, rope, twine and netting",
+                "description": ""
+            },
+            {
+                "id": "C1399",
+                "name": "Manufacture of other textiles n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "C1410",
+                "name": "Manufacture of wearing apparel, except fur apparel",
+                "description": ""
+            },
+            {
+                "id": "C1420",
+                "name": "Manufacture of articles of fur",
+                "description": ""
+            },
+            {
+                "id": "C1430",
+                "name": "Manufacture of knitted and crocheted apparel",
+                "description": ""
+            },
+            {
+                "id": "C1511",
+                "name": "Tanning and dressing of leather; dressing and dyeing of fur",
+                "description": ""
+            },
+            {
+                "id": "C1512",
+                "name": "Manufacture of luggage, handbags and the like, saddlery and harness of any material",
+                "description": ""
+            },
+            {
+                "id": "C1520",
+                "name": "Manufacture of footwear",
+                "description": ""
+            },
+            {
+                "id": "C1610",
+                "name": "Sawmilling and planing of wood",
+                "description": ""
+            },
+            {
+                "id": "C1621",
+                "name": "Manufacture of veneer sheets and wood-based panels",
+                "description": ""
+            },
+            {
+                "id": "C1622",
+                "name": "Manufacture of builders' carpentry and joinery",
+                "description": ""
+            },
+            {
+                "id": "C1623",
+                "name": "Manufacture of wooden containers",
+                "description": ""
+            },
+            {
+                "id": "C1629",
+                "name": "Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials",
+                "description": ""
+            },
+            {
+                "id": "C1701",
+                "name": "Manufacture of pulp, paper and paperboard",
+                "description": ""
+            },
+            {
+                "id": "C1702",
+                "name": "Manufacture of corrugated paper and paperboard and of containers of paper and paperboard",
+                "description": ""
+            },
+            {
+                "id": "C1709",
+                "name": "Manufacture of other articles of paper and paperboard",
+                "description": ""
+            },
+            {
+                "id": "C1811",
+                "name": "Printing",
+                "description": ""
+            },
+            {
+                "id": "C1812",
+                "name": "Service activities related to printing",
+                "description": ""
+            },
+            {
+                "id": "C1820",
+                "name": "Reproduction of recorded media",
+                "description": ""
+            },
+            {
+                "id": "C1910",
+                "name": "Manufacture of coke oven products",
+                "description": ""
+            },
+            {
+                "id": "C1920",
+                "name": "Manufacture of refined petroleum products; manufacture of fossil fuel products",
+                "description": ""
+            },
+            {
+                "id": "C2011",
+                "name": "Manufacture of basic chemicals",
+                "description": ""
+            },
+            {
+                "id": "C2012",
+                "name": "Manufacture of fertilizers and nitrogen compounds",
+                "description": ""
+            },
+            {
+                "id": "C2013",
+                "name": "Manufacture of plastics and synthetic rubber in primary forms",
+                "description": ""
+            },
+            {
+                "id": "C2021",
+                "name": "Manufacture of pesticides and other agrochemical products",
+                "description": ""
+            },
+            {
+                "id": "C2022",
+                "name": "Manufacture of paints, varnishes and similar coatings, printing ink and mastics",
+                "description": ""
+            },
+            {
+                "id": "C2023",
+                "name": "Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations",
+                "description": ""
+            },
+            {
+                "id": "C2029",
+                "name": "Manufacture of other chemical products n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "C2030",
+                "name": "Manufacture of man-made fibres",
+                "description": ""
+            },
+            {
+                "id": "C2100",
+                "name": "Manufacture of pharmaceuticals, medicinal chemical and botanical products",
+                "description": ""
+            },
+            {
+                "id": "C2211",
+                "name": "Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres",
+                "description": ""
+            },
+            {
+                "id": "C2219",
+                "name": "Manufacture of other rubber products",
+                "description": ""
+            },
+            {
+                "id": "C2220",
+                "name": "Manufacture of plastics products",
+                "description": ""
+            },
+            {
+                "id": "C2310",
+                "name": "Manufacture of glass and glass products",
+                "description": ""
+            },
+            {
+                "id": "C2391",
+                "name": "Manufacture of refractory products",
+                "description": ""
+            },
+            {
+                "id": "C2392",
+                "name": "Manufacture of clay building materials",
+                "description": ""
+            },
+            {
+                "id": "C2393",
+                "name": "Manufacture of other porcelain and ceramic products",
+                "description": ""
+            },
+            {
+                "id": "C2394",
+                "name": "Manufacture of cement, lime and plaster",
+                "description": ""
+            },
+            {
+                "id": "C2395",
+                "name": "Manufacture of articles of concrete, cement and plaster",
+                "description": ""
+            },
+            {
+                "id": "C2396",
+                "name": "Cutting, shaping and finishing of stone",
+                "description": ""
+            },
+            {
+                "id": "C2399",
+                "name": "Manufacture of other non-metallic mineral products n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "C2410",
+                "name": "Manufacture of basic iron and steel",
+                "description": ""
+            },
+            {
+                "id": "C2420",
+                "name": "Manufacture of basic precious and other non-ferrous metals",
+                "description": ""
+            },
+            {
+                "id": "C2431",
+                "name": "Casting of iron and steel",
+                "description": ""
+            },
+            {
+                "id": "C2432",
+                "name": "Casting of non-ferrous metals",
+                "description": ""
+            },
+            {
+                "id": "C2511",
+                "name": "Manufacture of structural metal products",
+                "description": ""
+            },
+            {
+                "id": "C2512",
+                "name": "Manufacture of tanks, reservoirs and containers of metal",
+                "description": ""
+            },
+            {
+                "id": "C2513",
+                "name": "Manufacture of steam generators, except central heating hot water boilers",
+                "description": ""
+            },
+            {
+                "id": "C2520",
+                "name": "Manufacture of weapons and ammunition",
+                "description": ""
+            },
+            {
+                "id": "C2591",
+                "name": "Forging, pressing, stamping and roll-forming of metal; powder metallurgy",
+                "description": ""
+            },
+            {
+                "id": "C2592",
+                "name": "Treatment and coating of metals; machining",
+                "description": ""
+            },
+            {
+                "id": "C2593",
+                "name": "Manufacture of cutlery, hand tools and general hardware",
+                "description": ""
+            },
+            {
+                "id": "C2599",
+                "name": "Manufacture of other fabricated metal products n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "C2611",
+                "name": "Manufacture of solar cells, solar panels and photovoltaic inverters",
+                "description": ""
+            },
+            {
+                "id": "C2619",
+                "name": "Manufacture of other electronic components and boards",
+                "description": ""
+            },
+            {
+                "id": "C2620",
+                "name": "Manufacture of computers and peripheral equipment",
+                "description": ""
+            },
+            {
+                "id": "C2630",
+                "name": "Manufacture of communication equipment",
+                "description": ""
+            },
+            {
+                "id": "C2640",
+                "name": "Manufacture of consumer electronics",
+                "description": ""
+            },
+            {
+                "id": "C2651",
+                "name": "Manufacture of measuring, testing, navigating and control equipment",
+                "description": ""
+            },
+            {
+                "id": "C2652",
+                "name": "Manufacture of watches and clocks",
+                "description": ""
+            },
+            {
+                "id": "C2660",
+                "name": "Manufacture of irradiation, electromedical and electrotherapeutic equipment",
+                "description": ""
+            },
+            {
+                "id": "C2670",
+                "name": "Manufacture of optical instruments and photographic equipment",
+                "description": ""
+            },
+            {
+                "id": "C2680",
+                "name": "Manufacture of magnetic and optical media",
+                "description": ""
+            },
+            {
+                "id": "C2710",
+                "name": "Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus",
+                "description": ""
+            },
+            {
+                "id": "C2720",
+                "name": "Manufacture of batteries and accumulators",
+                "description": ""
+            },
+            {
+                "id": "C2731",
+                "name": "Manufacture of fibre optic cables",
+                "description": ""
+            },
+            {
+                "id": "C2732",
+                "name": "Manufacture of other electronic and electric wires and cables",
+                "description": ""
+            },
+            {
+                "id": "C2733",
+                "name": "Manufacture of wiring devices",
+                "description": ""
+            },
+            {
+                "id": "C2740",
+                "name": "Manufacture of lighting equipment",
+                "description": ""
+            },
+            {
+                "id": "C2750",
+                "name": "Manufacture of domestic appliances",
+                "description": ""
+            },
+            {
+                "id": "C2790",
+                "name": "Manufacture of other electrical equipment",
+                "description": ""
+            },
+            {
+                "id": "C2811",
+                "name": "Manufacture of engines and turbines, except aircraft, vehicle and cycle engines",
+                "description": ""
+            },
+            {
+                "id": "C2812",
+                "name": "Manufacture of fluid power equipment",
+                "description": ""
+            },
+            {
+                "id": "C2813",
+                "name": "Manufacture of other pumps, compressors, taps and valves",
+                "description": ""
+            },
+            {
+                "id": "C2814",
+                "name": "Manufacture of bearings, gears, gearing and driving elements",
+                "description": ""
+            },
+            {
+                "id": "C2815",
+                "name": "Manufacture of ovens, furnaces and permanent household heating equipment",
+                "description": ""
+            },
+            {
+                "id": "C2816",
+                "name": "Manufacture of lifting and handling equipment",
+                "description": ""
+            },
+            {
+                "id": "C2817",
+                "name": "Manufacture of office machinery and equipment (except computers and peripheral equipment)",
+                "description": ""
+            },
+            {
+                "id": "C2818",
+                "name": "Manufacture of power-driven hand tools",
+                "description": ""
+            },
+            {
+                "id": "C2819",
+                "name": "Manufacture of other general-purpose machinery",
+                "description": ""
+            },
+            {
+                "id": "C2821",
+                "name": "Manufacture of agricultural and forestry machinery",
+                "description": ""
+            },
+            {
+                "id": "C2822",
+                "name": "Manufacture of metal-forming machinery and machine tools",
+                "description": ""
+            },
+            {
+                "id": "C2823",
+                "name": "Manufacture of machinery for metallurgy",
+                "description": ""
+            },
+            {
+                "id": "C2824",
+                "name": "Manufacture of machinery for mining, quarrying and construction",
+                "description": ""
+            },
+            {
+                "id": "C2825",
+                "name": "Manufacture of machinery for food, beverage and tobacco processing",
+                "description": ""
+            },
+            {
+                "id": "C2826",
+                "name": "Manufacture of machinery for textile, apparel and leather production",
+                "description": ""
+            },
+            {
+                "id": "C2829",
+                "name": "Manufacture of other special-purpose machinery",
+                "description": ""
+            },
+            {
+                "id": "C2910",
+                "name": "Manufacture of motor vehicles",
+                "description": ""
+            },
+            {
+                "id": "C2920",
+                "name": "Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers",
+                "description": ""
+            },
+            {
+                "id": "C2930",
+                "name": "Manufacture of parts and accessories for motor vehicles",
+                "description": ""
+            },
+            {
+                "id": "C3011",
+                "name": "Building of ships and floating structures",
+                "description": ""
+            },
+            {
+                "id": "C3012",
+                "name": "Building of pleasure and sporting boats",
+                "description": ""
+            },
+            {
+                "id": "C3020",
+                "name": "Manufacture of railway locomotives and rolling stock",
+                "description": ""
+            },
+            {
+                "id": "C3030",
+                "name": "Manufacture of air and spacecraft and related machinery",
+                "description": ""
+            },
+            {
+                "id": "C3040",
+                "name": "Manufacture of military fighting vehicles",
+                "description": ""
+            },
+            {
+                "id": "C3091",
+                "name": "Manufacture of motorcycles",
+                "description": ""
+            },
+            {
+                "id": "C3092",
+                "name": "Manufacture of bicycles and invalid carriages",
+                "description": ""
+            },
+            {
+                "id": "C3099",
+                "name": "Manufacture of other transport equipment n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "C3101",
+                "name": "Manufacture of wooden furniture",
+                "description": ""
+            },
+            {
+                "id": "C3102",
+                "name": "Manufacture of other furniture",
+                "description": ""
+            },
+            {
+                "id": "C3211",
+                "name": "Manufacture of jewellery and related articles",
+                "description": ""
+            },
+            {
+                "id": "C3212",
+                "name": "Manufacture of imitation jewellery and related articles",
+                "description": ""
+            },
+            {
+                "id": "C3220",
+                "name": "Manufacture of musical instruments",
+                "description": ""
+            },
+            {
+                "id": "C3230",
+                "name": "Manufacture of sports goods",
+                "description": ""
+            },
+            {
+                "id": "C3240",
+                "name": "Manufacture of games and toys",
+                "description": ""
+            },
+            {
+                "id": "C3250",
+                "name": "Manufacture of medical and dental instruments and supplies",
+                "description": ""
+            },
+            {
+                "id": "C3290",
+                "name": "Other manufacturing n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "C3311",
+                "name": "Repair and maintenance of fabricated metal products",
+                "description": ""
+            },
+            {
+                "id": "C3312",
+                "name": "Repair and maintenance of machinery",
+                "description": ""
+            },
+            {
+                "id": "C3313",
+                "name": "Repair and maintenance of electronic and optical equipment",
+                "description": ""
+            },
+            {
+                "id": "C3314",
+                "name": "Repair and maintenance of electrical equipment",
+                "description": ""
+            },
+            {
+                "id": "C3315",
+                "name": "Repair and maintenance of transport equipment, except motor vehicles",
+                "description": ""
+            },
+            {
+                "id": "C3319",
+                "name": "Repair and maintenance of other equipment",
+                "description": ""
+            },
+            {
+                "id": "C3320",
+                "name": "Installation of industrial machinery and equipment",
+                "description": ""
+            },
+            {
+                "id": "D3511",
+                "name": "Electric power generation activities from non-renewable sources",
+                "description": ""
+            },
+            {
+                "id": "D3512",
+                "name": "Electric power generation activities from renewable sources",
+                "description": ""
+            },
+            {
+                "id": "D3513",
+                "name": "Electric power transmission and distribution activities",
+                "description": ""
+            },
+            {
+                "id": "D3520",
+                "name": "Manufacture of gas; distribution of gaseous fuels through mains",
+                "description": ""
+            },
+            {
+                "id": "D3530",
+                "name": "Steam and air conditioning supply",
+                "description": ""
+            },
+            {
+                "id": "D3540",
+                "name": "Activities of brokers and agents for electric power and natural gas",
+                "description": ""
+            },
+            {
+                "id": "E3600",
+                "name": "Water collection, treatment and supply",
+                "description": ""
+            },
+            {
+                "id": "E3700",
+                "name": "Sewerage",
+                "description": ""
+            },
+            {
+                "id": "E3811",
+                "name": "Collection of non-hazardous waste",
+                "description": ""
+            },
+            {
+                "id": "E3812",
+                "name": "Collection of hazardous waste",
+                "description": ""
+            },
+            {
+                "id": "E3821",
+                "name": "Treatment and disposal of non-hazardous waste",
+                "description": ""
+            },
+            {
+                "id": "E3822",
+                "name": "Treatment and disposal of hazardous waste",
+                "description": ""
+            },
+            {
+                "id": "E3830",
+                "name": "Materials and other waste recovery",
+                "description": ""
+            },
+            {
+                "id": "E3900",
+                "name": "Remediation and other waste management service activities",
+                "description": ""
+            },
+            {
+                "id": "F4100",
+                "name": "Construction of residential and non-residential buildings",
+                "description": ""
+            },
+            {
+                "id": "F4210",
+                "name": "Construction of roads and railways",
+                "description": ""
+            },
+            {
+                "id": "F4220",
+                "name": "Construction of utility projects",
+                "description": ""
+            },
+            {
+                "id": "F4290",
+                "name": "Construction of other civil engineering projects",
+                "description": ""
+            },
+            {
+                "id": "F4311",
+                "name": "Demolition",
+                "description": ""
+            },
+            {
+                "id": "F4312",
+                "name": "Site preparation",
+                "description": ""
+            },
+            {
+                "id": "F4321",
+                "name": "Electrical installation",
+                "description": ""
+            },
+            {
+                "id": "F4322",
+                "name": "Plumbing, heat and air-conditioning installation",
+                "description": ""
+            },
+            {
+                "id": "F4329",
+                "name": "Other construction installation",
+                "description": ""
+            },
+            {
+                "id": "F4330",
+                "name": "Building completion and finishing",
+                "description": ""
+            },
+            {
+                "id": "F4340",
+                "name": "Intermediation service activities for specialized construction services",
+                "description": ""
+            },
+            {
+                "id": "F4390",
+                "name": "Other specialized construction activities",
+                "description": ""
+            },
+            {
+                "id": "G4610",
+                "name": "Wholesale on a fee or contract basis",
+                "description": ""
+            },
+            {
+                "id": "G4620",
+                "name": "Wholesale of agricultural raw materials and live animals",
+                "description": ""
+            },
+            {
+                "id": "G4630",
+                "name": "Wholesale of food, beverages and tobacco",
+                "description": ""
+            },
+            {
+                "id": "G4641",
+                "name": "Wholesale of textiles, clothing and footwear",
+                "description": ""
+            },
+            {
+                "id": "G4642",
+                "name": "Wholesale of household, office and shop furniture, carpets and lighting equipment",
+                "description": ""
+            },
+            {
+                "id": "G4649",
+                "name": "Wholesale of other household goods",
+                "description": ""
+            },
+            {
+                "id": "G4651",
+                "name": "Wholesale of computers, computer peripheral equipment and software",
+                "description": ""
+            },
+            {
+                "id": "G4652",
+                "name": "Wholesale of electronic and telecommunications equipment and parts",
+                "description": ""
+            },
+            {
+                "id": "G4653",
+                "name": "Wholesale of agricultural machinery, equipment and supplies",
+                "description": ""
+            },
+            {
+                "id": "G4659",
+                "name": "Wholesale of other machinery and equipment",
+                "description": ""
+            },
+            {
+                "id": "G4661",
+                "name": "Wholesale of motor vehicles",
+                "description": ""
+            },
+            {
+                "id": "G4662",
+                "name": "Wholesale of motor vehicle parts and accessories",
+                "description": ""
+            },
+            {
+                "id": "G4663",
+                "name": "Wholesale of motorcycles, motorcycle parts and accessories",
+                "description": ""
+            },
+            {
+                "id": "G4671",
+                "name": "Wholesale of solid, liquid and gaseous fuels and related products",
+                "description": ""
+            },
+            {
+                "id": "G4672",
+                "name": "Wholesale of metals and metal ores",
+                "description": ""
+            },
+            {
+                "id": "G4673",
+                "name": "Wholesale of construction materials, hardware, plumbing and heating equipment and supplies",
+                "description": ""
+            },
+            {
+                "id": "G4679",
+                "name": "Wholesale of chemicals, waste and scrap and other products n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "G4690",
+                "name": "Non-specialized wholesale trade",
+                "description": ""
+            },
+            {
+                "id": "G4711",
+                "name": "Non-specialized retail sale with food, beverages or tobacco predominating",
+                "description": ""
+            },
+            {
+                "id": "G4719",
+                "name": "Other non-specialized retail sale",
+                "description": ""
+            },
+            {
+                "id": "G4721",
+                "name": "Retail sale of food",
+                "description": ""
+            },
+            {
+                "id": "G4722",
+                "name": "Retail sale of beverages",
+                "description": ""
+            },
+            {
+                "id": "G4723",
+                "name": "Retail sale of tobacco products",
+                "description": ""
+            },
+            {
+                "id": "G4730",
+                "name": "Retail sale of automotive fuel",
+                "description": ""
+            },
+            {
+                "id": "G4740",
+                "name": "Retail sale of information and communication equipment",
+                "description": ""
+            },
+            {
+                "id": "G4751",
+                "name": "Retail sale of textiles",
+                "description": ""
+            },
+            {
+                "id": "G4752",
+                "name": "Retail sale of hardware, building materials, paints and glass",
+                "description": ""
+            },
+            {
+                "id": "G4753",
+                "name": "Retail sale of carpets, rugs, wall and floor coverings",
+                "description": ""
+            },
+            {
+                "id": "G4759",
+                "name": "Retail sale of electrical household appliances, furniture, lighting equipment and other household articles",
+                "description": ""
+            },
+            {
+                "id": "G4761",
+                "name": "Retail sale of books, newspapers, stationery and office supplies",
+                "description": ""
+            },
+            {
+                "id": "G4762",
+                "name": "Retail sale of sporting equipment",
+                "description": ""
+            },
+            {
+                "id": "G4763",
+                "name": "Retail sale of games and toys",
+                "description": ""
+            },
+            {
+                "id": "G4769",
+                "name": "Retail sale of cultural and recreational goods n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "G4771",
+                "name": "Retail sale of clothing, footwear and leather articles",
+                "description": ""
+            },
+            {
+                "id": "G4772",
+                "name": "Retail sale of pharmaceutical and medical goods, cosmetic and toilet articles",
+                "description": ""
+            },
+            {
+                "id": "G4773",
+                "name": "Retail sale of other new goods n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "G4774",
+                "name": "Retail sale of second-hand goods",
+                "description": ""
+            },
+            {
+                "id": "G4781",
+                "name": "Retail sale of motor vehicles",
+                "description": ""
+            },
+            {
+                "id": "G4782",
+                "name": "Retail sale of motor vehicle parts and accessories",
+                "description": ""
+            },
+            {
+                "id": "G4783",
+                "name": "Retail sale of motorcycles, motorcycles parts and accessories",
+                "description": ""
+            },
+            {
+                "id": "G4790",
+                "name": "Intermediation service activities for retail sale",
+                "description": ""
+            },
+            {
+                "id": "H4911",
+                "name": "Passenger rail transport, interurban",
+                "description": ""
+            },
+            {
+                "id": "H4912",
+                "name": "Freight rail transport",
+                "description": ""
+            },
+            {
+                "id": "H4921",
+                "name": "Urban and suburban passenger land transport",
+                "description": ""
+            },
+            {
+                "id": "H4922",
+                "name": "Other passenger land transport",
+                "description": ""
+            },
+            {
+                "id": "H4923",
+                "name": "Freight transport by road",
+                "description": ""
+            },
+            {
+                "id": "H4930",
+                "name": "Transport via pipeline",
+                "description": ""
+            },
+            {
+                "id": "H5011",
+                "name": "Sea and coastal passenger water transport",
+                "description": ""
+            },
+            {
+                "id": "H5012",
+                "name": "Sea and coastal freight water transport",
+                "description": ""
+            },
+            {
+                "id": "H5021",
+                "name": "Inland passenger water transport",
+                "description": ""
+            },
+            {
+                "id": "H5022",
+                "name": "Inland freight water transport",
+                "description": ""
+            },
+            {
+                "id": "H5110",
+                "name": "Passenger air transport",
+                "description": ""
+            },
+            {
+                "id": "H5120",
+                "name": "Freight air transport",
+                "description": ""
+            },
+            {
+                "id": "H5210",
+                "name": "Warehousing and storage",
+                "description": ""
+            },
+            {
+                "id": "H5221",
+                "name": "Service activities incidental to land transportation",
+                "description": ""
+            },
+            {
+                "id": "H5222",
+                "name": "Service activities incidental to water transportation",
+                "description": ""
+            },
+            {
+                "id": "H5223",
+                "name": "Service activities incidental to air transportation",
+                "description": ""
+            },
+            {
+                "id": "H5224",
+                "name": "Cargo handling",
+                "description": ""
+            },
+            {
+                "id": "H5229",
+                "name": "Other support activities for transportation",
+                "description": ""
+            },
+            {
+                "id": "H5231",
+                "name": "Intermediation service activities for freight transportation",
+                "description": ""
+            },
+            {
+                "id": "H5232",
+                "name": "Intermediation service activities for passenger transportation",
+                "description": ""
+            },
+            {
+                "id": "H5310",
+                "name": "Postal activities",
+                "description": ""
+            },
+            {
+                "id": "H5320",
+                "name": "Courier activities",
+                "description": ""
+            },
+            {
+                "id": "H5330",
+                "name": "Intermediation service activities for postal and courier activities",
+                "description": ""
+            },
+            {
+                "id": "I5510",
+                "name": "Hotels and similar accommodation activities",
+                "description": ""
+            },
+            {
+                "id": "I5520",
+                "name": "Other short term accommodation activities",
+                "description": ""
+            },
+            {
+                "id": "I5530",
+                "name": "Camping grounds, recreational vehicle parks and trailer parks",
+                "description": ""
+            },
+            {
+                "id": "I5540",
+                "name": "Intermediation service activities for accommodation",
+                "description": ""
+            },
+            {
+                "id": "I5590",
+                "name": "Other accommodation n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "I5610",
+                "name": "Restaurants and mobile food service activities",
+                "description": ""
+            },
+            {
+                "id": "I5621",
+                "name": "Event catering activities",
+                "description": ""
+            },
+            {
+                "id": "I5629",
+                "name": "Other food service activities",
+                "description": ""
+            },
+            {
+                "id": "I5630",
+                "name": "Beverage serving activities",
+                "description": ""
+            },
+            {
+                "id": "I5640",
+                "name": "Intermediation service activities for food and beverage services activities",
+                "description": ""
+            },
+            {
+                "id": "J5811",
+                "name": "Publishing of books",
+                "description": ""
+            },
+            {
+                "id": "J5812",
+                "name": "Publishing of newspapers",
+                "description": ""
+            },
+            {
+                "id": "J5813",
+                "name": "Publishing of journals and periodicals",
+                "description": ""
+            },
+            {
+                "id": "J5819",
+                "name": "Other publishing activities",
+                "description": ""
+            },
+            {
+                "id": "J5821",
+                "name": "Publishing of video games",
+                "description": ""
+            },
+            {
+                "id": "J5829",
+                "name": "Other software publishing",
+                "description": ""
+            },
+            {
+                "id": "J5911",
+                "name": "Motion picture, video and television programme production activities",
+                "description": ""
+            },
+            {
+                "id": "J5912",
+                "name": "Motion picture, video and television programme post-production activities",
+                "description": ""
+            },
+            {
+                "id": "J5913",
+                "name": "Motion picture, video and television programme distribution activities",
+                "description": ""
+            },
+            {
+                "id": "J5914",
+                "name": "Motion picture projection activities",
+                "description": ""
+            },
+            {
+                "id": "J5920",
+                "name": "Sound recording and music publishing activities",
+                "description": ""
+            },
+            {
+                "id": "J6010",
+                "name": "Radio broadcasting and audio distribution activities",
+                "description": ""
+            },
+            {
+                "id": "J6020",
+                "name": "Television programming, broadcasting and video distribution activities",
+                "description": ""
+            },
+            {
+                "id": "J6031",
+                "name": "News agency activities",
+                "description": ""
+            },
+            {
+                "id": "J6039",
+                "name": "Social network sites and other content distribution activities",
+                "description": ""
+            },
+            {
+                "id": "K6110",
+                "name": "Wired, wireless, and satellite telecommunication activities",
+                "description": ""
+            },
+            {
+                "id": "K6120",
+                "name": "Telecommunication reselling\ufffdactivities\ufffdand intermediation service\ufffdactivities\ufffdfor telecommunication",
+                "description": ""
+            },
+            {
+                "id": "K6190",
+                "name": "Other telecommunication activities",
+                "description": ""
+            },
+            {
+                "id": "K6211",
+                "name": "Development of video games, video game software, and video game software tools",
+                "description": ""
+            },
+            {
+                "id": "K6219",
+                "name": "Other computer programming activities",
+                "description": ""
+            },
+            {
+                "id": "K6220",
+                "name": "Computer consultancy and computer facilities management activities",
+                "description": ""
+            },
+            {
+                "id": "K6290",
+                "name": "Other information technology and computer service activities",
+                "description": ""
+            },
+            {
+                "id": "K6310",
+                "name": "Computing infrastructure, data processing, hosting and related activities",
+                "description": ""
+            },
+            {
+                "id": "K6390",
+                "name": "Web search portals activities and other information service activities",
+                "description": ""
+            },
+            {
+                "id": "L6411",
+                "name": "Central banking",
+                "description": ""
+            },
+            {
+                "id": "L6419",
+                "name": "Other monetary intermediation",
+                "description": ""
+            },
+            {
+                "id": "L6421",
+                "name": "Activities of holding companies",
+                "description": ""
+            },
+            {
+                "id": "L6422",
+                "name": "Activities of financing conduits",
+                "description": ""
+            },
+            {
+                "id": "L6431",
+                "name": "Activities of money market funds",
+                "description": ""
+            },
+            {
+                "id": "L6432",
+                "name": "Activities of non-money market investments funds",
+                "description": ""
+            },
+            {
+                "id": "L6433",
+                "name": "Activities of trust, estate and agency accounts",
+                "description": ""
+            },
+            {
+                "id": "L6491",
+                "name": "Financial leasing activities",
+                "description": ""
+            },
+            {
+                "id": "L6492",
+                "name": "International trade financing activities",
+                "description": ""
+            },
+            {
+                "id": "L6493",
+                "name": "Factoring activities",
+                "description": ""
+            },
+            {
+                "id": "L6494",
+                "name": "Securitisation activities",
+                "description": ""
+            },
+            {
+                "id": "L6495",
+                "name": "Other credit granting activities",
+                "description": ""
+            },
+            {
+                "id": "L6499",
+                "name": "Other financial service activities n.e.c., except insurance and pension funding activities",
+                "description": ""
+            },
+            {
+                "id": "L6511",
+                "name": "Life insurance",
+                "description": ""
+            },
+            {
+                "id": "L6512",
+                "name": "Non-life insurance",
+                "description": ""
+            },
+            {
+                "id": "L6520",
+                "name": "Reinsurance",
+                "description": ""
+            },
+            {
+                "id": "L6530",
+                "name": "Pension funding",
+                "description": ""
+            },
+            {
+                "id": "L6611",
+                "name": "Administration of financial markets",
+                "description": ""
+            },
+            {
+                "id": "L6612",
+                "name": "Security and commodity contracts brokerage",
+                "description": ""
+            },
+            {
+                "id": "L6619",
+                "name": "Other activities auxiliary to financial service activities, except insurance and pension funding",
+                "description": ""
+            },
+            {
+                "id": "L6621",
+                "name": "Risk and damage evaluation",
+                "description": ""
+            },
+            {
+                "id": "L6622",
+                "name": "Activities of insurance agents and brokers",
+                "description": ""
+            },
+            {
+                "id": "L6629",
+                "name": "Other activities auxiliary to insurance and pension funding",
+                "description": ""
+            },
+            {
+                "id": "L6630",
+                "name": "Fund management activities",
+                "description": ""
+            },
+            {
+                "id": "M6810",
+                "name": "Real estate activities with own or leased property",
+                "description": ""
+            },
+            {
+                "id": "M6821",
+                "name": "Intermediation service activities for real estate",
+                "description": ""
+            },
+            {
+                "id": "M6829",
+                "name": "Other real estate activities on a fee or contract basis",
+                "description": ""
+            },
+            {
+                "id": "N6910",
+                "name": "Legal activities",
+                "description": ""
+            },
+            {
+                "id": "N6920",
+                "name": "Accounting, bookkeeping and auditing activities; tax consultancy",
+                "description": ""
+            },
+            {
+                "id": "N7010",
+                "name": "Activities of head offices",
+                "description": ""
+            },
+            {
+                "id": "N7020",
+                "name": "Business and other management consultancy activities",
+                "description": ""
+            },
+            {
+                "id": "N7110",
+                "name": "Architectural and engineering, and related technical consultancy activities",
+                "description": ""
+            },
+            {
+                "id": "N7120",
+                "name": "Technical testing and analysis",
+                "description": ""
+            },
+            {
+                "id": "N7210",
+                "name": "Research and experimental development on natural sciences and engineering",
+                "description": ""
+            },
+            {
+                "id": "N7220",
+                "name": "Research and experimental development on social sciences and humanities",
+                "description": ""
+            },
+            {
+                "id": "N7310",
+                "name": "Advertising activities",
+                "description": ""
+            },
+            {
+                "id": "N7320",
+                "name": "Market research and public opinion polling activities",
+                "description": ""
+            },
+            {
+                "id": "N7330",
+                "name": "Public relations activities",
+                "description": ""
+            },
+            {
+                "id": "N7410",
+                "name": "Specialized design activities",
+                "description": ""
+            },
+            {
+                "id": "N7420",
+                "name": "Photographic activities",
+                "description": ""
+            },
+            {
+                "id": "N7430",
+                "name": "Translation and interpretation activities",
+                "description": ""
+            },
+            {
+                "id": "N7491",
+                "name": "Patent brokering and marketing service activities",
+                "description": ""
+            },
+            {
+                "id": "N7499",
+                "name": "All other professional, scientific and technical activities n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "N7500",
+                "name": "Veterinary activities",
+                "description": ""
+            },
+            {
+                "id": "O7710",
+                "name": "Rental and leasing of motor vehicles",
+                "description": ""
+            },
+            {
+                "id": "O7721",
+                "name": "Rental and leasing of recreational and sports goods",
+                "description": ""
+            },
+            {
+                "id": "O7729",
+                "name": "Rental and leasing of other personal and household goods",
+                "description": ""
+            },
+            {
+                "id": "O7730",
+                "name": "Rental and leasing of other machinery, equipment and tangible goods",
+                "description": ""
+            },
+            {
+                "id": "O7740",
+                "name": "Leasing of intellectual property and similar products, except copyrighted works",
+                "description": ""
+            },
+            {
+                "id": "O7751",
+                "name": "Intermediation service activities for rental and leasing of cars, motorhomes and trailers",
+                "description": ""
+            },
+            {
+                "id": "O7752",
+                "name": "Intermediation service activities for rental and leasing of other tangible goods and non-financial intangible assets",
+                "description": ""
+            },
+            {
+                "id": "O7810",
+                "name": "Activities of employment placement agencies",
+                "description": ""
+            },
+            {
+                "id": "O7820",
+                "name": "Temporary employment agency activities and other human resource provisions",
+                "description": ""
+            },
+            {
+                "id": "O7911",
+                "name": "Travel agency activities",
+                "description": ""
+            },
+            {
+                "id": "O7912",
+                "name": "Tour operator activities",
+                "description": ""
+            },
+            {
+                "id": "O7990",
+                "name": "Other travel related activities",
+                "description": ""
+            },
+            {
+                "id": "O8011",
+                "name": "Investigation and private security activities",
+                "description": ""
+            },
+            {
+                "id": "O8019",
+                "name": "Security activities n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "O8110",
+                "name": "Combined facilities support activities",
+                "description": ""
+            },
+            {
+                "id": "O8121",
+                "name": "General cleaning of buildings",
+                "description": ""
+            },
+            {
+                "id": "O8129",
+                "name": "Other cleaning activities",
+                "description": ""
+            },
+            {
+                "id": "O8130",
+                "name": "Landscape service activities",
+                "description": ""
+            },
+            {
+                "id": "O8210",
+                "name": "Office administrative and support activities",
+                "description": ""
+            },
+            {
+                "id": "O8220",
+                "name": "Activities of call centres",
+                "description": ""
+            },
+            {
+                "id": "O8230",
+                "name": "Organization of conventions and trade shows",
+                "description": ""
+            },
+            {
+                "id": "O8240",
+                "name": "Intermediation service activities for business support service activities n.e.c., except financial intermediation",
+                "description": ""
+            },
+            {
+                "id": "O8291",
+                "name": "Activities of collection agencies and credit bureaus",
+                "description": ""
+            },
+            {
+                "id": "O8292",
+                "name": "Packaging activities",
+                "description": ""
+            },
+            {
+                "id": "O8299",
+                "name": "Other business support service activities n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "P8411",
+                "name": "General public administration activities",
+                "description": ""
+            },
+            {
+                "id": "P8412",
+                "name": "Regulation of the activities of providing health care, education, cultural services and other social services, excluding social security and environment",
+                "description": ""
+            },
+            {
+                "id": "P8413",
+                "name": "Regulation of the activities of providing environmental services",
+                "description": ""
+            },
+            {
+                "id": "P8414",
+                "name": "Regulation of and contribution to more efficient operation of businesses",
+                "description": ""
+            },
+            {
+                "id": "P8421",
+                "name": "Foreign affairs",
+                "description": ""
+            },
+            {
+                "id": "P8422",
+                "name": "Defence activities",
+                "description": ""
+            },
+            {
+                "id": "P8423",
+                "name": "Public order and safety activities",
+                "description": ""
+            },
+            {
+                "id": "P8430",
+                "name": "Compulsory social security activities",
+                "description": ""
+            },
+            {
+                "id": "Q8510",
+                "name": "Pre-primary education",
+                "description": ""
+            },
+            {
+                "id": "Q8520",
+                "name": "Primary education",
+                "description": ""
+            },
+            {
+                "id": "Q8531",
+                "name": "General secondary education",
+                "description": ""
+            },
+            {
+                "id": "Q8532",
+                "name": "Vocational secondary education",
+                "description": ""
+            },
+            {
+                "id": "Q8533",
+                "name": "Post-secondary non-tertiary education",
+                "description": ""
+            },
+            {
+                "id": "Q8540",
+                "name": "Tertiary education",
+                "description": ""
+            },
+            {
+                "id": "Q8551",
+                "name": "Sports and recreation education",
+                "description": ""
+            },
+            {
+                "id": "Q8552",
+                "name": "Cultural education",
+                "description": ""
+            },
+            {
+                "id": "Q8553",
+                "name": "Driving school activities",
+                "description": ""
+            },
+            {
+                "id": "Q8559",
+                "name": "Other education n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "Q8561",
+                "name": "Intermediation service activities for courses and tutors",
+                "description": ""
+            },
+            {
+                "id": "Q8569",
+                "name": "Other educational support activities",
+                "description": ""
+            },
+            {
+                "id": "R8610",
+                "name": "Hospital activities",
+                "description": ""
+            },
+            {
+                "id": "R8620",
+                "name": "Medical and dental practice activities",
+                "description": ""
+            },
+            {
+                "id": "R8691",
+                "name": "Intermediation service activities for medical, dental, and other human health services",
+                "description": ""
+            },
+            {
+                "id": "R8699",
+                "name": "Other human health activities n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "R8710",
+                "name": "Residential nursing care activities",
+                "description": ""
+            },
+            {
+                "id": "R8720",
+                "name": "Residential care activities for persons living with or having a diagnosis of a mental illness or substance abuse",
+                "description": ""
+            },
+            {
+                "id": "R8730",
+                "name": "Residential care activities for older persons or persons with physical disabilities",
+                "description": ""
+            },
+            {
+                "id": "R8791",
+                "name": "Intermediation service activities for residential care activities",
+                "description": ""
+            },
+            {
+                "id": "R8799",
+                "name": "Other residential care activities n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "R8810",
+                "name": "Social work activities without accommodation for older persons or persons with disabilities",
+                "description": ""
+            },
+            {
+                "id": "R8890",
+                "name": "Other social work activities without accommodation",
+                "description": ""
+            },
+            {
+                "id": "S9011",
+                "name": "Literary creation and musical composition activities",
+                "description": ""
+            },
+            {
+                "id": "S9012",
+                "name": "Visual arts creation activities",
+                "description": ""
+            },
+            {
+                "id": "S9013",
+                "name": "Other arts creation activities",
+                "description": ""
+            },
+            {
+                "id": "S9020",
+                "name": "Activities of performing arts",
+                "description": ""
+            },
+            {
+                "id": "S9031",
+                "name": "Operation of arts facilities and sites",
+                "description": ""
+            },
+            {
+                "id": "S9039",
+                "name": "Other support activities to arts creation and performing arts",
+                "description": ""
+            },
+            {
+                "id": "S9111",
+                "name": "Library activities",
+                "description": ""
+            },
+            {
+                "id": "S9112",
+                "name": "Archives activities",
+                "description": ""
+            },
+            {
+                "id": "S9121",
+                "name": "Museum and collection activities",
+                "description": ""
+            },
+            {
+                "id": "S9122",
+                "name": "Historical site and monument activities",
+                "description": ""
+            },
+            {
+                "id": "S9130",
+                "name": "Conservation, restoration and other support activities for cultural heritage",
+                "description": ""
+            },
+            {
+                "id": "S9141",
+                "name": "Botanical and zoological garden activities",
+                "description": ""
+            },
+            {
+                "id": "S9142",
+                "name": "Nature reserve activities",
+                "description": ""
+            },
+            {
+                "id": "S9200",
+                "name": "Gambling and betting activities",
+                "description": ""
+            },
+            {
+                "id": "S9311",
+                "name": "Operation of sports facilities",
+                "description": ""
+            },
+            {
+                "id": "S9312",
+                "name": "Activities of sports clubs",
+                "description": ""
+            },
+            {
+                "id": "S9319",
+                "name": "Other sports activities",
+                "description": ""
+            },
+            {
+                "id": "S9321",
+                "name": "Activities of amusement parks and theme parks",
+                "description": ""
+            },
+            {
+                "id": "S9329",
+                "name": "Other amusement and recreation activities",
+                "description": ""
+            },
+            {
+                "id": "T9411",
+                "name": "Activities of business and employers membership organizations",
+                "description": ""
+            },
+            {
+                "id": "T9412",
+                "name": "Activities of professional membership organizations",
+                "description": ""
+            },
+            {
+                "id": "T9420",
+                "name": "Activities of trade unions",
+                "description": ""
+            },
+            {
+                "id": "T9491",
+                "name": "Activities of religious organizations",
+                "description": ""
+            },
+            {
+                "id": "T9492",
+                "name": "Activities of political organizations",
+                "description": ""
+            },
+            {
+                "id": "T9499",
+                "name": "Activities of other membership organizations n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "T9510",
+                "name": "Repair and maintenance of computers and communication equipment",
+                "description": ""
+            },
+            {
+                "id": "T9521",
+                "name": "Repair and maintenance of consumer electronics",
+                "description": ""
+            },
+            {
+                "id": "T9522",
+                "name": "Repair and maintenance of household appliances and home and garden equipment",
+                "description": ""
+            },
+            {
+                "id": "T9523",
+                "name": "Repair and maintenance of footwear and leather goods",
+                "description": ""
+            },
+            {
+                "id": "T9524",
+                "name": "Repair and maintenance of furniture and home furnishings",
+                "description": ""
+            },
+            {
+                "id": "T9529",
+                "name": "Repair and maintenance of other personal and household goods",
+                "description": ""
+            },
+            {
+                "id": "T9531",
+                "name": "Repair and maintenance of motor vehicles",
+                "description": ""
+            },
+            {
+                "id": "T9532",
+                "name": "Repair and maintenance of motorcycles",
+                "description": ""
+            },
+            {
+                "id": "T9540",
+                "name": "Intermediation service activities for repair and maintenance of computers, personal and household goods, and motor vehicles and motorcycles",
+                "description": ""
+            },
+            {
+                "id": "T9610",
+                "name": "Washing and cleaning of textile and fur products",
+                "description": ""
+            },
+            {
+                "id": "T9621",
+                "name": "Hairdressing and barber activities",
+                "description": ""
+            },
+            {
+                "id": "T9622",
+                "name": "Beauty care and other beauty treatment activities",
+                "description": ""
+            },
+            {
+                "id": "T9623",
+                "name": "Day spa, sauna and steam bath activities",
+                "description": ""
+            },
+            {
+                "id": "T9630",
+                "name": "Funeral and related activities",
+                "description": ""
+            },
+            {
+                "id": "T9640",
+                "name": "Intermediation service activities for personal services",
+                "description": ""
+            },
+            {
+                "id": "T9690",
+                "name": "Other personal service activities n.e.c.",
+                "description": ""
+            },
+            {
+                "id": "U9700",
+                "name": "Activities of households as employers of domestic personnel",
+                "description": ""
+            },
+            {
+                "id": "U9810",
+                "name": "Undifferentiated goods-producing activities of private households for own use",
+                "description": ""
+            },
+            {
+                "id": "U9820",
+                "name": "Undifferentiated service-producing activities of private households for own use",
+                "description": ""
+            },
+            {
+                "id": "V9900",
+                "name": "Activities of extraterritorial organizations and bodies",
+                "description": ""
+            }
+        ]
+    }
+}

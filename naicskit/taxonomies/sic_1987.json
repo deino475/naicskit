@@ -1,0 +1,5515 @@
+{
+    "taxonomy_level_codes": [
+        "1",
+        "2",
+        "4"
+    ],
+    "taxonomies": {
+        "1": [
+            {
+                "id": "A",
+                "name": "Agriculture, Forestry, & Fishing",
+                "description": ""
+            },
+            {
+                "id": "B",
+                "name": "Mining",
+                "description": ""
+            },
+            {
+                "id": "C",
+                "name": "Construction",
+                "description": ""
+            },
+            {
+                "id": "D",
+                "name": "Manufacturing",
+                "description": ""
+            },
+            {
+                "id": "E",
+                "name": "Transportation & Public Utilities",
+                "description": ""
+            },
+            {
+                "id": "F",
+                "name": "Wholesale Trade",
+                "description": ""
+            },
+            {
+                "id": "G",
+                "name": "Retail Trade",
+                "description": ""
+            },
+            {
+                "id": "H",
+                "name": "Finance, Insurance, & Real Estate",
+                "description": ""
+            },
+            {
+                "id": "I",
+                "name": "Services",
+                "description": ""
+            },
+            {
+                "id": "J",
+                "name": "Public Administration",
+                "description": ""
+            },
+            {
+                "id": "K",
+                "name": "Nonclassifiable Establishments",
+                "description": ""
+            }
+        ],
+        "2": [
+            {
+                "id": "01",
+                "name": "Agricultural Production - Crops",
+                "description": ""
+            },
+            {
+                "id": "02",
+                "name": "Agricultural Production - Livestock",
+                "description": ""
+            },
+            {
+                "id": "07",
+                "name": "Agricultural Services",
+                "description": ""
+            },
+            {
+                "id": "08",
+                "name": "Forestry",
+                "description": ""
+            },
+            {
+                "id": "09",
+                "name": "Fishing, Hunting, & Trapping",
+                "description": ""
+            },
+            {
+                "id": "10",
+                "name": "Metal, Mining",
+                "description": ""
+            },
+            {
+                "id": "12",
+                "name": "Coal Mining",
+                "description": ""
+            },
+            {
+                "id": "13",
+                "name": "Oil & Gas Extraction",
+                "description": ""
+            },
+            {
+                "id": "14",
+                "name": "Nonmetallic Minerals, Except Fuels",
+                "description": ""
+            },
+            {
+                "id": "15",
+                "name": "General Building Contractors",
+                "description": ""
+            },
+            {
+                "id": "16",
+                "name": "Heavy Construction, Except Building",
+                "description": ""
+            },
+            {
+                "id": "17",
+                "name": "Special Trade Contractors",
+                "description": ""
+            },
+            {
+                "id": "20",
+                "name": "Food & Kindred Products",
+                "description": ""
+            },
+            {
+                "id": "21",
+                "name": "Tobacco Products",
+                "description": ""
+            },
+            {
+                "id": "22",
+                "name": "Textile Mill Products",
+                "description": ""
+            },
+            {
+                "id": "23",
+                "name": "Apparel & Other Textile Products",
+                "description": ""
+            },
+            {
+                "id": "24",
+                "name": "Lumber & Wood Products",
+                "description": ""
+            },
+            {
+                "id": "25",
+                "name": "Furniture & Fixtures",
+                "description": ""
+            },
+            {
+                "id": "26",
+                "name": "Paper & Allied Products",
+                "description": ""
+            },
+            {
+                "id": "27",
+                "name": "Printing & Publishing",
+                "description": ""
+            },
+            {
+                "id": "28",
+                "name": "Chemical & Allied Products",
+                "description": ""
+            },
+            {
+                "id": "29",
+                "name": "Petroleum & Coal Products",
+                "description": ""
+            },
+            {
+                "id": "30",
+                "name": "Rubber & Miscellaneous Plastics Products",
+                "description": ""
+            },
+            {
+                "id": "31",
+                "name": "Leather & Leather Products",
+                "description": ""
+            },
+            {
+                "id": "32",
+                "name": "Stone, Clay, & Glass Products",
+                "description": ""
+            },
+            {
+                "id": "33",
+                "name": "Primary Metal Products",
+                "description": ""
+            },
+            {
+                "id": "34",
+                "name": "Fabricated Metal Products",
+                "description": ""
+            },
+            {
+                "id": "35",
+                "name": "Industrial Machinery & Equipment",
+                "description": ""
+            },
+            {
+                "id": "36",
+                "name": "Electronic & Other Electric Equipment",
+                "description": ""
+            },
+            {
+                "id": "37",
+                "name": "Transportation Equipment",
+                "description": ""
+            },
+            {
+                "id": "38",
+                "name": "Instruments & Related Products",
+                "description": ""
+            },
+            {
+                "id": "39",
+                "name": "Miscellaneous Manufacturing Industries",
+                "description": ""
+            },
+            {
+                "id": "40",
+                "name": "Railroad Transportation",
+                "description": ""
+            },
+            {
+                "id": "41",
+                "name": "Local & Interurban Passenger Transit",
+                "description": ""
+            },
+            {
+                "id": "42",
+                "name": "Trucking & Warehousing",
+                "description": ""
+            },
+            {
+                "id": "43",
+                "name": "U.S. Postal Service",
+                "description": ""
+            },
+            {
+                "id": "44",
+                "name": "Water Transportation",
+                "description": ""
+            },
+            {
+                "id": "45",
+                "name": "Transportation by Air",
+                "description": ""
+            },
+            {
+                "id": "46",
+                "name": "Pipelines, Except Natural Gas",
+                "description": ""
+            },
+            {
+                "id": "47",
+                "name": "Transportation Services",
+                "description": ""
+            },
+            {
+                "id": "48",
+                "name": "Communications",
+                "description": ""
+            },
+            {
+                "id": "49",
+                "name": "Electric, Gas, & Sanitary Services",
+                "description": ""
+            },
+            {
+                "id": "50",
+                "name": "Wholesale Trade - Durable Goods",
+                "description": ""
+            },
+            {
+                "id": "51",
+                "name": "Wholesale Trade - Nondurable Goods",
+                "description": ""
+            },
+            {
+                "id": "52",
+                "name": "Building Materials & Gardening Supplies",
+                "description": ""
+            },
+            {
+                "id": "53",
+                "name": "General Merchandise Stores",
+                "description": ""
+            },
+            {
+                "id": "54",
+                "name": "Food Stores",
+                "description": ""
+            },
+            {
+                "id": "55",
+                "name": "Automotive Dealers & Service Stations",
+                "description": ""
+            },
+            {
+                "id": "56",
+                "name": "Apparel & Accessory Stores",
+                "description": ""
+            },
+            {
+                "id": "57",
+                "name": "Furniture & Homefurnishing Stores",
+                "description": ""
+            },
+            {
+                "id": "58",
+                "name": "Eating & Drinking Places",
+                "description": ""
+            },
+            {
+                "id": "59",
+                "name": "Miscellaneous Retail",
+                "description": ""
+            },
+            {
+                "id": "60",
+                "name": "Depository Institutions",
+                "description": ""
+            },
+            {
+                "id": "61",
+                "name": "Nondepository Institutions",
+                "description": ""
+            },
+            {
+                "id": "62",
+                "name": "Security & Commodity Brokers",
+                "description": ""
+            },
+            {
+                "id": "64",
+                "name": "Insurance Agents, Brokers, & Service",
+                "description": ""
+            },
+            {
+                "id": "63",
+                "name": "Insurance Carriers",
+                "description": ""
+            },
+            {
+                "id": "65",
+                "name": "Real Estate",
+                "description": ""
+            },
+            {
+                "id": "67",
+                "name": "Holding & Other Investment Offices",
+                "description": ""
+            },
+            {
+                "id": "70",
+                "name": "Hotels & Other Lodging Places",
+                "description": ""
+            },
+            {
+                "id": "72",
+                "name": "Personal Services",
+                "description": ""
+            },
+            {
+                "id": "73",
+                "name": "Business Services",
+                "description": ""
+            },
+            {
+                "id": "75",
+                "name": "Auto Repair, Services, & Parking",
+                "description": ""
+            },
+            {
+                "id": "76",
+                "name": "Miscellaneous Repair Services",
+                "description": ""
+            },
+            {
+                "id": "78",
+                "name": "Motion Pictures",
+                "description": ""
+            },
+            {
+                "id": "79",
+                "name": "Amusement & Recreation Services",
+                "description": ""
+            },
+            {
+                "id": "80",
+                "name": "Health Services",
+                "description": ""
+            },
+            {
+                "id": "81",
+                "name": "Legal Services",
+                "description": ""
+            },
+            {
+                "id": "82",
+                "name": "Educational Services",
+                "description": ""
+            },
+            {
+                "id": "83",
+                "name": "Social Services",
+                "description": ""
+            },
+            {
+                "id": "84",
+                "name": "Museums, Botanical, Zoological Gardens",
+                "description": ""
+            },
+            {
+                "id": "86",
+                "name": "Membership Organizations",
+                "description": ""
+            },
+            {
+                "id": "87",
+                "name": "Engineering & Management Services",
+                "description": ""
+            },
+            {
+                "id": "88",
+                "name": "Private Households",
+                "description": ""
+            },
+            {
+                "id": "89",
+                "name": "Services, Not Elsewhere Classified",
+                "description": ""
+            },
+            {
+                "id": "91",
+                "name": "Executive, Legislative, & General",
+                "description": ""
+            },
+            {
+                "id": "92",
+                "name": "Justice, Public Order, & Safety",
+                "description": ""
+            },
+            {
+                "id": "93",
+                "name": "Finance, Taxation, & Monetary Policy",
+                "description": ""
+            },
+            {
+                "id": "94",
+                "name": "Administration of Human Resources",
+                "description": ""
+            },
+            {
+                "id": "95",
+                "name": "Environmental Quality & Housing",
+                "description": ""
+            },
+            {
+                "id": "96",
+                "name": "Administration of Economic Programs",
+                "description": ""
+            },
+            {
+                "id": "97",
+                "name": "National Security & International Affairs",
+                "description": ""
+            },
+            {
+                "id": "98",
+                "name": "Zoological Gardens",
+                "description": ""
+            },
+            {
+                "id": "99",
+                "name": "Non-Classifiable Establishments",
+                "description": ""
+            }
+        ],
+        "4": [
+            {
+                "id": "0111",
+                "name": "Wheat",
+                "description": ""
+            },
+            {
+                "id": "0112",
+                "name": "Rice",
+                "description": ""
+            },
+            {
+                "id": "0115",
+                "name": "Corn",
+                "description": ""
+            },
+            {
+                "id": "0116",
+                "name": "Soybeans",
+                "description": ""
+            },
+            {
+                "id": "0119",
+                "name": "Cash grains, nec",
+                "description": ""
+            },
+            {
+                "id": "0131",
+                "name": "Cotton",
+                "description": ""
+            },
+            {
+                "id": "0132",
+                "name": "Tobacco",
+                "description": ""
+            },
+            {
+                "id": "0133",
+                "name": "Sugarcane and sugar beets",
+                "description": ""
+            },
+            {
+                "id": "0134",
+                "name": "Irish potatoes",
+                "description": ""
+            },
+            {
+                "id": "0139",
+                "name": "Field crops, except cash grain",
+                "description": ""
+            },
+            {
+                "id": "0161",
+                "name": "Vegetables and melons",
+                "description": ""
+            },
+            {
+                "id": "0171",
+                "name": "Berry crops",
+                "description": ""
+            },
+            {
+                "id": "0172",
+                "name": "Grapes",
+                "description": ""
+            },
+            {
+                "id": "0173",
+                "name": "Tree nuts",
+                "description": ""
+            },
+            {
+                "id": "0174",
+                "name": "Citrus fruits",
+                "description": ""
+            },
+            {
+                "id": "0175",
+                "name": "Deciduous tree fruits",
+                "description": ""
+            },
+            {
+                "id": "0179",
+                "name": "Fruits and tree nuts, nec",
+                "description": ""
+            },
+            {
+                "id": "0181",
+                "name": "Ornamental nursery products",
+                "description": ""
+            },
+            {
+                "id": "0182",
+                "name": "Food crops grown under cover",
+                "description": ""
+            },
+            {
+                "id": "0191",
+                "name": "General farms, primarily crop",
+                "description": ""
+            },
+            {
+                "id": "0211",
+                "name": "Beef cattle feedlots",
+                "description": ""
+            },
+            {
+                "id": "0212",
+                "name": "Beef cattle, except feedlots",
+                "description": ""
+            },
+            {
+                "id": "0213",
+                "name": "Hogs",
+                "description": ""
+            },
+            {
+                "id": "0214",
+                "name": "Sheep and goats",
+                "description": ""
+            },
+            {
+                "id": "0219",
+                "name": "General livestock, nec",
+                "description": ""
+            },
+            {
+                "id": "0241",
+                "name": "Dairy farms",
+                "description": ""
+            },
+            {
+                "id": "0251",
+                "name": "Broiler, fryer, and roaster chickens",
+                "description": ""
+            },
+            {
+                "id": "0252",
+                "name": "Chicken eggs",
+                "description": ""
+            },
+            {
+                "id": "0253",
+                "name": "Turkeys and turkey eggs",
+                "description": ""
+            },
+            {
+                "id": "0254",
+                "name": "Poultry hatcheries",
+                "description": ""
+            },
+            {
+                "id": "0259",
+                "name": "Poultry and eggs, nec",
+                "description": ""
+            },
+            {
+                "id": "0271",
+                "name": "Fur-bearing animals and rabbits",
+                "description": ""
+            },
+            {
+                "id": "0272",
+                "name": "Horses and other equines",
+                "description": ""
+            },
+            {
+                "id": "0273",
+                "name": "Animal aquaculture",
+                "description": ""
+            },
+            {
+                "id": "0279",
+                "name": "Animal specialties, nec",
+                "description": ""
+            },
+            {
+                "id": "0291",
+                "name": "General farms, primarily animals",
+                "description": ""
+            },
+            {
+                "id": "0711",
+                "name": "Soil preparation services",
+                "description": ""
+            },
+            {
+                "id": "0721",
+                "name": "Crop planting and protection",
+                "description": ""
+            },
+            {
+                "id": "0722",
+                "name": "Crop harvesting",
+                "description": ""
+            },
+            {
+                "id": "0723",
+                "name": "Crop preparation services for market",
+                "description": ""
+            },
+            {
+                "id": "0724",
+                "name": "Cotton ginning",
+                "description": ""
+            },
+            {
+                "id": "0741",
+                "name": "Veterinary services for livestock",
+                "description": ""
+            },
+            {
+                "id": "0742",
+                "name": "Veterinary services, specialties",
+                "description": ""
+            },
+            {
+                "id": "0751",
+                "name": "Livestock services, except veterinary",
+                "description": ""
+            },
+            {
+                "id": "0752",
+                "name": "Animal specialty services",
+                "description": ""
+            },
+            {
+                "id": "0761",
+                "name": "Farm labor contractors",
+                "description": ""
+            },
+            {
+                "id": "0762",
+                "name": "Farm management services",
+                "description": ""
+            },
+            {
+                "id": "0781",
+                "name": "Landscape counseling and planning",
+                "description": ""
+            },
+            {
+                "id": "0782",
+                "name": "Lawn and garden services",
+                "description": ""
+            },
+            {
+                "id": "0783",
+                "name": "Ornamental shrub and tree services",
+                "description": ""
+            },
+            {
+                "id": "0811",
+                "name": "Timber tracts",
+                "description": ""
+            },
+            {
+                "id": "0831",
+                "name": "Forest products",
+                "description": ""
+            },
+            {
+                "id": "0851",
+                "name": "Forestry services",
+                "description": ""
+            },
+            {
+                "id": "0912",
+                "name": "Finfish",
+                "description": ""
+            },
+            {
+                "id": "0913",
+                "name": "Shellfish",
+                "description": ""
+            },
+            {
+                "id": "0919",
+                "name": "Miscellaneous marine products",
+                "description": ""
+            },
+            {
+                "id": "0921",
+                "name": "Fish hatcheries and preserves",
+                "description": ""
+            },
+            {
+                "id": "0971",
+                "name": "Hunting, trapping, game propagation",
+                "description": ""
+            },
+            {
+                "id": "1011",
+                "name": "Iron ores",
+                "description": ""
+            },
+            {
+                "id": "1021",
+                "name": "Copper ores",
+                "description": ""
+            },
+            {
+                "id": "1031",
+                "name": "Lead and zinc ores",
+                "description": ""
+            },
+            {
+                "id": "1041",
+                "name": "Gold ores",
+                "description": ""
+            },
+            {
+                "id": "1044",
+                "name": "Silver ores",
+                "description": ""
+            },
+            {
+                "id": "1061",
+                "name": "Ferroalloy ores, except vanadium",
+                "description": ""
+            },
+            {
+                "id": "1081",
+                "name": "Metal mining services",
+                "description": ""
+            },
+            {
+                "id": "1094",
+                "name": "Uranium-radium-vanadium ores",
+                "description": ""
+            },
+            {
+                "id": "1099",
+                "name": "Metal ores, nec",
+                "description": ""
+            },
+            {
+                "id": "1221",
+                "name": "Bituminous coal and lignite-surface mining",
+                "description": ""
+            },
+            {
+                "id": "1222",
+                "name": "Bituminous coal-underground mining",
+                "description": ""
+            },
+            {
+                "id": "1231",
+                "name": "Anthracite mining",
+                "description": ""
+            },
+            {
+                "id": "1241",
+                "name": "Coal mining services",
+                "description": ""
+            },
+            {
+                "id": "1311",
+                "name": "Crude petroleum and natural gas",
+                "description": ""
+            },
+            {
+                "id": "1321",
+                "name": "Natural gas liquids",
+                "description": ""
+            },
+            {
+                "id": "1381",
+                "name": "Drilling oil and gas wells",
+                "description": ""
+            },
+            {
+                "id": "1382",
+                "name": "Oil and gas exploration services",
+                "description": ""
+            },
+            {
+                "id": "1389",
+                "name": "Oil and gas field services, nec",
+                "description": ""
+            },
+            {
+                "id": "1411",
+                "name": "Dimension stone",
+                "description": ""
+            },
+            {
+                "id": "1422",
+                "name": "Crushed and broken limestone",
+                "description": ""
+            },
+            {
+                "id": "1423",
+                "name": "Crushed and broken granite",
+                "description": ""
+            },
+            {
+                "id": "1429",
+                "name": "Crushed and broken stone, nec",
+                "description": ""
+            },
+            {
+                "id": "1442",
+                "name": "Construction sand and gravel",
+                "description": ""
+            },
+            {
+                "id": "1446",
+                "name": "Industrial sand",
+                "description": ""
+            },
+            {
+                "id": "1455",
+                "name": "Kaolin and ball clay",
+                "description": ""
+            },
+            {
+                "id": "1459",
+                "name": "Clay and related minerals, nec",
+                "description": ""
+            },
+            {
+                "id": "1474",
+                "name": "Potash, soda, and borate minerals",
+                "description": ""
+            },
+            {
+                "id": "1475",
+                "name": "Phosphate rock",
+                "description": ""
+            },
+            {
+                "id": "1479",
+                "name": "Chemical and fertilizer mining",
+                "description": ""
+            },
+            {
+                "id": "1481",
+                "name": "Nonmetallic mineral services",
+                "description": ""
+            },
+            {
+                "id": "1499",
+                "name": "Miscellaneous nonmetallic mining",
+                "description": ""
+            },
+            {
+                "id": "1521",
+                "name": "Single-family housing construction",
+                "description": ""
+            },
+            {
+                "id": "1522",
+                "name": "Residential construction, nec",
+                "description": ""
+            },
+            {
+                "id": "1531",
+                "name": "Operative builders",
+                "description": ""
+            },
+            {
+                "id": "1541",
+                "name": "Industrial buildings and warehouses",
+                "description": ""
+            },
+            {
+                "id": "1542",
+                "name": "Nonresidential construction, nec",
+                "description": ""
+            },
+            {
+                "id": "1611",
+                "name": "Highway and street construction",
+                "description": ""
+            },
+            {
+                "id": "1622",
+                "name": "Bridge, tunnel, and elevated highway",
+                "description": ""
+            },
+            {
+                "id": "1623",
+                "name": "Water, sewer, and utility lines",
+                "description": ""
+            },
+            {
+                "id": "1629",
+                "name": "Heavy construction, nec",
+                "description": ""
+            },
+            {
+                "id": "1711",
+                "name": "Plumbing, heating, air-conditioning",
+                "description": ""
+            },
+            {
+                "id": "1721",
+                "name": "Painting and paper hanging",
+                "description": ""
+            },
+            {
+                "id": "1731",
+                "name": "Electrical work",
+                "description": ""
+            },
+            {
+                "id": "1741",
+                "name": "Masonry and other stonework",
+                "description": ""
+            },
+            {
+                "id": "1742",
+                "name": "Plastering, drywall, and insulation",
+                "description": ""
+            },
+            {
+                "id": "1743",
+                "name": "Terrazzo, tile, marble, mosaic work",
+                "description": ""
+            },
+            {
+                "id": "1751",
+                "name": "Carpentry work",
+                "description": ""
+            },
+            {
+                "id": "1752",
+                "name": "Floor laying and floor work, nec",
+                "description": ""
+            },
+            {
+                "id": "1761",
+                "name": "Roofing, siding, and sheetmetal work",
+                "description": ""
+            },
+            {
+                "id": "1771",
+                "name": "Concrete work",
+                "description": ""
+            },
+            {
+                "id": "1781",
+                "name": "Water well drilling",
+                "description": ""
+            },
+            {
+                "id": "1791",
+                "name": "Structural steel erection",
+                "description": ""
+            },
+            {
+                "id": "1793",
+                "name": "Glass and glazing work",
+                "description": ""
+            },
+            {
+                "id": "1794",
+                "name": "Excavation work",
+                "description": ""
+            },
+            {
+                "id": "1795",
+                "name": "Wrecking and demolition work",
+                "description": ""
+            },
+            {
+                "id": "1796",
+                "name": "Installing building equipment",
+                "description": ""
+            },
+            {
+                "id": "1799",
+                "name": "Special trade contractors, nec",
+                "description": ""
+            },
+            {
+                "id": "2011",
+                "name": "Meat packing plants",
+                "description": ""
+            },
+            {
+                "id": "2013",
+                "name": "Sausages and other prepared meats",
+                "description": ""
+            },
+            {
+                "id": "2015",
+                "name": "Poultry slaughtering and processing",
+                "description": ""
+            },
+            {
+                "id": "2021",
+                "name": "Creamery butter",
+                "description": ""
+            },
+            {
+                "id": "2022",
+                "name": "Cheese; natural and processed",
+                "description": ""
+            },
+            {
+                "id": "2023",
+                "name": "Dry, condensed, evaporated products",
+                "description": ""
+            },
+            {
+                "id": "2024",
+                "name": "Ice cream and frozen deserts",
+                "description": ""
+            },
+            {
+                "id": "2026",
+                "name": "Fluid milk",
+                "description": ""
+            },
+            {
+                "id": "2032",
+                "name": "Canned specialties",
+                "description": ""
+            },
+            {
+                "id": "2033",
+                "name": "Canned fruits and specialties",
+                "description": ""
+            },
+            {
+                "id": "2034",
+                "name": "Dehydrated fruits, vegetables, soups",
+                "description": ""
+            },
+            {
+                "id": "2035",
+                "name": "Pickles, sauces, and salad dressings",
+                "description": ""
+            },
+            {
+                "id": "2037",
+                "name": "Frozen fruits and vegetables",
+                "description": ""
+            },
+            {
+                "id": "2038",
+                "name": "Frozen specialties, nec",
+                "description": ""
+            },
+            {
+                "id": "2041",
+                "name": "Flour and other grain mill products",
+                "description": ""
+            },
+            {
+                "id": "2043",
+                "name": "Cereal breakfast foods",
+                "description": ""
+            },
+            {
+                "id": "2044",
+                "name": "Rice milling",
+                "description": ""
+            },
+            {
+                "id": "2045",
+                "name": "Prepared flour mixes and doughs",
+                "description": ""
+            },
+            {
+                "id": "2046",
+                "name": "Wet corn milling",
+                "description": ""
+            },
+            {
+                "id": "2047",
+                "name": "Dog and cat food",
+                "description": ""
+            },
+            {
+                "id": "2048",
+                "name": "Prepared feeds, nec",
+                "description": ""
+            },
+            {
+                "id": "2051",
+                "name": "Bread, cake, and related products",
+                "description": ""
+            },
+            {
+                "id": "2052",
+                "name": "Cookies and crackers",
+                "description": ""
+            },
+            {
+                "id": "2053",
+                "name": "Frozen bakery products, except bread",
+                "description": ""
+            },
+            {
+                "id": "2061",
+                "name": "Raw cane sugar",
+                "description": ""
+            },
+            {
+                "id": "2062",
+                "name": "Cane sugar refining",
+                "description": ""
+            },
+            {
+                "id": "2063",
+                "name": "Beet sugar",
+                "description": ""
+            },
+            {
+                "id": "2064",
+                "name": "Candy and other confectionery products",
+                "description": ""
+            },
+            {
+                "id": "2066",
+                "name": "Chocolate and cocoa products",
+                "description": ""
+            },
+            {
+                "id": "2067",
+                "name": "Chewing gum",
+                "description": ""
+            },
+            {
+                "id": "2068",
+                "name": "Salted and roasted nuts and seeds",
+                "description": ""
+            },
+            {
+                "id": "2074",
+                "name": "Cottonseed oil mills",
+                "description": ""
+            },
+            {
+                "id": "2075",
+                "name": "Soybean oil mills",
+                "description": ""
+            },
+            {
+                "id": "2076",
+                "name": "Vegetable oil mills, nec",
+                "description": ""
+            },
+            {
+                "id": "2077",
+                "name": "Animal and marine fats and oils",
+                "description": ""
+            },
+            {
+                "id": "2079",
+                "name": "Edible fats and oils",
+                "description": ""
+            },
+            {
+                "id": "2082",
+                "name": "Malt beverages",
+                "description": ""
+            },
+            {
+                "id": "2083",
+                "name": "Malt",
+                "description": ""
+            },
+            {
+                "id": "2084",
+                "name": "Wines, brandy, and brandy spirits",
+                "description": ""
+            },
+            {
+                "id": "2085",
+                "name": "Distilled and blended liquors",
+                "description": ""
+            },
+            {
+                "id": "2086",
+                "name": "Bottled and canned soft drinks",
+                "description": ""
+            },
+            {
+                "id": "2087",
+                "name": "Flavoring extracts and syrups, nec",
+                "description": ""
+            },
+            {
+                "id": "2091",
+                "name": "Canned and cured fish and seafoods",
+                "description": ""
+            },
+            {
+                "id": "2092",
+                "name": "Fresh or frozen packaged fish",
+                "description": ""
+            },
+            {
+                "id": "2095",
+                "name": "Roasted coffee",
+                "description": ""
+            },
+            {
+                "id": "2096",
+                "name": "Potato chips and similar snacks",
+                "description": ""
+            },
+            {
+                "id": "2097",
+                "name": "Manufactured ice",
+                "description": ""
+            },
+            {
+                "id": "2098",
+                "name": "Macaroni and spaghetti",
+                "description": ""
+            },
+            {
+                "id": "2099",
+                "name": "Food preparations, nec",
+                "description": ""
+            },
+            {
+                "id": "2111",
+                "name": "Cigarettes",
+                "description": ""
+            },
+            {
+                "id": "2121",
+                "name": "Cigars",
+                "description": ""
+            },
+            {
+                "id": "2131",
+                "name": "Chewing and smoking tobacco",
+                "description": ""
+            },
+            {
+                "id": "2141",
+                "name": "Tobacco stemming and redrying",
+                "description": ""
+            },
+            {
+                "id": "2211",
+                "name": "Broadwoven fabric mills, cotton",
+                "description": ""
+            },
+            {
+                "id": "2221",
+                "name": "Broadwoven fabric mills, manmade",
+                "description": ""
+            },
+            {
+                "id": "2231",
+                "name": "Broadwoven fabric mills, wool",
+                "description": ""
+            },
+            {
+                "id": "2241",
+                "name": "Narrow fabric mills",
+                "description": ""
+            },
+            {
+                "id": "2251",
+                "name": "Women's hosiery, except socks",
+                "description": ""
+            },
+            {
+                "id": "2252",
+                "name": "Hosiery, nec",
+                "description": ""
+            },
+            {
+                "id": "2253",
+                "name": "Knit outerwear mills",
+                "description": ""
+            },
+            {
+                "id": "2254",
+                "name": "Knit underwear mills",
+                "description": ""
+            },
+            {
+                "id": "2257",
+                "name": "Weft knit fabric mills",
+                "description": ""
+            },
+            {
+                "id": "2258",
+                "name": "Lace and warp knit fabric mills",
+                "description": ""
+            },
+            {
+                "id": "2259",
+                "name": "Knitting mills, nec",
+                "description": ""
+            },
+            {
+                "id": "2261",
+                "name": "Finishing plants, cotton",
+                "description": ""
+            },
+            {
+                "id": "2262",
+                "name": "Finishing plants, manmade",
+                "description": ""
+            },
+            {
+                "id": "2269",
+                "name": "Finishing plants, nec",
+                "description": ""
+            },
+            {
+                "id": "2273",
+                "name": "Carpets and rugs",
+                "description": ""
+            },
+            {
+                "id": "2281",
+                "name": "Yarn spinning mills",
+                "description": ""
+            },
+            {
+                "id": "2282",
+                "name": "Throwing and winding mills",
+                "description": ""
+            },
+            {
+                "id": "2284",
+                "name": "Thread mills",
+                "description": ""
+            },
+            {
+                "id": "2295",
+                "name": "Coated fabrics, not rubberized",
+                "description": ""
+            },
+            {
+                "id": "2296",
+                "name": "Tire cord and fabrics",
+                "description": ""
+            },
+            {
+                "id": "2297",
+                "name": "Nonwoven fabrics",
+                "description": ""
+            },
+            {
+                "id": "2298",
+                "name": "Cordage and twine",
+                "description": ""
+            },
+            {
+                "id": "2299",
+                "name": "Textile goods, nec",
+                "description": ""
+            },
+            {
+                "id": "2311",
+                "name": "Men's and boy's suits and coats",
+                "description": ""
+            },
+            {
+                "id": "2321",
+                "name": "Men's and boy's furnishings",
+                "description": ""
+            },
+            {
+                "id": "2322",
+                "name": "Men's and boy's underwear and nightwear",
+                "description": ""
+            },
+            {
+                "id": "2323",
+                "name": "Men's and boy's neckwear",
+                "description": ""
+            },
+            {
+                "id": "2325",
+                "name": "Men's and boy's trousers and slacks",
+                "description": ""
+            },
+            {
+                "id": "2326",
+                "name": "Men's and boy's work clothing",
+                "description": ""
+            },
+            {
+                "id": "2329",
+                "name": "Men's and boy's clothing, nec",
+                "description": ""
+            },
+            {
+                "id": "2331",
+                "name": "Women's and misses' blouses and shirts",
+                "description": ""
+            },
+            {
+                "id": "2335",
+                "name": "Women's, junior's, and misses' dresses",
+                "description": ""
+            },
+            {
+                "id": "2337",
+                "name": "Women's and misses' suits and coats",
+                "description": ""
+            },
+            {
+                "id": "2339",
+                "name": "Women's and misses' outerwear, nec",
+                "description": ""
+            },
+            {
+                "id": "2341",
+                "name": "Women's and children's underwear",
+                "description": ""
+            },
+            {
+                "id": "2342",
+                "name": "Bras, girdles, and allied garments",
+                "description": ""
+            },
+            {
+                "id": "2353",
+                "name": "Hats, caps, and millinery",
+                "description": ""
+            },
+            {
+                "id": "2361",
+                "name": "Girl's and children's dresses, blouses",
+                "description": ""
+            },
+            {
+                "id": "2369",
+                "name": "Girl's and children's outerwear, nec",
+                "description": ""
+            },
+            {
+                "id": "2371",
+                "name": "Fur goods",
+                "description": ""
+            },
+            {
+                "id": "2381",
+                "name": "Fabric dress and work gloves",
+                "description": ""
+            },
+            {
+                "id": "2384",
+                "name": "Robes and dressing gowns",
+                "description": ""
+            },
+            {
+                "id": "2385",
+                "name": "Waterproof outerwear",
+                "description": ""
+            },
+            {
+                "id": "2386",
+                "name": "Leather and sheep-lined clothing",
+                "description": ""
+            },
+            {
+                "id": "2387",
+                "name": "Apparel belts",
+                "description": ""
+            },
+            {
+                "id": "2389",
+                "name": "Apparel and accessories, nec",
+                "description": ""
+            },
+            {
+                "id": "2391",
+                "name": "Curtains and draperies",
+                "description": ""
+            },
+            {
+                "id": "2392",
+                "name": "Household furnishings, nec",
+                "description": ""
+            },
+            {
+                "id": "2393",
+                "name": "Textile bags",
+                "description": ""
+            },
+            {
+                "id": "2394",
+                "name": "Canvas and related products",
+                "description": ""
+            },
+            {
+                "id": "2395",
+                "name": "Pleating and stitching",
+                "description": ""
+            },
+            {
+                "id": "2396",
+                "name": "Automotive and apparel trimmings",
+                "description": ""
+            },
+            {
+                "id": "2397",
+                "name": "Schiffli machine embroideries",
+                "description": ""
+            },
+            {
+                "id": "2399",
+                "name": "Fabricated textile products, nec",
+                "description": ""
+            },
+            {
+                "id": "2411",
+                "name": "Logging",
+                "description": ""
+            },
+            {
+                "id": "2421",
+                "name": "Sawmills and planing mills, general",
+                "description": ""
+            },
+            {
+                "id": "2426",
+                "name": "Hardwood dimension and flooring mills",
+                "description": ""
+            },
+            {
+                "id": "2429",
+                "name": "Special product sawmills, nec",
+                "description": ""
+            },
+            {
+                "id": "2431",
+                "name": "Millwork",
+                "description": ""
+            },
+            {
+                "id": "2434",
+                "name": "Wood kitchen cabinets",
+                "description": ""
+            },
+            {
+                "id": "2435",
+                "name": "Hardwood veneer and plywood",
+                "description": ""
+            },
+            {
+                "id": "2436",
+                "name": "Softwood veneer and plywood",
+                "description": ""
+            },
+            {
+                "id": "2439",
+                "name": "Structural wood members, nec",
+                "description": ""
+            },
+            {
+                "id": "2441",
+                "name": "Nailed wood boxes and shook",
+                "description": ""
+            },
+            {
+                "id": "2448",
+                "name": "Wood pallets and skids",
+                "description": ""
+            },
+            {
+                "id": "2449",
+                "name": "Wood containers, nec",
+                "description": ""
+            },
+            {
+                "id": "2451",
+                "name": "Mobile homes",
+                "description": ""
+            },
+            {
+                "id": "2452",
+                "name": "Prefabricated wood buildings",
+                "description": ""
+            },
+            {
+                "id": "2491",
+                "name": "Wood preserving",
+                "description": ""
+            },
+            {
+                "id": "2493",
+                "name": "Reconstituted wood products",
+                "description": ""
+            },
+            {
+                "id": "2499",
+                "name": "Wood products, nec",
+                "description": ""
+            },
+            {
+                "id": "2511",
+                "name": "Wood household furniture",
+                "description": ""
+            },
+            {
+                "id": "2512",
+                "name": "Upholstered household furniture",
+                "description": ""
+            },
+            {
+                "id": "2514",
+                "name": "Metal household furniture",
+                "description": ""
+            },
+            {
+                "id": "2515",
+                "name": "Mattresses and bedsprings",
+                "description": ""
+            },
+            {
+                "id": "2517",
+                "name": "Wood television and radio cabinets",
+                "description": ""
+            },
+            {
+                "id": "2519",
+                "name": "Household furniture, nec",
+                "description": ""
+            },
+            {
+                "id": "2521",
+                "name": "Wood office furniture",
+                "description": ""
+            },
+            {
+                "id": "2522",
+                "name": "Office furniture, except wood",
+                "description": ""
+            },
+            {
+                "id": "2531",
+                "name": "Public building and related furniture",
+                "description": ""
+            },
+            {
+                "id": "2541",
+                "name": "Wood partitions and fixtures",
+                "description": ""
+            },
+            {
+                "id": "2542",
+                "name": "Partitions and fixtures, except wood",
+                "description": ""
+            },
+            {
+                "id": "2591",
+                "name": "Drapery hardware and blinds and shades",
+                "description": ""
+            },
+            {
+                "id": "2599",
+                "name": "Furniture and fixtures, nec",
+                "description": ""
+            },
+            {
+                "id": "2611",
+                "name": "Pulp mills",
+                "description": ""
+            },
+            {
+                "id": "2621",
+                "name": "Paper mills",
+                "description": ""
+            },
+            {
+                "id": "2631",
+                "name": "Paperboard mills",
+                "description": ""
+            },
+            {
+                "id": "2652",
+                "name": "Setup paperboard boxes",
+                "description": ""
+            },
+            {
+                "id": "2653",
+                "name": "Corrugated and solid fiber boxes",
+                "description": ""
+            },
+            {
+                "id": "2655",
+                "name": "Fiber cans, drums, and similar products",
+                "description": ""
+            },
+            {
+                "id": "2656",
+                "name": "Sanitary food containers",
+                "description": ""
+            },
+            {
+                "id": "2657",
+                "name": "Folding paperboard boxes",
+                "description": ""
+            },
+            {
+                "id": "2671",
+                "name": "Paper; coated and laminated packaging",
+                "description": ""
+            },
+            {
+                "id": "2672",
+                "name": "Paper; coated and laminated, nec",
+                "description": ""
+            },
+            {
+                "id": "2673",
+                "name": "Bags: plastic, laminated, and coated",
+                "description": ""
+            },
+            {
+                "id": "2674",
+                "name": "Bags: uncoated paper and multiwall",
+                "description": ""
+            },
+            {
+                "id": "2675",
+                "name": "Die-cut paper and board",
+                "description": ""
+            },
+            {
+                "id": "2676",
+                "name": "Sanitary paper products",
+                "description": ""
+            },
+            {
+                "id": "2677",
+                "name": "Envelopes",
+                "description": ""
+            },
+            {
+                "id": "2678",
+                "name": "Stationery products",
+                "description": ""
+            },
+            {
+                "id": "2679",
+                "name": "Converted paper products, nec",
+                "description": ""
+            },
+            {
+                "id": "2711",
+                "name": "Newspapers",
+                "description": ""
+            },
+            {
+                "id": "2721",
+                "name": "Periodicals",
+                "description": ""
+            },
+            {
+                "id": "2731",
+                "name": "Book publishing",
+                "description": ""
+            },
+            {
+                "id": "2732",
+                "name": "Book printing",
+                "description": ""
+            },
+            {
+                "id": "2741",
+                "name": "Miscellaneous publishing",
+                "description": ""
+            },
+            {
+                "id": "2752",
+                "name": "Commercial printing, lithographic",
+                "description": ""
+            },
+            {
+                "id": "2754",
+                "name": "Commercial printing, gravure",
+                "description": ""
+            },
+            {
+                "id": "2759",
+                "name": "Commercial printing, nec",
+                "description": ""
+            },
+            {
+                "id": "2761",
+                "name": "Manifold business forms",
+                "description": ""
+            },
+            {
+                "id": "2771",
+                "name": "Greeting cards",
+                "description": ""
+            },
+            {
+                "id": "2782",
+                "name": "Blankbooks and looseleaf binders",
+                "description": ""
+            },
+            {
+                "id": "2789",
+                "name": "Bookbinding and related work",
+                "description": ""
+            },
+            {
+                "id": "2791",
+                "name": "Typesetting",
+                "description": ""
+            },
+            {
+                "id": "2796",
+                "name": "Platemaking services",
+                "description": ""
+            },
+            {
+                "id": "2812",
+                "name": "Alkalies and chlorine",
+                "description": ""
+            },
+            {
+                "id": "2813",
+                "name": "Industrial gases",
+                "description": ""
+            },
+            {
+                "id": "2816",
+                "name": "Inorganic pigments",
+                "description": ""
+            },
+            {
+                "id": "2819",
+                "name": "Industrial inorganic chemicals, nec",
+                "description": ""
+            },
+            {
+                "id": "2821",
+                "name": "Plastics materials and resins",
+                "description": ""
+            },
+            {
+                "id": "2822",
+                "name": "Synthetic rubber",
+                "description": ""
+            },
+            {
+                "id": "2823",
+                "name": "Cellulosic manmade fibers",
+                "description": ""
+            },
+            {
+                "id": "2824",
+                "name": "Organic fibers, noncellulosic",
+                "description": ""
+            },
+            {
+                "id": "2833",
+                "name": "Medicinals and botanicals",
+                "description": ""
+            },
+            {
+                "id": "2834",
+                "name": "Pharmaceutical preparations",
+                "description": ""
+            },
+            {
+                "id": "2835",
+                "name": "Diagnostic substances",
+                "description": ""
+            },
+            {
+                "id": "2836",
+                "name": "Biological products, except diagnostic",
+                "description": ""
+            },
+            {
+                "id": "2841",
+                "name": "Soap and other detergents",
+                "description": ""
+            },
+            {
+                "id": "2842",
+                "name": "Polishes and sanitation goods",
+                "description": ""
+            },
+            {
+                "id": "2843",
+                "name": "Surface active agents",
+                "description": ""
+            },
+            {
+                "id": "2844",
+                "name": "Toilet preparations",
+                "description": ""
+            },
+            {
+                "id": "2851",
+                "name": "Paints and allied products",
+                "description": ""
+            },
+            {
+                "id": "2861",
+                "name": "Gum and wood chemicals",
+                "description": ""
+            },
+            {
+                "id": "2865",
+                "name": "Cyclic crudes and intermediates",
+                "description": ""
+            },
+            {
+                "id": "2869",
+                "name": "Industrial organic chemicals, nec",
+                "description": ""
+            },
+            {
+                "id": "2873",
+                "name": "Nitrogenous fertilizers",
+                "description": ""
+            },
+            {
+                "id": "2874",
+                "name": "Phosphatic fertilizers",
+                "description": ""
+            },
+            {
+                "id": "2875",
+                "name": "Fertilizers, mixing only",
+                "description": ""
+            },
+            {
+                "id": "2879",
+                "name": "Agricultural chemicals, nec",
+                "description": ""
+            },
+            {
+                "id": "2891",
+                "name": "Adhesives and sealants",
+                "description": ""
+            },
+            {
+                "id": "2892",
+                "name": "Explosives",
+                "description": ""
+            },
+            {
+                "id": "2893",
+                "name": "Printing ink",
+                "description": ""
+            },
+            {
+                "id": "2895",
+                "name": "Carbon black",
+                "description": ""
+            },
+            {
+                "id": "2899",
+                "name": "Chemical preparations, nec",
+                "description": ""
+            },
+            {
+                "id": "2911",
+                "name": "Petroleum refining",
+                "description": ""
+            },
+            {
+                "id": "2951",
+                "name": "Asphalt paving mixtures and blocks",
+                "description": ""
+            },
+            {
+                "id": "2952",
+                "name": "Asphalt felts and coatings",
+                "description": ""
+            },
+            {
+                "id": "2992",
+                "name": "Lubricating oils and greases",
+                "description": ""
+            },
+            {
+                "id": "2999",
+                "name": "Petroleum and coal products, nec",
+                "description": ""
+            },
+            {
+                "id": "3011",
+                "name": "Tires and inner tubes",
+                "description": ""
+            },
+            {
+                "id": "3021",
+                "name": "Rubber and plastics footwear",
+                "description": ""
+            },
+            {
+                "id": "3052",
+                "name": "Rubber and plastics hose and beltings",
+                "description": ""
+            },
+            {
+                "id": "3053",
+                "name": "Gaskets; packing and sealing devices",
+                "description": ""
+            },
+            {
+                "id": "3061",
+                "name": "Mechanical rubber goods",
+                "description": ""
+            },
+            {
+                "id": "3069",
+                "name": "Fabricated rubber products, nec",
+                "description": ""
+            },
+            {
+                "id": "3081",
+                "name": "Unsupported plastics film and sheet",
+                "description": ""
+            },
+            {
+                "id": "3082",
+                "name": "Unsupported plastics profile shapes",
+                "description": ""
+            },
+            {
+                "id": "3083",
+                "name": "Laminated plastics plate and sheet",
+                "description": ""
+            },
+            {
+                "id": "3084",
+                "name": "Plastics pipe",
+                "description": ""
+            },
+            {
+                "id": "3085",
+                "name": "Plastics bottles",
+                "description": ""
+            },
+            {
+                "id": "3086",
+                "name": "Plastics foam products",
+                "description": ""
+            },
+            {
+                "id": "3087",
+                "name": "Custom compound purchased resins",
+                "description": ""
+            },
+            {
+                "id": "3088",
+                "name": "Plastics plumbing fixtures",
+                "description": ""
+            },
+            {
+                "id": "3089",
+                "name": "Plastics products, nec",
+                "description": ""
+            },
+            {
+                "id": "3111",
+                "name": "Leather tanning and finishing",
+                "description": ""
+            },
+            {
+                "id": "3131",
+                "name": "Footwear cut stock",
+                "description": ""
+            },
+            {
+                "id": "3142",
+                "name": "House slippers",
+                "description": ""
+            },
+            {
+                "id": "3143",
+                "name": "Men's footwear, except athletic",
+                "description": ""
+            },
+            {
+                "id": "3144",
+                "name": "Women's footwear, except athletic",
+                "description": ""
+            },
+            {
+                "id": "3149",
+                "name": "Footwear, except rubber, nec",
+                "description": ""
+            },
+            {
+                "id": "3151",
+                "name": "Leather gloves and mittens",
+                "description": ""
+            },
+            {
+                "id": "3161",
+                "name": "Luggage",
+                "description": ""
+            },
+            {
+                "id": "3171",
+                "name": "Women's handbags and purses",
+                "description": ""
+            },
+            {
+                "id": "3172",
+                "name": "Personal leather goods, nec",
+                "description": ""
+            },
+            {
+                "id": "3199",
+                "name": "Leather goods, nec",
+                "description": ""
+            },
+            {
+                "id": "3211",
+                "name": "Flat glass",
+                "description": ""
+            },
+            {
+                "id": "3221",
+                "name": "Glass containers",
+                "description": ""
+            },
+            {
+                "id": "3229",
+                "name": "Pressed and blown glass, nec",
+                "description": ""
+            },
+            {
+                "id": "3231",
+                "name": "Products of purchased glass",
+                "description": ""
+            },
+            {
+                "id": "3241",
+                "name": "Cement, hydraulic",
+                "description": ""
+            },
+            {
+                "id": "3251",
+                "name": "Brick and structural clay tile",
+                "description": ""
+            },
+            {
+                "id": "3253",
+                "name": "Ceramic wall and floor tile",
+                "description": ""
+            },
+            {
+                "id": "3255",
+                "name": "Clay refractories",
+                "description": ""
+            },
+            {
+                "id": "3259",
+                "name": "Structural clay products, nec",
+                "description": ""
+            },
+            {
+                "id": "3261",
+                "name": "Vitreous plumbing fixtures",
+                "description": ""
+            },
+            {
+                "id": "3262",
+                "name": "Vitreous china table and kitchenware",
+                "description": ""
+            },
+            {
+                "id": "3263",
+                "name": "Semivitreous table and kitchenware",
+                "description": ""
+            },
+            {
+                "id": "3264",
+                "name": "Porcelain electrical supplies",
+                "description": ""
+            },
+            {
+                "id": "3269",
+                "name": "Pottery products, nec",
+                "description": ""
+            },
+            {
+                "id": "3271",
+                "name": "Concrete block and brick",
+                "description": ""
+            },
+            {
+                "id": "3272",
+                "name": "Concrete products, nec",
+                "description": ""
+            },
+            {
+                "id": "3273",
+                "name": "Ready-mixed concrete",
+                "description": ""
+            },
+            {
+                "id": "3274",
+                "name": "Lime",
+                "description": ""
+            },
+            {
+                "id": "3275",
+                "name": "Gypsum products",
+                "description": ""
+            },
+            {
+                "id": "3281",
+                "name": "Cut stone and stone products",
+                "description": ""
+            },
+            {
+                "id": "3291",
+                "name": "Abrasive products",
+                "description": ""
+            },
+            {
+                "id": "3292",
+                "name": "Asbestos products",
+                "description": ""
+            },
+            {
+                "id": "3295",
+                "name": "Minerals, ground or treated",
+                "description": ""
+            },
+            {
+                "id": "3296",
+                "name": "Mineral wool",
+                "description": ""
+            },
+            {
+                "id": "3297",
+                "name": "Nonclay refractories",
+                "description": ""
+            },
+            {
+                "id": "3299",
+                "name": "Nonmetallic mineral products,",
+                "description": ""
+            },
+            {
+                "id": "3312",
+                "name": "Blast furnaces and steel mills",
+                "description": ""
+            },
+            {
+                "id": "3313",
+                "name": "Electrometallurgical products",
+                "description": ""
+            },
+            {
+                "id": "3315",
+                "name": "Steel wire and related products",
+                "description": ""
+            },
+            {
+                "id": "3316",
+                "name": "Cold finishing of steel shapes",
+                "description": ""
+            },
+            {
+                "id": "3317",
+                "name": "Steel pipe and tubes",
+                "description": ""
+            },
+            {
+                "id": "3321",
+                "name": "Gray and ductile iron foundries",
+                "description": ""
+            },
+            {
+                "id": "3322",
+                "name": "Malleable iron foundries",
+                "description": ""
+            },
+            {
+                "id": "3324",
+                "name": "Steel investment foundries",
+                "description": ""
+            },
+            {
+                "id": "3325",
+                "name": "Steel foundries, nec",
+                "description": ""
+            },
+            {
+                "id": "3331",
+                "name": "Primary copper",
+                "description": ""
+            },
+            {
+                "id": "3334",
+                "name": "Primary aluminum",
+                "description": ""
+            },
+            {
+                "id": "3339",
+                "name": "Primary nonferrous metals, nec",
+                "description": ""
+            },
+            {
+                "id": "3341",
+                "name": "Secondary nonferrous metals",
+                "description": ""
+            },
+            {
+                "id": "3351",
+                "name": "Copper rolling and drawing",
+                "description": ""
+            },
+            {
+                "id": "3353",
+                "name": "Aluminum sheet, plate, and foil",
+                "description": ""
+            },
+            {
+                "id": "3354",
+                "name": "Aluminum extruded products",
+                "description": ""
+            },
+            {
+                "id": "3355",
+                "name": "Aluminum rolling and drawing, nec",
+                "description": ""
+            },
+            {
+                "id": "3356",
+                "name": "Nonferrous rolling and drawing, nec",
+                "description": ""
+            },
+            {
+                "id": "3357",
+                "name": "Nonferrous wiredrawing and insulating",
+                "description": ""
+            },
+            {
+                "id": "3363",
+                "name": "Aluminum die-castings",
+                "description": ""
+            },
+            {
+                "id": "3364",
+                "name": "Nonferrous die-castings except aluminum",
+                "description": ""
+            },
+            {
+                "id": "3365",
+                "name": "Aluminum foundries",
+                "description": ""
+            },
+            {
+                "id": "3366",
+                "name": "Copper foundries",
+                "description": ""
+            },
+            {
+                "id": "3369",
+                "name": "Nonferrous foundries, nec",
+                "description": ""
+            },
+            {
+                "id": "3398",
+                "name": "Metal heat treating",
+                "description": ""
+            },
+            {
+                "id": "3399",
+                "name": "Primary metal products",
+                "description": ""
+            },
+            {
+                "id": "3411",
+                "name": "Metal cans",
+                "description": ""
+            },
+            {
+                "id": "3412",
+                "name": "Metal barrels, drums, and pails",
+                "description": ""
+            },
+            {
+                "id": "3421",
+                "name": "Cutlery",
+                "description": ""
+            },
+            {
+                "id": "3423",
+                "name": "Hand and edge tools, nec",
+                "description": ""
+            },
+            {
+                "id": "3425",
+                "name": "Saw blades and handsaws",
+                "description": ""
+            },
+            {
+                "id": "3429",
+                "name": "Hardware, nec",
+                "description": ""
+            },
+            {
+                "id": "3431",
+                "name": "Metal sanitary ware",
+                "description": ""
+            },
+            {
+                "id": "3432",
+                "name": "Plumbing fixture fittings and trim",
+                "description": ""
+            },
+            {
+                "id": "3433",
+                "name": "Heating equipment, except electric",
+                "description": ""
+            },
+            {
+                "id": "3441",
+                "name": "Fabricated structural metal",
+                "description": ""
+            },
+            {
+                "id": "3442",
+                "name": "Metal doors, sash, and trim",
+                "description": ""
+            },
+            {
+                "id": "3443",
+                "name": "Fabricated plate work (boiler shop)",
+                "description": ""
+            },
+            {
+                "id": "3444",
+                "name": "Sheet metalwork",
+                "description": ""
+            },
+            {
+                "id": "3446",
+                "name": "Architectural metalwork",
+                "description": ""
+            },
+            {
+                "id": "3448",
+                "name": "Prefabricated metal buildings",
+                "description": ""
+            },
+            {
+                "id": "3449",
+                "name": "Miscellaneous metalwork",
+                "description": ""
+            },
+            {
+                "id": "3451",
+                "name": "Screw machine products",
+                "description": ""
+            },
+            {
+                "id": "3452",
+                "name": "Bolts, nuts, rivets, and washers",
+                "description": ""
+            },
+            {
+                "id": "3462",
+                "name": "Iron and steel forgings",
+                "description": ""
+            },
+            {
+                "id": "3463",
+                "name": "Nonferrous forgings",
+                "description": ""
+            },
+            {
+                "id": "3465",
+                "name": "Automotive stampings",
+                "description": ""
+            },
+            {
+                "id": "3466",
+                "name": "Crowns and closures",
+                "description": ""
+            },
+            {
+                "id": "3469",
+                "name": "Metal stampings, nec",
+                "description": ""
+            },
+            {
+                "id": "3471",
+                "name": "Plating and polishing",
+                "description": ""
+            },
+            {
+                "id": "3479",
+                "name": "Metal coating and allied services",
+                "description": ""
+            },
+            {
+                "id": "3482",
+                "name": "Small arms ammunition",
+                "description": ""
+            },
+            {
+                "id": "3483",
+                "name": "Ammunition, except for small arms, nec",
+                "description": ""
+            },
+            {
+                "id": "3484",
+                "name": "Small arms",
+                "description": ""
+            },
+            {
+                "id": "3489",
+                "name": "Ordnance and accessories, nec",
+                "description": ""
+            },
+            {
+                "id": "3491",
+                "name": "Industrial valves",
+                "description": ""
+            },
+            {
+                "id": "3492",
+                "name": "Fluid power valves and hose fittings",
+                "description": ""
+            },
+            {
+                "id": "3493",
+                "name": "Steel springs, except wire",
+                "description": ""
+            },
+            {
+                "id": "3494",
+                "name": "Valves and pipe fittings, nec",
+                "description": ""
+            },
+            {
+                "id": "3495",
+                "name": "Wire springs",
+                "description": ""
+            },
+            {
+                "id": "3496",
+                "name": "Miscellaneous fabricated wire products",
+                "description": ""
+            },
+            {
+                "id": "3497",
+                "name": "Metal foil and leaf",
+                "description": ""
+            },
+            {
+                "id": "3498",
+                "name": "Fabricated pipe and fittings",
+                "description": ""
+            },
+            {
+                "id": "3499",
+                "name": "Fabricated metal products, nec",
+                "description": ""
+            },
+            {
+                "id": "3511",
+                "name": "Turbines and turbine generator sets",
+                "description": ""
+            },
+            {
+                "id": "3519",
+                "name": "Internal combustion engines, nec",
+                "description": ""
+            },
+            {
+                "id": "3523",
+                "name": "Farm machinery and equipment",
+                "description": ""
+            },
+            {
+                "id": "3524",
+                "name": "Lawn and garden equipment",
+                "description": ""
+            },
+            {
+                "id": "3531",
+                "name": "Construction machinery",
+                "description": ""
+            },
+            {
+                "id": "3532",
+                "name": "Mining machinery",
+                "description": ""
+            },
+            {
+                "id": "3533",
+                "name": "Oil and gas field machinery",
+                "description": ""
+            },
+            {
+                "id": "3534",
+                "name": "Elevators and moving stairways",
+                "description": ""
+            },
+            {
+                "id": "3535",
+                "name": "Conveyors and conveying equipment",
+                "description": ""
+            },
+            {
+                "id": "3536",
+                "name": "Hoists, cranes, and monorails",
+                "description": ""
+            },
+            {
+                "id": "3537",
+                "name": "Industrial trucks and tractors",
+                "description": ""
+            },
+            {
+                "id": "3541",
+                "name": "Machine tools, metal cutting type",
+                "description": ""
+            },
+            {
+                "id": "3542",
+                "name": "Machine tools, metal forming type",
+                "description": ""
+            },
+            {
+                "id": "3543",
+                "name": "Industrial patterns",
+                "description": ""
+            },
+            {
+                "id": "3544",
+                "name": "Special dies, tools, jigs, and fixtures",
+                "description": ""
+            },
+            {
+                "id": "3545",
+                "name": "Machine tool accessories",
+                "description": ""
+            },
+            {
+                "id": "3546",
+                "name": "Power-driven handtools",
+                "description": ""
+            },
+            {
+                "id": "3547",
+                "name": "Rolling mill machinery",
+                "description": ""
+            },
+            {
+                "id": "3548",
+                "name": "Welding apparatus",
+                "description": ""
+            },
+            {
+                "id": "3549",
+                "name": "Metalworking machinery, nec",
+                "description": ""
+            },
+            {
+                "id": "3552",
+                "name": "Textile machinery",
+                "description": ""
+            },
+            {
+                "id": "3553",
+                "name": "Woodworking machinery",
+                "description": ""
+            },
+            {
+                "id": "3554",
+                "name": "Paper industries machinery",
+                "description": ""
+            },
+            {
+                "id": "3555",
+                "name": "Printing trades machinery",
+                "description": ""
+            },
+            {
+                "id": "3556",
+                "name": "Food products machinery",
+                "description": ""
+            },
+            {
+                "id": "3559",
+                "name": "Special industry machinery, nec",
+                "description": ""
+            },
+            {
+                "id": "3561",
+                "name": "Pumps and pumping equipment",
+                "description": ""
+            },
+            {
+                "id": "3562",
+                "name": "Ball and roller bearings",
+                "description": ""
+            },
+            {
+                "id": "3563",
+                "name": "Air and gas compressors",
+                "description": ""
+            },
+            {
+                "id": "3564",
+                "name": "Blowers and fans",
+                "description": ""
+            },
+            {
+                "id": "3565",
+                "name": "Packaging machinery",
+                "description": ""
+            },
+            {
+                "id": "3566",
+                "name": "Speed changers, drives, and gears",
+                "description": ""
+            },
+            {
+                "id": "3567",
+                "name": "Industrial furnaces and ovens",
+                "description": ""
+            },
+            {
+                "id": "3568",
+                "name": "Power transmission equipment, nec",
+                "description": ""
+            },
+            {
+                "id": "3569",
+                "name": "General industrial machinery,",
+                "description": ""
+            },
+            {
+                "id": "3571",
+                "name": "Electronic computers",
+                "description": ""
+            },
+            {
+                "id": "3572",
+                "name": "Computer storage devices",
+                "description": ""
+            },
+            {
+                "id": "3575",
+                "name": "Computer terminals",
+                "description": ""
+            },
+            {
+                "id": "3577",
+                "name": "Computer peripheral equipment, nec",
+                "description": ""
+            },
+            {
+                "id": "3578",
+                "name": "Calculating and accounting equipment",
+                "description": ""
+            },
+            {
+                "id": "3579",
+                "name": "Office machines, nec",
+                "description": ""
+            },
+            {
+                "id": "3581",
+                "name": "Automatic vending machines",
+                "description": ""
+            },
+            {
+                "id": "3582",
+                "name": "Commercial laundry equipment",
+                "description": ""
+            },
+            {
+                "id": "3585",
+                "name": "Refrigeration and heating equipment",
+                "description": ""
+            },
+            {
+                "id": "3586",
+                "name": "Measuring and dispensing pumps",
+                "description": ""
+            },
+            {
+                "id": "3589",
+                "name": "Service industry machinery, nec",
+                "description": ""
+            },
+            {
+                "id": "3592",
+                "name": "Carburetors, pistons, rings, valves",
+                "description": ""
+            },
+            {
+                "id": "3593",
+                "name": "Fluid power cylinders and actuators",
+                "description": ""
+            },
+            {
+                "id": "3594",
+                "name": "Fluid power pumps and motors",
+                "description": ""
+            },
+            {
+                "id": "3596",
+                "name": "Scales and balances, except laboratory",
+                "description": ""
+            },
+            {
+                "id": "3599",
+                "name": "Industrial machinery, nec",
+                "description": ""
+            },
+            {
+                "id": "3612",
+                "name": "Transformers, except electric",
+                "description": ""
+            },
+            {
+                "id": "3613",
+                "name": "Switchgear and switchboard apparatus",
+                "description": ""
+            },
+            {
+                "id": "3621",
+                "name": "Motors and generators",
+                "description": ""
+            },
+            {
+                "id": "3624",
+                "name": "Carbon and graphite products",
+                "description": ""
+            },
+            {
+                "id": "3625",
+                "name": "Relays and industrial controls",
+                "description": ""
+            },
+            {
+                "id": "3629",
+                "name": "Electrical industrial apparatus",
+                "description": ""
+            },
+            {
+                "id": "3631",
+                "name": "Household cooking equipment",
+                "description": ""
+            },
+            {
+                "id": "3632",
+                "name": "Household refrigerators and freezers",
+                "description": ""
+            },
+            {
+                "id": "3633",
+                "name": "Household laundry equipment",
+                "description": ""
+            },
+            {
+                "id": "3634",
+                "name": "Electric housewares and fans",
+                "description": ""
+            },
+            {
+                "id": "3635",
+                "name": "Household vacuum cleaners",
+                "description": ""
+            },
+            {
+                "id": "3639",
+                "name": "Household appliances, nec",
+                "description": ""
+            },
+            {
+                "id": "3641",
+                "name": "Electric lamps",
+                "description": ""
+            },
+            {
+                "id": "3643",
+                "name": "Current-carrying wiring devices",
+                "description": ""
+            },
+            {
+                "id": "3644",
+                "name": "Noncurrent-carrying wiring devices",
+                "description": ""
+            },
+            {
+                "id": "3645",
+                "name": "Residential lighting fixtures",
+                "description": ""
+            },
+            {
+                "id": "3646",
+                "name": "Commercial lighting fixtures",
+                "description": ""
+            },
+            {
+                "id": "3647",
+                "name": "Vehicular lighting equipment",
+                "description": ""
+            },
+            {
+                "id": "3648",
+                "name": "Lighting equipment, nec",
+                "description": ""
+            },
+            {
+                "id": "3651",
+                "name": "Household audio and video equipment",
+                "description": ""
+            },
+            {
+                "id": "3652",
+                "name": "Prerecorded records and tapes",
+                "description": ""
+            },
+            {
+                "id": "3661",
+                "name": "Telephone and telegraph apparatus",
+                "description": ""
+            },
+            {
+                "id": "3663",
+                "name": "Radio and t.v. communications equipment",
+                "description": ""
+            },
+            {
+                "id": "3669",
+                "name": "Communications equipment, nec",
+                "description": ""
+            },
+            {
+                "id": "3671",
+                "name": "Electron tubes",
+                "description": ""
+            },
+            {
+                "id": "3672",
+                "name": "Printed circuit boards",
+                "description": ""
+            },
+            {
+                "id": "3674",
+                "name": "Semiconductors and related devices",
+                "description": ""
+            },
+            {
+                "id": "3675",
+                "name": "Electronic capacitors",
+                "description": ""
+            },
+            {
+                "id": "3676",
+                "name": "Electronic resistors",
+                "description": ""
+            },
+            {
+                "id": "3677",
+                "name": "Electronic coils and transformers",
+                "description": ""
+            },
+            {
+                "id": "3678",
+                "name": "Electronic connectors",
+                "description": ""
+            },
+            {
+                "id": "3679",
+                "name": "Electronic components, nec",
+                "description": ""
+            },
+            {
+                "id": "3691",
+                "name": "Storage batteries",
+                "description": ""
+            },
+            {
+                "id": "3692",
+                "name": "Primary batteries, dry and wet",
+                "description": ""
+            },
+            {
+                "id": "3694",
+                "name": "Engine electrical equipment",
+                "description": ""
+            },
+            {
+                "id": "3695",
+                "name": "Magnetic and optical recording media",
+                "description": ""
+            },
+            {
+                "id": "3699",
+                "name": "Electrical equipment and supplies, nec",
+                "description": ""
+            },
+            {
+                "id": "3711",
+                "name": "Motor vehicles and car bodies",
+                "description": ""
+            },
+            {
+                "id": "3713",
+                "name": "Truck and bus bodies",
+                "description": ""
+            },
+            {
+                "id": "3714",
+                "name": "Motor vehicle parts and accessories",
+                "description": ""
+            },
+            {
+                "id": "3715",
+                "name": "Truck trailers",
+                "description": ""
+            },
+            {
+                "id": "3716",
+                "name": "Motor homes",
+                "description": ""
+            },
+            {
+                "id": "3721",
+                "name": "Aircraft",
+                "description": ""
+            },
+            {
+                "id": "3724",
+                "name": "Aircraft engines and engine parts",
+                "description": ""
+            },
+            {
+                "id": "3728",
+                "name": "Aircraft parts and equipment, nec",
+                "description": ""
+            },
+            {
+                "id": "3731",
+                "name": "Shipbuilding and repairing",
+                "description": ""
+            },
+            {
+                "id": "3732",
+                "name": "Boatbuilding and repairing",
+                "description": ""
+            },
+            {
+                "id": "3743",
+                "name": "Railroad equipment",
+                "description": ""
+            },
+            {
+                "id": "3751",
+                "name": "Motorcycles, bicycles, and parts",
+                "description": ""
+            },
+            {
+                "id": "3761",
+                "name": "Guided missiles and space vehicles",
+                "description": ""
+            },
+            {
+                "id": "3764",
+                "name": "Space propulsion units and parts",
+                "description": ""
+            },
+            {
+                "id": "3769",
+                "name": "Space vehicle equipment, nec",
+                "description": ""
+            },
+            {
+                "id": "3792",
+                "name": "Travel trailers and campers",
+                "description": ""
+            },
+            {
+                "id": "3795",
+                "name": "Tanks and tank components",
+                "description": ""
+            },
+            {
+                "id": "3799",
+                "name": "Transportation equipment, nec",
+                "description": ""
+            },
+            {
+                "id": "3812",
+                "name": "Search and navigation equipment",
+                "description": ""
+            },
+            {
+                "id": "3821",
+                "name": "Laboratory apparatus and furniture",
+                "description": ""
+            },
+            {
+                "id": "3822",
+                "name": "Environmental controls",
+                "description": ""
+            },
+            {
+                "id": "3823",
+                "name": "Process control instruments",
+                "description": ""
+            },
+            {
+                "id": "3824",
+                "name": "Fluid meters and counting devices",
+                "description": ""
+            },
+            {
+                "id": "3825",
+                "name": "Instruments to measure electricity",
+                "description": ""
+            },
+            {
+                "id": "3826",
+                "name": "Analytical instruments",
+                "description": ""
+            },
+            {
+                "id": "3827",
+                "name": "Optical instruments and lenses",
+                "description": ""
+            },
+            {
+                "id": "3829",
+                "name": "Measuring and controlling devices, nec",
+                "description": ""
+            },
+            {
+                "id": "3841",
+                "name": "Surgical and medical instruments",
+                "description": ""
+            },
+            {
+                "id": "3842",
+                "name": "Surgical appliances and supplies",
+                "description": ""
+            },
+            {
+                "id": "3843",
+                "name": "Dental equipment and supplies",
+                "description": ""
+            },
+            {
+                "id": "3844",
+                "name": "X-ray apparatus and tubes",
+                "description": ""
+            },
+            {
+                "id": "3845",
+                "name": "Electromedical equipment",
+                "description": ""
+            },
+            {
+                "id": "3851",
+                "name": "Ophthalmic goods",
+                "description": ""
+            },
+            {
+                "id": "3861",
+                "name": "Photographic equipment and supplies",
+                "description": ""
+            },
+            {
+                "id": "3873",
+                "name": "Watches, clocks, watchcases, and parts",
+                "description": ""
+            },
+            {
+                "id": "3911",
+                "name": "Jewelry, precious metal",
+                "description": ""
+            },
+            {
+                "id": "3914",
+                "name": "Silverware and plated ware",
+                "description": ""
+            },
+            {
+                "id": "3915",
+                "name": "Jewelers' materials and lapidary work",
+                "description": ""
+            },
+            {
+                "id": "3931",
+                "name": "Musical instruments",
+                "description": ""
+            },
+            {
+                "id": "3942",
+                "name": "Dolls and stuffed toys",
+                "description": ""
+            },
+            {
+                "id": "3944",
+                "name": "Games, toys, and children's vehicles",
+                "description": ""
+            },
+            {
+                "id": "3949",
+                "name": "Sporting and athletic goods, nec",
+                "description": ""
+            },
+            {
+                "id": "3951",
+                "name": "Pens and mechanical pencils",
+                "description": ""
+            },
+            {
+                "id": "3952",
+                "name": "Lead pencils and art goods",
+                "description": ""
+            },
+            {
+                "id": "3953",
+                "name": "Marking devices",
+                "description": ""
+            },
+            {
+                "id": "3955",
+                "name": "Carbon paper and inked ribbons",
+                "description": ""
+            },
+            {
+                "id": "3961",
+                "name": "Costume jewelry",
+                "description": ""
+            },
+            {
+                "id": "3965",
+                "name": "Fasteners, buttons, needles, and pins",
+                "description": ""
+            },
+            {
+                "id": "3991",
+                "name": "Brooms and brushes",
+                "description": ""
+            },
+            {
+                "id": "3993",
+                "name": "Signs and advertising specialties",
+                "description": ""
+            },
+            {
+                "id": "3995",
+                "name": "Burial caskets",
+                "description": ""
+            },
+            {
+                "id": "3996",
+                "name": "Hard surface floor coverings, nec",
+                "description": ""
+            },
+            {
+                "id": "3999",
+                "name": "Manufacturing industries, nec",
+                "description": ""
+            },
+            {
+                "id": "4011",
+                "name": "Railroads, line-haul operating",
+                "description": ""
+            },
+            {
+                "id": "4013",
+                "name": "Switching and terminal services",
+                "description": ""
+            },
+            {
+                "id": "4111",
+                "name": "Local and suburban transit",
+                "description": ""
+            },
+            {
+                "id": "4119",
+                "name": "Local passenger transportation, nec",
+                "description": ""
+            },
+            {
+                "id": "4121",
+                "name": "Taxicabs",
+                "description": ""
+            },
+            {
+                "id": "4131",
+                "name": "Intercity and rural bus transportation",
+                "description": ""
+            },
+            {
+                "id": "4141",
+                "name": "Local bus charter service",
+                "description": ""
+            },
+            {
+                "id": "4142",
+                "name": "Bus charter service, except local",
+                "description": ""
+            },
+            {
+                "id": "4151",
+                "name": "School buses",
+                "description": ""
+            },
+            {
+                "id": "4173",
+                "name": "Bus terminal and service facilities",
+                "description": ""
+            },
+            {
+                "id": "4212",
+                "name": "Local trucking, without storage",
+                "description": ""
+            },
+            {
+                "id": "4213",
+                "name": "Trucking, except local",
+                "description": ""
+            },
+            {
+                "id": "4214",
+                "name": "Local trucking with storage",
+                "description": ""
+            },
+            {
+                "id": "4215",
+                "name": "Courier services, except by air",
+                "description": ""
+            },
+            {
+                "id": "4221",
+                "name": "Farm product warehousing and storage",
+                "description": ""
+            },
+            {
+                "id": "4222",
+                "name": "Refrigerated warehousing and storage",
+                "description": ""
+            },
+            {
+                "id": "4225",
+                "name": "General warehousing and storage",
+                "description": ""
+            },
+            {
+                "id": "4226",
+                "name": "Special warehousing and storage, nec",
+                "description": ""
+            },
+            {
+                "id": "4231",
+                "name": "Trucking terminal facilities",
+                "description": ""
+            },
+            {
+                "id": "4311",
+                "name": "U.S. Postal Service",
+                "description": ""
+            },
+            {
+                "id": "4412",
+                "name": "Deep sea foreign transportation of freight",
+                "description": ""
+            },
+            {
+                "id": "4424",
+                "name": "Deep sea domestic transportation of freight",
+                "description": ""
+            },
+            {
+                "id": "4432",
+                "name": "Freight transportation on the great lakes",
+                "description": ""
+            },
+            {
+                "id": "4449",
+                "name": "Water transportation of freight",
+                "description": ""
+            },
+            {
+                "id": "4481",
+                "name": "Deep sea passenger transportation, except ferry",
+                "description": ""
+            },
+            {
+                "id": "4482",
+                "name": "Ferries",
+                "description": ""
+            },
+            {
+                "id": "4489",
+                "name": "Water passenger transportation",
+                "description": ""
+            },
+            {
+                "id": "4491",
+                "name": "Marine cargo handling",
+                "description": ""
+            },
+            {
+                "id": "4492",
+                "name": "Towing and tugboat service",
+                "description": ""
+            },
+            {
+                "id": "4493",
+                "name": "Marinas",
+                "description": ""
+            },
+            {
+                "id": "4499",
+                "name": "Water transportation services, nec",
+                "description": ""
+            },
+            {
+                "id": "4512",
+                "name": "Air transportation, scheduled",
+                "description": ""
+            },
+            {
+                "id": "4513",
+                "name": "Air courier services",
+                "description": ""
+            },
+            {
+                "id": "4522",
+                "name": "Air transportation, nonscheduled",
+                "description": ""
+            },
+            {
+                "id": "4581",
+                "name": "Airports, flying fields, and services",
+                "description": ""
+            },
+            {
+                "id": "4612",
+                "name": "Crude petroleum pipelines",
+                "description": ""
+            },
+            {
+                "id": "4613",
+                "name": "Refined petroleum pipelines",
+                "description": ""
+            },
+            {
+                "id": "4619",
+                "name": "Pipelines, nec",
+                "description": ""
+            },
+            {
+                "id": "4724",
+                "name": "Travel agencies",
+                "description": ""
+            },
+            {
+                "id": "4725",
+                "name": "Tour operators",
+                "description": ""
+            },
+            {
+                "id": "4729",
+                "name": "Passenger transportation arrangement",
+                "description": ""
+            },
+            {
+                "id": "4731",
+                "name": "Freight transportation arrangement",
+                "description": ""
+            },
+            {
+                "id": "4741",
+                "name": "Rental of railroad cars",
+                "description": ""
+            },
+            {
+                "id": "4783",
+                "name": "Packing and crating",
+                "description": ""
+            },
+            {
+                "id": "4785",
+                "name": "Inspection and fixed facilities",
+                "description": ""
+            },
+            {
+                "id": "4789",
+                "name": "Transportation services, nec",
+                "description": ""
+            },
+            {
+                "id": "4812",
+                "name": "Radiotelephone communication",
+                "description": ""
+            },
+            {
+                "id": "4813",
+                "name": "Telephone communication, except radio",
+                "description": ""
+            },
+            {
+                "id": "4822",
+                "name": "Telegraph and other communications",
+                "description": ""
+            },
+            {
+                "id": "4832",
+                "name": "Radio broadcasting stations",
+                "description": ""
+            },
+            {
+                "id": "4833",
+                "name": "Television broadcasting stations",
+                "description": ""
+            },
+            {
+                "id": "4841",
+                "name": "Cable and other pay television services",
+                "description": ""
+            },
+            {
+                "id": "4899",
+                "name": "Communication services, nec",
+                "description": ""
+            },
+            {
+                "id": "4911",
+                "name": "Electric services",
+                "description": ""
+            },
+            {
+                "id": "4922",
+                "name": "Natural gas transmission",
+                "description": ""
+            },
+            {
+                "id": "4923",
+                "name": "Gas transmission and distribution",
+                "description": ""
+            },
+            {
+                "id": "4924",
+                "name": "Natural gas distribution",
+                "description": ""
+            },
+            {
+                "id": "4925",
+                "name": "Gas production and/or distribution",
+                "description": ""
+            },
+            {
+                "id": "4931",
+                "name": "Electric and other services combined",
+                "description": ""
+            },
+            {
+                "id": "4932",
+                "name": "Gas and other services combined",
+                "description": ""
+            },
+            {
+                "id": "4939",
+                "name": "Combination utilities, nec",
+                "description": ""
+            },
+            {
+                "id": "4941",
+                "name": "Water supply",
+                "description": ""
+            },
+            {
+                "id": "4952",
+                "name": "Sewerage systems",
+                "description": ""
+            },
+            {
+                "id": "4953",
+                "name": "Refuse systems",
+                "description": ""
+            },
+            {
+                "id": "4959",
+                "name": "Sanitary services, nec",
+                "description": ""
+            },
+            {
+                "id": "4961",
+                "name": "Steam and air-conditioning supply",
+                "description": ""
+            },
+            {
+                "id": "4971",
+                "name": "Irrigation systems",
+                "description": ""
+            },
+            {
+                "id": "5012",
+                "name": "Automobiles and other motor vehicles",
+                "description": ""
+            },
+            {
+                "id": "5013",
+                "name": "Motor vehicle supplies and new parts",
+                "description": ""
+            },
+            {
+                "id": "5014",
+                "name": "Tires and tubes",
+                "description": ""
+            },
+            {
+                "id": "5015",
+                "name": "Motor vehicle parts, used",
+                "description": ""
+            },
+            {
+                "id": "5021",
+                "name": "Furniture",
+                "description": ""
+            },
+            {
+                "id": "5023",
+                "name": "Homefurnishings",
+                "description": ""
+            },
+            {
+                "id": "5031",
+                "name": "Lumber, plywood, and millwork",
+                "description": ""
+            },
+            {
+                "id": "5032",
+                "name": "Brick, stone, and related material",
+                "description": ""
+            },
+            {
+                "id": "5033",
+                "name": "Roofing, siding, and insulation",
+                "description": ""
+            },
+            {
+                "id": "5039",
+                "name": "Construction materials, nec",
+                "description": ""
+            },
+            {
+                "id": "5043",
+                "name": "Photographic equipment and supplies",
+                "description": ""
+            },
+            {
+                "id": "5044",
+                "name": "Office equipment",
+                "description": ""
+            },
+            {
+                "id": "5045",
+                "name": "Computers, peripherals, and software",
+                "description": ""
+            },
+            {
+                "id": "5046",
+                "name": "Commercial equipment, nec",
+                "description": ""
+            },
+            {
+                "id": "5047",
+                "name": "Medical and hospital equipment",
+                "description": ""
+            },
+            {
+                "id": "5048",
+                "name": "Ophthalmic goods",
+                "description": ""
+            },
+            {
+                "id": "5049",
+                "name": "Professional equipment, nec",
+                "description": ""
+            },
+            {
+                "id": "5051",
+                "name": "Metals service centers and offices",
+                "description": ""
+            },
+            {
+                "id": "5052",
+                "name": "Coal and other minerals and ores",
+                "description": ""
+            },
+            {
+                "id": "5063",
+                "name": "Electrical apparatus and equipment",
+                "description": ""
+            },
+            {
+                "id": "5064",
+                "name": "Electrical appliances, television and radio",
+                "description": ""
+            },
+            {
+                "id": "5065",
+                "name": "Electronic parts and equipment, nec",
+                "description": ""
+            },
+            {
+                "id": "5072",
+                "name": "Hardware",
+                "description": ""
+            },
+            {
+                "id": "5074",
+                "name": "Plumbing and hydronic heating supplies",
+                "description": ""
+            },
+            {
+                "id": "5075",
+                "name": "Warm air heating and air conditioning",
+                "description": ""
+            },
+            {
+                "id": "5078",
+                "name": "Refrigeration equipment and supplies",
+                "description": ""
+            },
+            {
+                "id": "5082",
+                "name": "Construction and mining machinery",
+                "description": ""
+            },
+            {
+                "id": "5083",
+                "name": "Farm and garden machinery",
+                "description": ""
+            },
+            {
+                "id": "5084",
+                "name": "Industrial machinery and equipment",
+                "description": ""
+            },
+            {
+                "id": "5085",
+                "name": "Industrial supplies",
+                "description": ""
+            },
+            {
+                "id": "5087",
+                "name": "Service establishment equipment",
+                "description": ""
+            },
+            {
+                "id": "5088",
+                "name": "Transportation equipment and supplies",
+                "description": ""
+            },
+            {
+                "id": "5091",
+                "name": "Sporting and recreation goods",
+                "description": ""
+            },
+            {
+                "id": "5092",
+                "name": "Toys and hobby goods and supplies",
+                "description": ""
+            },
+            {
+                "id": "5093",
+                "name": "Scrap and waste materials",
+                "description": ""
+            },
+            {
+                "id": "5094",
+                "name": "Jewelry and precious stones",
+                "description": ""
+            },
+            {
+                "id": "5099",
+                "name": "Durable goods, nec",
+                "description": ""
+            },
+            {
+                "id": "5111",
+                "name": "Printing and writing paper",
+                "description": ""
+            },
+            {
+                "id": "5112",
+                "name": "Stationery and office supplies",
+                "description": ""
+            },
+            {
+                "id": "5113",
+                "name": "Industrial and personal service paper",
+                "description": ""
+            },
+            {
+                "id": "5122",
+                "name": "Drugs, proprietaries, and sundries",
+                "description": ""
+            },
+            {
+                "id": "5131",
+                "name": "Piece goods and notions",
+                "description": ""
+            },
+            {
+                "id": "5136",
+                "name": "Men's and boy's clothing",
+                "description": ""
+            },
+            {
+                "id": "5137",
+                "name": "Women's and children's clothing",
+                "description": ""
+            },
+            {
+                "id": "5139",
+                "name": "Footwear",
+                "description": ""
+            },
+            {
+                "id": "5141",
+                "name": "Groceries, general line",
+                "description": ""
+            },
+            {
+                "id": "5142",
+                "name": "Packaged frozen goods",
+                "description": ""
+            },
+            {
+                "id": "5143",
+                "name": "Dairy products, except dried or canned",
+                "description": ""
+            },
+            {
+                "id": "5144",
+                "name": "Poultry and poultry products",
+                "description": ""
+            },
+            {
+                "id": "5145",
+                "name": "Confectionery",
+                "description": ""
+            },
+            {
+                "id": "5146",
+                "name": "Fish and seafoods",
+                "description": ""
+            },
+            {
+                "id": "5147",
+                "name": "Meats and meat products",
+                "description": ""
+            },
+            {
+                "id": "5148",
+                "name": "Fresh fruits and vegetables",
+                "description": ""
+            },
+            {
+                "id": "5149",
+                "name": "Groceries and related products, nec",
+                "description": ""
+            },
+            {
+                "id": "5153",
+                "name": "Grain and field beans",
+                "description": ""
+            },
+            {
+                "id": "5154",
+                "name": "Livestock",
+                "description": ""
+            },
+            {
+                "id": "5159",
+                "name": "Farm-product raw materials, nec",
+                "description": ""
+            },
+            {
+                "id": "5162",
+                "name": "Plastics materials and basic shapes",
+                "description": ""
+            },
+            {
+                "id": "5169",
+                "name": "Chemicals and allied products, nec",
+                "description": ""
+            },
+            {
+                "id": "5171",
+                "name": "Petroleum bulk stations and terminals",
+                "description": ""
+            },
+            {
+                "id": "5172",
+                "name": "Petroleum products, nec",
+                "description": ""
+            },
+            {
+                "id": "5181",
+                "name": "Beer and ale",
+                "description": ""
+            },
+            {
+                "id": "5182",
+                "name": "Wine and distilled beverages",
+                "description": ""
+            },
+            {
+                "id": "5191",
+                "name": "Farm supplies",
+                "description": ""
+            },
+            {
+                "id": "5192",
+                "name": "Books, periodicals, and newspapers",
+                "description": ""
+            },
+            {
+                "id": "5193",
+                "name": "Flowers and florists supplies",
+                "description": ""
+            },
+            {
+                "id": "5194",
+                "name": "Tobacco and tobacco products",
+                "description": ""
+            },
+            {
+                "id": "5198",
+                "name": "Paints, varnishes, and supplies",
+                "description": ""
+            },
+            {
+                "id": "5199",
+                "name": "Nondurable goods, nec",
+                "description": ""
+            },
+            {
+                "id": "5211",
+                "name": "Lumber and other building materials",
+                "description": ""
+            },
+            {
+                "id": "5231",
+                "name": "Paint, glass, and wallpaper stores",
+                "description": ""
+            },
+            {
+                "id": "5251",
+                "name": "Hardware stores",
+                "description": ""
+            },
+            {
+                "id": "5261",
+                "name": "Retail nurseries and garden stores",
+                "description": ""
+            },
+            {
+                "id": "5271",
+                "name": "Mobile home dealers",
+                "description": ""
+            },
+            {
+                "id": "5311",
+                "name": "Department stores",
+                "description": ""
+            },
+            {
+                "id": "5331",
+                "name": "Variety stores",
+                "description": ""
+            },
+            {
+                "id": "5399",
+                "name": "Miscellaneous general merchandise",
+                "description": ""
+            },
+            {
+                "id": "5411",
+                "name": "Grocery stores",
+                "description": ""
+            },
+            {
+                "id": "5421",
+                "name": "Meat and fish markets",
+                "description": ""
+            },
+            {
+                "id": "5431",
+                "name": "Fruit and vegetable markets",
+                "description": ""
+            },
+            {
+                "id": "5441",
+                "name": "Candy, nut, and confectionery stores",
+                "description": ""
+            },
+            {
+                "id": "5451",
+                "name": "Dairy products stores",
+                "description": ""
+            },
+            {
+                "id": "5461",
+                "name": "Retail bakeries",
+                "description": ""
+            },
+            {
+                "id": "5499",
+                "name": "Miscellaneous food stores",
+                "description": ""
+            },
+            {
+                "id": "5511",
+                "name": "New and used car dealers",
+                "description": ""
+            },
+            {
+                "id": "5521",
+                "name": "Used car dealers",
+                "description": ""
+            },
+            {
+                "id": "5531",
+                "name": "Auto and home supply stores",
+                "description": ""
+            },
+            {
+                "id": "5541",
+                "name": "Gasoline service stations",
+                "description": ""
+            },
+            {
+                "id": "5551",
+                "name": "Boat dealers",
+                "description": ""
+            },
+            {
+                "id": "5561",
+                "name": "Recreational vehicle dealers",
+                "description": ""
+            },
+            {
+                "id": "5571",
+                "name": "Motorcycle dealers",
+                "description": ""
+            },
+            {
+                "id": "5599",
+                "name": "Automotive dealers, nec",
+                "description": ""
+            },
+            {
+                "id": "5611",
+                "name": "Men's and boys' clothing stores",
+                "description": ""
+            },
+            {
+                "id": "5621",
+                "name": "Women's clothing stores",
+                "description": ""
+            },
+            {
+                "id": "5632",
+                "name": "Women's accessory and specialty stores",
+                "description": ""
+            },
+            {
+                "id": "5641",
+                "name": "Children's and infants' wear stores",
+                "description": ""
+            },
+            {
+                "id": "5651",
+                "name": "Family clothing stores",
+                "description": ""
+            },
+            {
+                "id": "5661",
+                "name": "Shoe stores",
+                "description": ""
+            },
+            {
+                "id": "5699",
+                "name": "Miscellaneous apparel and accessories",
+                "description": ""
+            },
+            {
+                "id": "5712",
+                "name": "Furniture stores",
+                "description": ""
+            },
+            {
+                "id": "5713",
+                "name": "Floor covering stores",
+                "description": ""
+            },
+            {
+                "id": "5714",
+                "name": "Drapery and upholstery stores",
+                "description": ""
+            },
+            {
+                "id": "5719",
+                "name": "Miscellaneous homefurnishings",
+                "description": ""
+            },
+            {
+                "id": "5722",
+                "name": "Household appliance stores",
+                "description": ""
+            },
+            {
+                "id": "5731",
+                "name": "Radio, television, and electronic stores",
+                "description": ""
+            },
+            {
+                "id": "5734",
+                "name": "Computer and software stores",
+                "description": ""
+            },
+            {
+                "id": "5735",
+                "name": "Record and prerecorded tape stores",
+                "description": ""
+            },
+            {
+                "id": "5736",
+                "name": "Musical instrument stores",
+                "description": ""
+            },
+            {
+                "id": "5812",
+                "name": "Eating places",
+                "description": ""
+            },
+            {
+                "id": "5813",
+                "name": "Drinking places",
+                "description": ""
+            },
+            {
+                "id": "5912",
+                "name": "Drug stores and proprietary stores",
+                "description": ""
+            },
+            {
+                "id": "5921",
+                "name": "Liquor stores",
+                "description": ""
+            },
+            {
+                "id": "5932",
+                "name": "Used merchandise stores",
+                "description": ""
+            },
+            {
+                "id": "5941",
+                "name": "Sporting goods and bicycle shops",
+                "description": ""
+            },
+            {
+                "id": "5942",
+                "name": "Book stores",
+                "description": ""
+            },
+            {
+                "id": "5943",
+                "name": "Stationery stores",
+                "description": ""
+            },
+            {
+                "id": "5944",
+                "name": "Jewelry stores",
+                "description": ""
+            },
+            {
+                "id": "5945",
+                "name": "Hobby, toy, and game shops",
+                "description": ""
+            },
+            {
+                "id": "5946",
+                "name": "Camera and photographic supply stores",
+                "description": ""
+            },
+            {
+                "id": "5947",
+                "name": "Gift, novelty, and souvenir shop",
+                "description": ""
+            },
+            {
+                "id": "5948",
+                "name": "Luggage and leather goods stores",
+                "description": ""
+            },
+            {
+                "id": "5949",
+                "name": "Sewing, needlework, and piece goods",
+                "description": ""
+            },
+            {
+                "id": "5961",
+                "name": "Catalog and mail-order houses",
+                "description": ""
+            },
+            {
+                "id": "5962",
+                "name": "Merchandising machine operators",
+                "description": ""
+            },
+            {
+                "id": "5963",
+                "name": "Direct selling establishments",
+                "description": ""
+            },
+            {
+                "id": "5983",
+                "name": "Fuel oil dealers",
+                "description": ""
+            },
+            {
+                "id": "5984",
+                "name": "Liquefied petroleum gas dealers",
+                "description": ""
+            },
+            {
+                "id": "5989",
+                "name": "Fuel dealers, nec",
+                "description": ""
+            },
+            {
+                "id": "5992",
+                "name": "Florists",
+                "description": ""
+            },
+            {
+                "id": "5993",
+                "name": "Tobacco stores and stands",
+                "description": ""
+            },
+            {
+                "id": "5994",
+                "name": "News dealers and newsstands",
+                "description": ""
+            },
+            {
+                "id": "5995",
+                "name": "Optical goods stores",
+                "description": ""
+            },
+            {
+                "id": "5999",
+                "name": "Miscellaneous retail stores, nec",
+                "description": ""
+            },
+            {
+                "id": "6011",
+                "name": "Federal reserve banks",
+                "description": ""
+            },
+            {
+                "id": "6019",
+                "name": "Central reserve depository, nec",
+                "description": ""
+            },
+            {
+                "id": "6021",
+                "name": "National commercial banks",
+                "description": ""
+            },
+            {
+                "id": "6022",
+                "name": "State commercial banks",
+                "description": ""
+            },
+            {
+                "id": "6029",
+                "name": "Commercial banks, nec",
+                "description": ""
+            },
+            {
+                "id": "6035",
+                "name": "Federal savings institutions",
+                "description": ""
+            },
+            {
+                "id": "6036",
+                "name": "Savings institutions, except federal",
+                "description": ""
+            },
+            {
+                "id": "6061",
+                "name": "Federal credit unions",
+                "description": ""
+            },
+            {
+                "id": "6062",
+                "name": "State credit unions",
+                "description": ""
+            },
+            {
+                "id": "6081",
+                "name": "Foreign bank and branches and agencies",
+                "description": ""
+            },
+            {
+                "id": "6082",
+                "name": "Foreign trade and international banks",
+                "description": ""
+            },
+            {
+                "id": "6091",
+                "name": "Nondeposit trust facilities",
+                "description": ""
+            },
+            {
+                "id": "6099",
+                "name": "Functions related to depository banking",
+                "description": ""
+            },
+            {
+                "id": "6111",
+                "name": "Federal and federally sponsored credit",
+                "description": ""
+            },
+            {
+                "id": "6141",
+                "name": "Personal credit institutions",
+                "description": ""
+            },
+            {
+                "id": "6153",
+                "name": "Short-term business credit",
+                "description": ""
+            },
+            {
+                "id": "6159",
+                "name": "Miscellaneous business credit",
+                "description": ""
+            },
+            {
+                "id": "6162",
+                "name": "Mortgage bankers and correspondents",
+                "description": ""
+            },
+            {
+                "id": "6163",
+                "name": "Loan brokers",
+                "description": ""
+            },
+            {
+                "id": "6211",
+                "name": "Security brokers and dealers",
+                "description": ""
+            },
+            {
+                "id": "6221",
+                "name": "Commodity contracts brokers, dealers",
+                "description": ""
+            },
+            {
+                "id": "6231",
+                "name": "Security and commodity exchanges",
+                "description": ""
+            },
+            {
+                "id": "6282",
+                "name": "Investment advice",
+                "description": ""
+            },
+            {
+                "id": "6289",
+                "name": "Security and commodity service",
+                "description": ""
+            },
+            {
+                "id": "6311",
+                "name": "Life insurance",
+                "description": ""
+            },
+            {
+                "id": "6321",
+                "name": "Accident and health insurance",
+                "description": ""
+            },
+            {
+                "id": "6324",
+                "name": "Hospital and medical service plans",
+                "description": ""
+            },
+            {
+                "id": "6331",
+                "name": "Fire, marine, and casualty insurance",
+                "description": ""
+            },
+            {
+                "id": "6351",
+                "name": "Surety insurance",
+                "description": ""
+            },
+            {
+                "id": "6361",
+                "name": "Title insurance",
+                "description": ""
+            },
+            {
+                "id": "6371",
+                "name": "Pension, health, and welfare funds",
+                "description": ""
+            },
+            {
+                "id": "6399",
+                "name": "Insurance carriers, nec",
+                "description": ""
+            },
+            {
+                "id": "6411",
+                "name": "Insurance agents, brokers, and service",
+                "description": ""
+            },
+            {
+                "id": "6512",
+                "name": "Nonresidential building operators",
+                "description": ""
+            },
+            {
+                "id": "6513",
+                "name": "Apartment building operators",
+                "description": ""
+            },
+            {
+                "id": "6514",
+                "name": "Dwelling operators, except apartments",
+                "description": ""
+            },
+            {
+                "id": "6515",
+                "name": "Mobile home site operators",
+                "description": ""
+            },
+            {
+                "id": "6517",
+                "name": "Railroad property lessors",
+                "description": ""
+            },
+            {
+                "id": "6519",
+                "name": "Real property lessors, nec",
+                "description": ""
+            },
+            {
+                "id": "6531",
+                "name": "Real estate agents and managers",
+                "description": ""
+            },
+            {
+                "id": "6541",
+                "name": "Title abstract offices",
+                "description": ""
+            },
+            {
+                "id": "6552",
+                "name": "Subdividers and developers, nec",
+                "description": ""
+            },
+            {
+                "id": "6553",
+                "name": "Cemetery subdividers and developers",
+                "description": ""
+            },
+            {
+                "id": "6712",
+                "name": "Bank holding companies",
+                "description": ""
+            },
+            {
+                "id": "6719",
+                "name": "Holding companies, nec",
+                "description": ""
+            },
+            {
+                "id": "6722",
+                "name": "Management investment, open-ended",
+                "description": ""
+            },
+            {
+                "id": "6726",
+                "name": "Investment offices, nec",
+                "description": ""
+            },
+            {
+                "id": "6732",
+                "name": "Trusts: educational, religious, etc.",
+                "description": ""
+            },
+            {
+                "id": "6733",
+                "name": "Trusts, nec",
+                "description": ""
+            },
+            {
+                "id": "6792",
+                "name": "Oil royalty traders",
+                "description": ""
+            },
+            {
+                "id": "6794",
+                "name": "Patent owners and lessors",
+                "description": ""
+            },
+            {
+                "id": "6798",
+                "name": "Real estate investment trusts",
+                "description": ""
+            },
+            {
+                "id": "6799",
+                "name": "Investors, nec",
+                "description": ""
+            },
+            {
+                "id": "7011",
+                "name": "Hotels and motels",
+                "description": ""
+            },
+            {
+                "id": "7021",
+                "name": "Rooming and boarding houses",
+                "description": ""
+            },
+            {
+                "id": "7032",
+                "name": "Sporting and recreational camps",
+                "description": ""
+            },
+            {
+                "id": "7033",
+                "name": "Trailer parks and campsites",
+                "description": ""
+            },
+            {
+                "id": "7041",
+                "name": "Membership-basis organization hotels",
+                "description": ""
+            },
+            {
+                "id": "7211",
+                "name": "Power laundries, family and commercial",
+                "description": ""
+            },
+            {
+                "id": "7212",
+                "name": "Garment pressing and cleaners' agents",
+                "description": ""
+            },
+            {
+                "id": "7213",
+                "name": "Linen supply",
+                "description": ""
+            },
+            {
+                "id": "7215",
+                "name": "Coin-operated laundries and cleaning",
+                "description": ""
+            },
+            {
+                "id": "7216",
+                "name": "Drycleaning plants, except rugs",
+                "description": ""
+            },
+            {
+                "id": "7217",
+                "name": "Carpet and upholstery cleaning",
+                "description": ""
+            },
+            {
+                "id": "7218",
+                "name": "Industrial launderers",
+                "description": ""
+            },
+            {
+                "id": "7219",
+                "name": "Laundry and garment services, nec",
+                "description": ""
+            },
+            {
+                "id": "7221",
+                "name": "Photographic studios, portrait",
+                "description": ""
+            },
+            {
+                "id": "7231",
+                "name": "Beauty shops",
+                "description": ""
+            },
+            {
+                "id": "7241",
+                "name": "Barber shops",
+                "description": ""
+            },
+            {
+                "id": "7251",
+                "name": "Shoe repair and shoeshine parlors",
+                "description": ""
+            },
+            {
+                "id": "7261",
+                "name": "Funeral service and crematories",
+                "description": ""
+            },
+            {
+                "id": "7291",
+                "name": "Tax return preparation services",
+                "description": ""
+            },
+            {
+                "id": "7299",
+                "name": "Miscellaneous personal services",
+                "description": ""
+            },
+            {
+                "id": "7311",
+                "name": "Advertising agencies",
+                "description": ""
+            },
+            {
+                "id": "7312",
+                "name": "Outdoor advertising services",
+                "description": ""
+            },
+            {
+                "id": "7313",
+                "name": "Radio, television, publisher representatives",
+                "description": ""
+            },
+            {
+                "id": "7319",
+                "name": "Advertising, nec",
+                "description": ""
+            },
+            {
+                "id": "7322",
+                "name": "Adjustment and collection services",
+                "description": ""
+            },
+            {
+                "id": "7323",
+                "name": "Credit reporting services",
+                "description": ""
+            },
+            {
+                "id": "7331",
+                "name": "Direct mail advertising services",
+                "description": ""
+            },
+            {
+                "id": "7334",
+                "name": "Photocopying and duplicating services",
+                "description": ""
+            },
+            {
+                "id": "7335",
+                "name": "Commercial photography",
+                "description": ""
+            },
+            {
+                "id": "7336",
+                "name": "Commercial art and graphic design",
+                "description": ""
+            },
+            {
+                "id": "7338",
+                "name": "Secretarial and court reporting",
+                "description": ""
+            },
+            {
+                "id": "7342",
+                "name": "Disinfecting and pest control services",
+                "description": ""
+            },
+            {
+                "id": "7349",
+                "name": "Building maintenance services, nec",
+                "description": ""
+            },
+            {
+                "id": "7352",
+                "name": "Medical equipment rental",
+                "description": ""
+            },
+            {
+                "id": "7353",
+                "name": "Heavy construction equipment rental",
+                "description": ""
+            },
+            {
+                "id": "7359",
+                "name": "Equipment rental and leasing, nec",
+                "description": ""
+            },
+            {
+                "id": "7361",
+                "name": "Employment agencies",
+                "description": ""
+            },
+            {
+                "id": "7363",
+                "name": "Help supply services",
+                "description": ""
+            },
+            {
+                "id": "7371",
+                "name": "Custom computer programming services",
+                "description": ""
+            },
+            {
+                "id": "7372",
+                "name": "Prepackaged software",
+                "description": ""
+            },
+            {
+                "id": "7373",
+                "name": "Computer integrated systems design",
+                "description": ""
+            },
+            {
+                "id": "7374",
+                "name": "Data processing and preparation",
+                "description": ""
+            },
+            {
+                "id": "7375",
+                "name": "Information retrieval services",
+                "description": ""
+            },
+            {
+                "id": "7376",
+                "name": "Computer facilities management",
+                "description": ""
+            },
+            {
+                "id": "7377",
+                "name": "Computer rental and leasing",
+                "description": ""
+            },
+            {
+                "id": "7378",
+                "name": "Computer maintenance and repair",
+                "description": ""
+            },
+            {
+                "id": "7379",
+                "name": "Computer related services, nec",
+                "description": ""
+            },
+            {
+                "id": "7381",
+                "name": "Detective and armored car services",
+                "description": ""
+            },
+            {
+                "id": "7382",
+                "name": "Security systems services",
+                "description": ""
+            },
+            {
+                "id": "7383",
+                "name": "News syndicates",
+                "description": ""
+            },
+            {
+                "id": "7384",
+                "name": "Photofinish laboratories",
+                "description": ""
+            },
+            {
+                "id": "7389",
+                "name": "Business services, nec",
+                "description": ""
+            },
+            {
+                "id": "7513",
+                "name": "Truck rental and leasing, without drivers",
+                "description": ""
+            },
+            {
+                "id": "7514",
+                "name": "Passenger car rental",
+                "description": ""
+            },
+            {
+                "id": "7515",
+                "name": "Passenger car leasing",
+                "description": ""
+            },
+            {
+                "id": "7519",
+                "name": "Utility trailer rental",
+                "description": ""
+            },
+            {
+                "id": "7521",
+                "name": "Automobile parking",
+                "description": ""
+            },
+            {
+                "id": "7532",
+                "name": "Top and body repair and paint shops",
+                "description": ""
+            },
+            {
+                "id": "7533",
+                "name": "Auto exhaust system repair shops",
+                "description": ""
+            },
+            {
+                "id": "7534",
+                "name": "Tire retreading and repair shops",
+                "description": ""
+            },
+            {
+                "id": "7536",
+                "name": "Automotive glass replacement shops",
+                "description": ""
+            },
+            {
+                "id": "7537",
+                "name": "Automotive transmission repair shops",
+                "description": ""
+            },
+            {
+                "id": "7538",
+                "name": "General automotive repair shops",
+                "description": ""
+            },
+            {
+                "id": "7539",
+                "name": "Automotive repair shops, nec",
+                "description": ""
+            },
+            {
+                "id": "7542",
+                "name": "Carwashes",
+                "description": ""
+            },
+            {
+                "id": "7549",
+                "name": "Automotive services, nec",
+                "description": ""
+            },
+            {
+                "id": "7622",
+                "name": "Radio and television repair",
+                "description": ""
+            },
+            {
+                "id": "7623",
+                "name": "Refrigeration service and repair",
+                "description": ""
+            },
+            {
+                "id": "7629",
+                "name": "Electrical repair shops",
+                "description": ""
+            },
+            {
+                "id": "7631",
+                "name": "Watch, clock, and jewelry repair",
+                "description": ""
+            },
+            {
+                "id": "7641",
+                "name": "Reupholstery and furniture repair",
+                "description": ""
+            },
+            {
+                "id": "7692",
+                "name": "Welding repair",
+                "description": ""
+            },
+            {
+                "id": "7694",
+                "name": "Armature rewinding shops",
+                "description": ""
+            },
+            {
+                "id": "7699",
+                "name": "Repair services, nec",
+                "description": ""
+            },
+            {
+                "id": "7812",
+                "name": "Motion picture and video production",
+                "description": ""
+            },
+            {
+                "id": "7819",
+                "name": "Services allied to motion pictures",
+                "description": ""
+            },
+            {
+                "id": "7822",
+                "name": "Motion picture and tape distribution",
+                "description": ""
+            },
+            {
+                "id": "7829",
+                "name": "Motion picture distribution services",
+                "description": ""
+            },
+            {
+                "id": "7832",
+                "name": "Motion picture theaters, except drive-in",
+                "description": ""
+            },
+            {
+                "id": "7833",
+                "name": "Drive-in motion picture theaters",
+                "description": ""
+            },
+            {
+                "id": "7841",
+                "name": "Video tape rental",
+                "description": ""
+            },
+            {
+                "id": "7911",
+                "name": "Dance studios, schools, and halls",
+                "description": ""
+            },
+            {
+                "id": "7922",
+                "name": "Theatrical producers and services",
+                "description": ""
+            },
+            {
+                "id": "7929",
+                "name": "Entertainers and entertainment groups",
+                "description": ""
+            },
+            {
+                "id": "7933",
+                "name": "Bowling centers",
+                "description": ""
+            },
+            {
+                "id": "7941",
+                "name": "Sports clubs, managers, and promoters",
+                "description": ""
+            },
+            {
+                "id": "7948",
+                "name": "Racing, including track operation",
+                "description": ""
+            },
+            {
+                "id": "7991",
+                "name": "Physical fitness facilities",
+                "description": ""
+            },
+            {
+                "id": "7992",
+                "name": "Public golf courses",
+                "description": ""
+            },
+            {
+                "id": "7993",
+                "name": "Coin-operated amusement devices",
+                "description": ""
+            },
+            {
+                "id": "7996",
+                "name": "Amusement parks",
+                "description": ""
+            },
+            {
+                "id": "7997",
+                "name": "Membership sports and recreation clubs",
+                "description": ""
+            },
+            {
+                "id": "7999",
+                "name": "Amusement and recreation, nec",
+                "description": ""
+            },
+            {
+                "id": "8011",
+                "name": "Offices and clinics of medical doctors",
+                "description": ""
+            },
+            {
+                "id": "8021",
+                "name": "Offices and clinics of dentists",
+                "description": ""
+            },
+            {
+                "id": "8031",
+                "name": "Offices and clinics of osteopathic physicians",
+                "description": ""
+            },
+            {
+                "id": "8041",
+                "name": "Offices and clinics of chiropractors",
+                "description": ""
+            },
+            {
+                "id": "8042",
+                "name": "Offices and clinics of optometrists",
+                "description": ""
+            },
+            {
+                "id": "8043",
+                "name": "Offices and clinics of podiatrists",
+                "description": ""
+            },
+            {
+                "id": "8049",
+                "name": "Offices of health practitioner",
+                "description": ""
+            },
+            {
+                "id": "8051",
+                "name": "Skilled nursing care facilities",
+                "description": ""
+            },
+            {
+                "id": "8052",
+                "name": "Intermediate care facilities",
+                "description": ""
+            },
+            {
+                "id": "8059",
+                "name": "Nursing and personal care, nec",
+                "description": ""
+            },
+            {
+                "id": "8062",
+                "name": "General medical and surgical hospitals",
+                "description": ""
+            },
+            {
+                "id": "8063",
+                "name": "Psychiatric hospitals",
+                "description": ""
+            },
+            {
+                "id": "8069",
+                "name": "Specialty hospitals, except psychiatric",
+                "description": ""
+            },
+            {
+                "id": "8071",
+                "name": "Medical laboratories",
+                "description": ""
+            },
+            {
+                "id": "8072",
+                "name": "Dental laboratories",
+                "description": ""
+            },
+            {
+                "id": "8082",
+                "name": "Home health care services",
+                "description": ""
+            },
+            {
+                "id": "8092",
+                "name": "Kidney dialysis centers",
+                "description": ""
+            },
+            {
+                "id": "8093",
+                "name": "Specialty outpatient clinics, nec",
+                "description": ""
+            },
+            {
+                "id": "8099",
+                "name": "Health and allied services, nec",
+                "description": ""
+            },
+            {
+                "id": "8111",
+                "name": "Legal services",
+                "description": ""
+            },
+            {
+                "id": "8211",
+                "name": "Elementary and secondary schools",
+                "description": ""
+            },
+            {
+                "id": "8221",
+                "name": "Colleges and universities",
+                "description": ""
+            },
+            {
+                "id": "8222",
+                "name": "Junior colleges",
+                "description": ""
+            },
+            {
+                "id": "8231",
+                "name": "Libraries",
+                "description": ""
+            },
+            {
+                "id": "8243",
+                "name": "Data processing schools",
+                "description": ""
+            },
+            {
+                "id": "8244",
+                "name": "Business and secretarial schools",
+                "description": ""
+            },
+            {
+                "id": "8249",
+                "name": "Vocational schools, nec",
+                "description": ""
+            },
+            {
+                "id": "8299",
+                "name": "Schools and educational services",
+                "description": ""
+            },
+            {
+                "id": "8322",
+                "name": "Individual and family services",
+                "description": ""
+            },
+            {
+                "id": "8331",
+                "name": "Job training and related services",
+                "description": ""
+            },
+            {
+                "id": "8351",
+                "name": "Child day care services",
+                "description": ""
+            },
+            {
+                "id": "8361",
+                "name": "Residential care",
+                "description": ""
+            },
+            {
+                "id": "8399",
+                "name": "Social services, nec",
+                "description": ""
+            },
+            {
+                "id": "8412",
+                "name": "Museums and art galleries",
+                "description": ""
+            },
+            {
+                "id": "8422",
+                "name": "Botanical and zoological gardens",
+                "description": ""
+            },
+            {
+                "id": "8611",
+                "name": "Business associations",
+                "description": ""
+            },
+            {
+                "id": "8621",
+                "name": "Professional organizations",
+                "description": ""
+            },
+            {
+                "id": "8631",
+                "name": "Labor organizations",
+                "description": ""
+            },
+            {
+                "id": "8641",
+                "name": "Civic and social associations",
+                "description": ""
+            },
+            {
+                "id": "8651",
+                "name": "Political organizations",
+                "description": ""
+            },
+            {
+                "id": "8661",
+                "name": "Religious organizations",
+                "description": ""
+            },
+            {
+                "id": "8699",
+                "name": "Membership organizations, nec",
+                "description": ""
+            },
+            {
+                "id": "8711",
+                "name": "Engineering services",
+                "description": ""
+            },
+            {
+                "id": "8712",
+                "name": "Architectural services",
+                "description": ""
+            },
+            {
+                "id": "8713",
+                "name": "Surveying services",
+                "description": ""
+            },
+            {
+                "id": "8721",
+                "name": "Accounting, auditing, and bookkeeping",
+                "description": ""
+            },
+            {
+                "id": "8731",
+                "name": "Commercial physical research",
+                "description": ""
+            },
+            {
+                "id": "8732",
+                "name": "Commercial nonphysical research",
+                "description": ""
+            },
+            {
+                "id": "8733",
+                "name": "Noncommercial research organizations",
+                "description": ""
+            },
+            {
+                "id": "8734",
+                "name": "Testing laboratories",
+                "description": ""
+            },
+            {
+                "id": "8741",
+                "name": "Management services",
+                "description": ""
+            },
+            {
+                "id": "8742",
+                "name": "Management consulting services",
+                "description": ""
+            },
+            {
+                "id": "8743",
+                "name": "Public relations services",
+                "description": ""
+            },
+            {
+                "id": "8744",
+                "name": "Facilities support services",
+                "description": ""
+            },
+            {
+                "id": "8748",
+                "name": "Business consulting, nec",
+                "description": ""
+            },
+            {
+                "id": "8811",
+                "name": "Private households",
+                "description": ""
+            },
+            {
+                "id": "8999",
+                "name": "Services, nec",
+                "description": ""
+            },
+            {
+                "id": "9111",
+                "name": "Executive offices",
+                "description": ""
+            },
+            {
+                "id": "9121",
+                "name": "Legislative bodies",
+                "description": ""
+            },
+            {
+                "id": "9131",
+                "name": "Executive and legislative combined",
+                "description": ""
+            },
+            {
+                "id": "9199",
+                "name": "General government, nec",
+                "description": ""
+            },
+            {
+                "id": "9211",
+                "name": "Courts",
+                "description": ""
+            },
+            {
+                "id": "9221",
+                "name": "Police protection",
+                "description": ""
+            },
+            {
+                "id": "9222",
+                "name": "Legal counsel and prosecution",
+                "description": ""
+            },
+            {
+                "id": "9223",
+                "name": "Correctional institutions",
+                "description": ""
+            },
+            {
+                "id": "9224",
+                "name": "Fire protection",
+                "description": ""
+            },
+            {
+                "id": "9229",
+                "name": "Public order and safety, nec",
+                "description": ""
+            },
+            {
+                "id": "9311",
+                "name": "Finance, taxation, and monetary policy",
+                "description": ""
+            },
+            {
+                "id": "9411",
+                "name": "Administration of educational programs",
+                "description": ""
+            },
+            {
+                "id": "9431",
+                "name": "Administration of public health programs",
+                "description": ""
+            },
+            {
+                "id": "9441",
+                "name": "Administration of social and manpower programs",
+                "description": ""
+            },
+            {
+                "id": "9451",
+                "name": "Administration of veterans' affairs",
+                "description": ""
+            },
+            {
+                "id": "9511",
+                "name": "Air, water, and solid waste management",
+                "description": ""
+            },
+            {
+                "id": "9512",
+                "name": "Land, mineral, and wildlife conservation",
+                "description": ""
+            },
+            {
+                "id": "9531",
+                "name": "Housing programs",
+                "description": ""
+            },
+            {
+                "id": "9532",
+                "name": "Urban and community development",
+                "description": ""
+            },
+            {
+                "id": "9611",
+                "name": "Administration of general economic programs",
+                "description": ""
+            },
+            {
+                "id": "9621",
+                "name": "Regulation, administration of transportation",
+                "description": ""
+            },
+            {
+                "id": "9631",
+                "name": "Regulation, administration of utilities",
+                "description": ""
+            },
+            {
+                "id": "9641",
+                "name": "Regulation of agricultural marketing",
+                "description": ""
+            },
+            {
+                "id": "9651",
+                "name": "Regulation, miscellaneous commercial sectors",
+                "description": ""
+            },
+            {
+                "id": "9661",
+                "name": "Space research and technology",
+                "description": ""
+            },
+            {
+                "id": "9711",
+                "name": "National security",
+                "description": ""
+            },
+            {
+                "id": "9721",
+                "name": "International affairs",
+                "description": ""
+            },
+            {
+                "id": "9999",
+                "name": "Nonclassifiable establishments",
+                "description": ""
+            }
+        ]
+    }
+}
